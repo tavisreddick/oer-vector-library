@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characterPose xmlns="http://www.sleepingdog.org.uk/oer-vector-library/character-pose"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sleepingdog.org.uk/oer-vector-library/character-pose characterPose.xsd">
+	<facing base="front">
+		<pose>
+			<title>Neutral stance, facing front</title>
+			<component title="person-1-front-arms-right" rotation="10"/>
+			<component title="person-1-front-arms-left" rotation="-10"/>
+		</pose>
+	</facing>
+</characterPose>

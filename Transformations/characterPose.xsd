@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
+	targetNamespace="http://www.sleepingdog.org.uk/oer-vector-library/character-pose"
+	xmlns="http://www.sleepingdog.org.uk/oer-vector-library/character-pose">
+	<xs:simpleType name="viewpoint">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="front"/>
+			<xs:enumeration value="back"/>
+			<xs:enumeration value="right"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="angleDegrees">
+		<xs:restriction base="xs:short">
+			<xs:minInclusive value="-359"/>
+			<xs:maxInclusive value="359"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="characterPose">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="facing" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="pose" minOccurs="1" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="title" type="xs:string" />
+										<xs:element name="component" minOccurs="1" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:attribute name="title" type="xs:string" />
+												<xs:attribute name="rotation" type="angleDegrees" />
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="base" type="viewpoint" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
