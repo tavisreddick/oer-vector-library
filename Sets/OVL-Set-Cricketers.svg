@@ -1,66 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px"
-	 height="1200px" viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
 <style type="text/css">
-<![CDATA[
-	.st0{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st1{font-family:'Verdana';}
-	.st2{opacity:0.3;fill:#95D7E4;}
+	.flesh{fill:#C7B299;stroke:#603813;stroke-miterlimit:10;}
+	.cricketclothes{fill:#FFFFF0;stroke:#CCC0C0;stroke-miterlimit:10;}
+	.sprue{fill:none;stroke:#FF0000;stroke-width:2;stroke-miterlimit:10;}
+	.backcloth{opacity:0.3;fill:#95D7E4;}
+	.socket{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.ball{opacity:0.9;fill:none;stroke:#33FF66;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st0{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
+	.st1{fill:#C7B299;stroke:#603813;stroke-miterlimit:10;}
+	.st2{opacity:0.8;}
 	.st3{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9652,0.9652;}
-	.st4{fill:#FFFFF0;stroke:#CCC0C0;stroke-miterlimit:10;}
-	.st5{font-family:'Verdana-Bold';}
-	.st6{fill:#333333;stroke:#66666B;stroke-miterlimit:10;}
-	.st7{fill:#C7B299;stroke:#603813;stroke-miterlimit:10;}
-	.st8{font-family:'MyriadPro-Regular';}
-	.st9{opacity:0.8;}
-	.st10{fill:none;stroke:#CCC0C0;stroke-miterlimit:10;}
-	.st11{fill:#FF0000;}
-	.st12{fill:#FFFFF0;}
-	.st13{fill:#C7B299;stroke:#603813;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st14{fill:none;}
-	.st15{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
-	.st16{fill:#00FF00;}
-	.st17{font-size:10;}
-	.st18{font-size:12;}
-	.st19{font-size:14;}
-	.st20{opacity:0.9;fill:none;stroke:#33FF66;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st21{fill:none;stroke:#FF0000;stroke-width:2;stroke-miterlimit:10;}
-]]>
+	.st4{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st5{fill:#C7B299;stroke:#603813;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#FFFFF0;}
+	.st7{fill:none;stroke:#CCC0C0;stroke-miterlimit:10;}
+	.st8{fill:#333333;stroke:#66666B;stroke-miterlimit:10;}
+	.st9{fill:none;}
+	.st10{font-family:'Verdana-Bold';}
+	.st11{font-size:14px;}
+	.st12{font-size:12px;}
+	.st13{font-family:'Verdana';}
+	.st14{font-size:10px;}
+	.st15{fill:#00FF00;}
+	.st16{font-family:'MyriadPro-Regular';}
+	.st17{fill:#FF0000;}
 </style>
 <g id="Background">
-	<rect class="st2" width="300" height="300"/>
-	<rect x="300" class="st2" width="300" height="300"/>
-	<rect x="600" class="st2" width="300" height="300"/>
-	<line class="st21" x1="300" y1="0" x2="300" y2="1200"/>
-	<line class="st21" x1="600" y1="0" x2="600" y2="1200"/>
-	<line class="st21" x1="900" y1="0" x2="900" y2="1200"/>
-	<line class="st21" x1="0" y1="900" x2="1200" y2="900"/>
-	<line class="st21" x1="0" y1="600" x2="1200" y2="600"/>
-	<line class="st21" x1="0" y1="300" x2="1200" y2="300"/>
-	<rect class="st21" width="1200" height="1200"/>
-	<line class="st21" x1="150" y1="0" x2="150" y2="20"/>
-	<line class="st21" x1="450" y1="0" x2="450" y2="20"/>
-	<line class="st21" x1="750" y1="0" x2="750" y2="20"/>
-	<line class="st21" x1="300" y1="83" x2="293" y2="83"/>
-	<line class="st21" x1="7" y1="83" x2="0" y2="83"/>
-	<line class="st21" x1="600" y1="83" x2="593" y2="83"/>
-	<line class="st21" x1="307" y1="83" x2="300" y2="83"/>
-	<line class="st21" x1="900" y1="83" x2="893" y2="83"/>
-	<line class="st21" x1="607" y1="83" x2="600" y2="83"/>
-	<rect y="300" class="st2" width="300" height="300"/>
-	<rect x="300" y="300" class="st2" width="300" height="300"/>
-	<rect x="600" y="300" class="st2" width="300" height="300"/>
-	<line class="st21" x1="150" y1="300" x2="150" y2="320"/>
-	<line class="st21" x1="450" y1="300" x2="450" y2="320"/>
-	<line class="st21" x1="750" y1="300" x2="750" y2="320"/>
-	<line class="st21" x1="300" y1="383" x2="293" y2="383"/>
-	<line class="st21" x1="7" y1="383" x2="0" y2="383"/>
-	<line class="st21" x1="600" y1="383" x2="593" y2="383"/>
-	<line class="st21" x1="307" y1="383" x2="300" y2="383"/>
-	<line class="st21" x1="900" y1="383" x2="893" y2="383"/>
-	<line class="st21" x1="607" y1="383" x2="600" y2="383"/>
+	<rect class="backcloth" width="300" height="300"/>
+	<rect x="300" class="backcloth" width="300" height="300"/>
+	<rect x="600" class="backcloth" width="300" height="300"/>
+	<line class="sprue" x1="300" y1="0" x2="300" y2="1200"/>
+	<line class="sprue" x1="600" y1="0" x2="600" y2="1200"/>
+	<line class="sprue" x1="900" y1="0" x2="900" y2="1200"/>
+	<line class="sprue" x1="0" y1="900" x2="1200" y2="900"/>
+	<line class="sprue" x1="0" y1="600" x2="1200" y2="600"/>
+	<line class="sprue" x1="0" y1="300" x2="1200" y2="300"/>
+	<rect class="sprue" width="1200" height="1200"/>
+	<line class="sprue" x1="150" y1="0" x2="150" y2="20"/>
+	<line class="sprue" x1="450" y1="0" x2="450" y2="20"/>
+	<line class="sprue" x1="750" y1="0" x2="750" y2="20"/>
+	<line class="sprue" x1="300" y1="83" x2="293" y2="83"/>
+	<line class="sprue" x1="7" y1="83" x2="0" y2="83"/>
+	<line class="sprue" x1="600" y1="83" x2="593" y2="83"/>
+	<line class="sprue" x1="307" y1="83" x2="300" y2="83"/>
+	<line class="sprue" x1="900" y1="83" x2="893" y2="83"/>
+	<line class="sprue" x1="607" y1="83" x2="600" y2="83"/>
+	<rect y="300" class="backcloth" width="300" height="300"/>
+	<rect x="300" y="300" class="backcloth" width="300" height="300"/>
+	<rect x="600" y="300" class="backcloth" width="300" height="300"/>
+	<line class="sprue" x1="150" y1="300" x2="150" y2="320"/>
+	<line class="sprue" x1="450" y1="300" x2="450" y2="320"/>
+	<line class="sprue" x1="750" y1="300" x2="750" y2="320"/>
+	<line class="sprue" x1="300" y1="383" x2="293" y2="383"/>
+	<line class="sprue" x1="7" y1="383" x2="0" y2="383"/>
+	<line class="sprue" x1="600" y1="383" x2="593" y2="383"/>
+	<line class="sprue" x1="307" y1="383" x2="300" y2="383"/>
+	<line class="sprue" x1="900" y1="383" x2="893" y2="383"/>
+	<line class="sprue" x1="607" y1="383" x2="600" y2="383"/>
 </g>
 <g id="Components">
 	<g id="person-1">
@@ -68,14 +67,14 @@
 			<g id="person-1-front-body">
 				<g id="person-1-front-pelvis-group">
 					<g id="person-1-front-pelvis">
-						<path id="person-1-front-pelvis-shape" class="st4" d="M169.5,124.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11l0,0
-							c0,6.1,4.9,11,11,11h18C164.6,135.5,169.5,130.6,169.5,124.5L169.5,124.5z"/>
+						<path id="person-1-front-pelvis-shape" class="cricketclothes" d="M169.5,124.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11
+							l0,0c0,6.1,4.9,11,11,11h18C164.6,135.5,169.5,130.6,169.5,124.5L169.5,124.5z"/>
 					</g>
 					<g id="person-1-front-pelvis-socket-legs-right">
-						<circle class="st15" cx="134.5" cy="124.5" r="5"/>
+						<circle class="st0" cx="134.5" cy="124.5" r="5"/>
 					</g>
 					<g id="person-1-front-pelvis-socket-legs-left">
-						<circle class="st15" cx="164.5" cy="124.5" r="5"/>
+						<circle class="st0" cx="164.5" cy="124.5" r="5"/>
 					</g>
 				</g>
 				<g id="person-1-front-arms">
@@ -83,27 +82,30 @@
 						<g id="person-1-front-arms-right-lower-group">
 							<g id="person-1-front-arms-right-hand-group">
 								<g id="person-1-front-arms-right-hand">
-									<path id="person-1-front-arms-right-hand-shape" class="st7" d="M10.5,83c0,1.9,1.6,3.5,3.5,3.5h7c1.9,0,3.5-1.6,3.5-3.5
+									<path id="person-1-front-arms-right-hand-shape" class="st1" d="M10.5,83c0,1.9,1.6,3.5,3.5,3.5h7c1.9,0,3.5-1.6,3.5-3.5
 										l0,0c0-1.9-1.6-3.5-3.5-3.5h-7C12.1,79.5,10.5,81.1,10.5,83L10.5,83z"/>
 								</g>
-								<circle id="person-1-front-arms-right-hand-ball" class="st20" cx="21" cy="83" r="4"/>
+								
+									<ellipse id="person-1-front-arms-right-hand-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -49.3831 34.2537)" class="ball" cx="21" cy="83" rx="4" ry="4"/>
 							</g>
 							<g id="person-1-front-arms-right-lower">
-								<path id="person-1-front-arms-right-lower-shape" class="st4" d="M28.5,83.1c0,1.9,1.4,3.4,3.1,3.4h33.8
+								<path id="person-1-front-arms-right-lower-shape" class="cricketclothes" d="M28.5,83.1c0,1.9,1.4,3.4,3.1,3.4h33.8
 									c1.7,0,3.1-1.5,3.1-3.4v-0.3c0-1.9-1.4-3.4-3.1-3.4H31.6c-1.7,0-3.1,1.5-3.1,3.4V83.1z"/>
 							</g>
-							<circle id="person-1-front-arms-right-lower-ball" class="st20" cx="65" cy="83" r="4"/>
-							<g id="person-1-front-arms-right-lower-socket" class="st9">
-								<circle class="st3" cx="32" cy="83" r="4"/>
+							
+								<ellipse id="person-1-front-arms-right-lower-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -38.5421 63.1757)" class="ball" cx="65" cy="83" rx="4" ry="4"/>
+							<g id="person-1-front-arms-right-lower-socket" class="st2">
+								<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -46.6729 41.4842)" class="st3" cx="32" cy="83" rx="4" ry="4"/>
 							</g>
 						</g>
 						<g id="person-1-front-arms-right-upper">
-							<path id="person-1-front-arms-right-upper-shape" class="st4" d="M72.5,83.1c0,1.9,1.2,3.4,2.7,3.4h29.6
+							<path id="person-1-front-arms-right-upper-shape" class="cricketclothes" d="M72.5,83.1c0,1.9,1.2,3.4,2.7,3.4h29.6
 								c1.5,0,2.7-1.5,2.7-3.4v-0.3c0-1.9-1.2-3.4-2.7-3.4H75.2c-1.5,0-2.7,1.5-2.7,3.4V83.1z"/>
 						</g>
-						<circle id="person-1-front-arms-right-upper-ball" class="st20" cx="104" cy="83" r="4"/>
-						<g id="person-1-front-arms-right-upper-socket" class="st9">
-							<circle class="st3" cx="76" cy="83" r="4"/>
+						
+							<ellipse id="person-1-front-arms-right-upper-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -28.933 88.8111)" class="ball" cx="104" cy="83" rx="4" ry="4"/>
+						<g id="person-1-front-arms-right-upper-socket" class="st2">
+							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -35.8319 70.4062)" class="st3" cx="76" cy="83" rx="4" ry="4"/>
 						</g>
 					</g>
 				</g>
@@ -113,27 +115,27 @@
 							<g id="person-1-front-legs-right-lower-group">
 								<g id="person-1-front-legs-right-foot-group">
 									<g id="person-1-front-legs-right-foot">
-										<path id="person-1-front-legs-right-foot-shape" class="st7" d="M139.5,259.5c0,2.8-2.2,2-5,2l0,0c-2.8,0-5,0.8-5-2v-3
+										<path id="person-1-front-legs-right-foot-shape" class="st1" d="M139.5,259.5c0,2.8-2.2,2-5,2l0,0c-2.8,0-5,0.8-5-2v-3
 											c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V259.5z"/>
 									</g>
-									<circle id="person-1-front-legs-right-foot-ball" class="st20" cx="134.5" cy="256.5" r="5"/>
+									<circle id="person-1-front-legs-right-foot-ball" class="ball" cx="134.5" cy="256.5" r="5"/>
 								</g>
 								<g id="person-1-front-legs-right-lower">
-									<path id="person-1-front-legs-right-lower-shape" class="st4" d="M139.5,197.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v42
-										c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
+									<path id="person-1-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,197.5c0-2.8-2.2-5-5-5l0,0
+										c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
 								</g>
-								<circle id="person-1-front-legs-right-lower-ball" class="st20" cx="134.5" cy="197.5" r="5"/>
+								<circle id="person-1-front-legs-right-lower-ball" class="ball" cx="134.5" cy="197.5" r="5"/>
 								<g id="person-1-front-legs-right-lower-socket">
-									<circle class="st15" cx="134.5" cy="239.5" r="5"/>
+									<circle class="st0" cx="134.5" cy="239.5" r="5"/>
 								</g>
 							</g>
 							<g id="person-1-front-legs-right-upper">
-								<path id="person-1-front-legs-right-upper-shape" class="st4" d="M139.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38
-									c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+								<path id="person-1-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,146.5c0-2.8-2.2-5-5-5l0,0
+									c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g>
-							<circle id="person-1-front-legs-upper-right-ball" class="st20" cx="134.5" cy="146.5" r="5"/>
+							<circle id="person-1-front-legs-upper-right-ball" class="ball" cx="134.5" cy="146.5" r="5"/>
 							<g id="person-1-front-legs-right-upper-socket">
-								<circle class="st15" cx="134.5" cy="184.5" r="5"/>
+								<circle class="st0" cx="134.5" cy="184.5" r="5"/>
 							</g>
 						</g>
 					</g>
@@ -142,34 +144,34 @@
 					<g id="person-1-front-neck-group">
 						<g id="person-1-front-head-group">
 							<g id="person-1-front-head">
-								<path id="person-1-front-head-shape" class="st7" d="M158.5,36.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6v8.8
+								<path id="person-1-front-head-shape" class="flesh" d="M158.5,36.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6v8.8
 									c0,3.6,3,6.6,6.6,6.6h3.8c3.6,0,6.6-3,6.6-6.6V36.6z"/>
 							</g>
-							<circle id="person-1-front-head-ball" class="st20" cx="150" cy="50.5" r="5"/>
+							<circle id="person-1-front-head-ball" class="ball" cx="150" cy="50.5" r="5"/>
 						</g>
 						<g id="person-1-front-neck">
-							<path id="person-1-front-neck-shape" class="st7" d="M155,62c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6c0,2.8,2.2,5,5,5l0,0
+							<path id="person-1-front-neck-shape" class="st1" d="M155,62c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6c0,2.8,2.2,5,5,5l0,0
 								c2.8,0,5-2.2,5-5V62z"/>
 						</g>
-						<circle id="person-1-front-headneck-ball" class="st20" cx="150" cy="68" r="5"/>
+						<circle id="person-1-front-headneck-ball" class="ball" cx="150" cy="68" r="5"/>
 						<g id="person-1-front-neck-socket">
-							<circle class="st15" cx="150" cy="62" r="5"/>
+							<circle class="st0" cx="150" cy="62" r="5"/>
 						</g>
 					</g>
 				</g>
 				<g id="person-1-front-torso-group">
 					<g id="person-1-front-torso">
-						<path id="person-1-front-torso-shape" class="st4" d="M170.5,86.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4h-7.1h-3.2
-							h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6V92v9.5c0,6.6,4.6,12,10.2,12h20.5c5.7,0,10.2-5.4,10.2-12V92
-							V86.8z"/>
+						<path id="person-1-front-torso-shape" class="cricketclothes" d="M170.5,86.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4
+							h-7.1h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6V92v9.5c0,6.6,4.6,12,10.2,12h20.5
+							c5.7,0,10.2-5.4,10.2-12V92V86.8z"/>
 					</g>
-					<g id="person-1-front-torso-socket-arms-right" class="st9">
-						<circle class="st3" cx="130" cy="83" r="4"/>
+					<g id="person-1-front-torso-socket-arms-right" class="st2">
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -22.527 105.9014)" class="st3" cx="130" cy="83" rx="4" ry="4"/>
 					</g>
-					<g id="person-1-front-torso-socket-arms-left" class="st9">
-						<circle class="st3" cx="170" cy="83" r="4"/>
+					<g id="person-1-front-torso-socket-arms-left" class="st2">
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="st3" cx="170" cy="83" rx="4" ry="4"/>
 					</g>
-					<circle id="person-1-front-headneck-socket" class="st0" cx="150" cy="79.5" r="5"/>
+					<circle id="person-1-front-headneck-socket" class="st4" cx="150" cy="79.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -179,44 +181,44 @@
 					<g id="person-1-right-neck-group">
 						<g id="person-1-right-head-group">
 							<g id="person-1-right-head">
-								<path id="person-1-right-head-shape" class="st7" d="M765.5,42.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2
+								<path id="person-1-right-head-shape" class="st1" d="M765.5,42.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2
 									c-4.1,0-7.9,2.5-7.9,6.1v8.8c0,3.6,3.8,7.1,7.9,7.1h4.2c4.1,0,6.9-3.5,6.9-7.1v-2.1L765.5,42.9z"/>
 							</g>
-							<circle id="person-1-right-head-ball" class="st20" cx="749.5" cy="51" r="5"/>
+							<circle id="person-1-right-head-ball" class="ball" cx="749.5" cy="51" r="5"/>
 						</g>
 						<g id="person-1-right-neck">
-							<path id="person-1-right-neck-shape" class="st7" d="M754.5,62.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6c0,2.8,2.2,5,5,5
+							<path id="person-1-right-neck-shape" class="st1" d="M754.5,62.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6c0,2.8,2.2,5,5,5
 								l0,0c2.8,0,5-2.2,5-5V62.5z"/>
 						</g>
-						<circle id="person-1-right-headneck-ball" class="st20" cx="749.5" cy="68.5" r="5"/>
+						<circle id="person-1-right-headneck-ball" class="ball" cx="749.5" cy="68.5" r="5"/>
 						<g id="person-1-right-neck-socket">
-							<circle class="st15" cx="749.5" cy="62.5" r="5"/>
+							<circle class="st0" cx="749.5" cy="62.5" r="5"/>
 						</g>
 					</g>
 				</g>
 				<g id="person-1-right-pelvis-group">
 					<g id="person-1-right-pelvis-socket-legs-left">
-						<circle class="st15" cx="750.5" cy="124" r="5"/>
+						<circle class="st0" cx="750.5" cy="124" r="5"/>
 					</g>
 					<g id="person-1-right-pelvis">
-						<path id="person-1-right-pelvis-shape" class="st4" d="M762.5,124.5c0-6.1-2.9-11-6.5-11h-12c-3.6,0-6.5,4.9-6.5,11l0,0
-							c0,6.1,2.9,11,6.5,11h12C759.6,135.5,762.5,130.6,762.5,124.5L762.5,124.5z"/>
+						<path id="person-1-right-pelvis-shape" class="cricketclothes" d="M762.5,124.5c0-6.1-2.9-11-6.5-11h-12
+							c-3.6,0-6.5,4.9-6.5,11l0,0c0,6.1,2.9,11,6.5,11h12C759.6,135.5,762.5,130.6,762.5,124.5L762.5,124.5z"/>
 					</g>
 					<g id="person-1-right-pelvis-socket-legs-right">
-						<circle class="st15" cx="750.5" cy="124" r="5"/>
+						<circle class="st0" cx="750.5" cy="124" r="5"/>
 					</g>
 				</g>
 				<g id="person-1-right-torso-group">
 					<g id="person-1-right-torso">
-						<path id="person-1-right-torso-shape" class="st4" d="M762.5,91.5c0-6.6-5.2-12-11.5-12H749c-6.4,0-11.5,5.4-11.5,12v10
-							c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V91.5z"/>
+						<path id="person-1-right-torso-shape" class="cricketclothes" d="M762.5,91.5c0-6.6-5.2-12-11.5-12H749
+							c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V91.5z"/>
 					</g>
-					<circle id="person-1-right-headneck-socket" class="st0" cx="749.5" cy="80" r="5"/>
-					<g id="person-1-right-torso-socket-arms-right" class="st9">
-						<circle class="st3" cx="749" cy="83" r="4"/>
+					<circle id="person-1-right-headneck-socket" class="st4" cx="749.5" cy="80" r="5"/>
+					<g id="person-1-right-torso-socket-arms-right" class="st2">
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 194.1191 592.8989)" class="st3" cx="749" cy="83" rx="4" ry="4"/>
 					</g>
-					<g id="person-1-right-torso-socket-arms-left" class="st9">
-						<circle class="st3" cx="749" cy="83" r="4"/>
+					<g id="person-1-right-torso-socket-arms-left" class="st2">
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 129.9864 512.7812)" class="st3" cx="749" cy="83" rx="4" ry="4"/>
 					</g>
 				</g>
 				<g id="person-1-right-legs-right">
@@ -224,27 +226,27 @@
 						<g id="person-1-right-legs-right-lower-group">
 							<g id="person-1-right-legs-right-foot-group">
 								<g id="person-1-right-legs-right-foot">
-									<path id="person-1-right-legs-right-foot-shape" class="st13" d="M770,261.5l-14.9-6.9c-0.7-1.8-2.5-3.1-4.6-3.1
+									<path id="person-1-right-legs-right-foot-shape" class="st5" d="M770,261.5l-14.9-6.9c-0.7-1.8-2.5-3.1-4.6-3.1
 										c-2.8,0-5,2.2-5,5v3c0,2.8,2.2,2,5,2c1.5,0,2.8,0.2,3.7,0H770z"/>
 								</g>
-								<circle id="person-1-right-legs-right-foot-ball" class="st20" cx="750.5" cy="256.5" r="5"/>
+								<circle id="person-1-right-legs-right-foot-ball" class="ball" cx="750.5" cy="256.5" r="5"/>
 							</g>
 							<g id="person-1-right-legs-right-lower">
-								<path id="person-1-right-legs-right-lower-shape" class="st4" d="M755.5,197.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v42
-									c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
+								<path id="person-1-right-legs-right-lower-shape" class="cricketclothes" d="M755.5,197.5c0-2.8-2.2-5-5-5l0,0
+									c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
 							</g>
 							<g id="person-1-right-legs-right-lower-socket">
-								<circle class="st15" cx="750.5" cy="239.5" r="5"/>
+								<circle class="st0" cx="750.5" cy="239.5" r="5"/>
 							</g>
-							<circle id="person-1-right-legs-right-lower-ball" class="st20" cx="750.5" cy="197.5" r="5"/>
+							<circle id="person-1-right-legs-right-lower-ball" class="ball" cx="750.5" cy="197.5" r="5"/>
 						</g>
 						<g id="person-1-right-legs-right-upper">
-							<path id="person-1-right-legs-right-upper-shape" class="st4" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38
-								c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+							<path id="person-1-right-legs-right-upper-shape" class="cricketclothes" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0
+								c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 						</g>
-						<circle id="person-1-right-legs-upper-right-ball" class="st20" cx="750.5" cy="146.5" r="5"/>
+						<circle id="person-1-right-legs-upper-right-ball" class="ball" cx="750.5" cy="146.5" r="5"/>
 						<g id="person-1-right-legs-right-upper-socket">
-							<circle class="st15" cx="750.5" cy="184.5" r="5"/>
+							<circle class="st0" cx="750.5" cy="184.5" r="5"/>
 						</g>
 					</g>
 				</g>
@@ -252,27 +254,30 @@
 					<g id="person-1-right-arms-right-lower-group">
 						<g id="person-1-right-arms-right-hand-group">
 							<g id="person-1-right-arms-right-hand">
-								<path id="person-1-right-arms-right-hand-shape" class="st7" d="M716,176.5c1.9,0,3.5-1.6,3.5-3.5v-7c0-1.9-1.6-3.5-3.5-3.5
+								<path id="person-1-right-arms-right-hand-shape" class="st1" d="M716,176.5c1.9,0,3.5-1.6,3.5-3.5v-7c0-1.9-1.6-3.5-3.5-3.5
 									l0,0c-1.9,0-3.5,1.6-3.5,3.5v7C712.5,174.9,714.1,176.5,716,176.5L716,176.5z"/>
 							</g>
-							<circle id="person-1-right-arms-right-hand-ball" class="st20" cx="716" cy="166" r="4"/>
+							
+								<ellipse id="person-1-right-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 120.2603 596.4724)" class="ball" cx="716" cy="166" rx="4" ry="4"/>
 						</g>
 						<g id="person-1-right-arms-right-lower">
-							<path id="person-1-right-arms-right-lower-shape" class="st4" d="M716.1,158.5c1.9,0,3.4-1.4,3.4-3.1v-33.8
+							<path id="person-1-right-arms-right-lower-shape" class="cricketclothes" d="M716.1,158.5c1.9,0,3.4-1.4,3.4-3.1v-33.8
 								c0-1.7-1.5-3.1-3.4-3.1h-0.3c-1.9,0-3.4,1.4-3.4,3.1v33.8c0,1.7,1.5,3.1,3.4,3.1H716.1z"/>
 						</g>
-						<circle id="person-1-right-arms-right-lower-ball" class="st20" cx="716" cy="122" r="4"/>
-						<g id="person-1-right-arms-right-lower-socket" class="st9">
-							<circle class="st3" cx="716" cy="155" r="4"/>
+						
+							<ellipse id="person-1-right-arms-right-lower-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 153.4626 581.447)" class="ball" cx="716" cy="122" rx="4" ry="4"/>
+						<g id="person-1-right-arms-right-lower-socket" class="st2">
+							<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 128.5913 592.7578)" class="st3" cx="716" cy="155" rx="4" ry="4"/>
 						</g>
 					</g>
 					<g id="person-1-right-arms-right-upper">
-						<path id="person-1-right-arms-right-upper-shape" class="st4" d="M716.1,114.5c1.9,0,3.4-1.2,3.4-2.7V82.2
+						<path id="person-1-right-arms-right-upper-shape" class="cricketclothes" d="M716.1,114.5c1.9,0,3.4-1.2,3.4-2.7V82.2
 							c0-1.5-1.5-2.7-3.4-2.7h-0.3c-1.9,0-3.4,1.2-3.4,2.7v29.6c0,1.5,1.5,2.7,3.4,2.7H716.1z"/>
 					</g>
-					<circle id="person-1-right-arms-right-upper-ball" class="st20" cx="716" cy="83" r="4"/>
-					<g id="person-1-right-arms-right-upper-socket" class="st9">
-						<circle class="st3" cx="716" cy="111" r="4"/>
+					
+						<ellipse id="person-1-right-arms-right-upper-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 182.8563 568.0803)" class="ball" cx="716" cy="83" rx="4" ry="4"/>
+					<g id="person-1-right-arms-right-upper-socket" class="st2">
+						<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 161.7534 577.6774)" class="st3" cx="716" cy="111" rx="4" ry="4"/>
 					</g>
 				</g>
 			</g>
@@ -283,18 +288,18 @@
 					<g id="person-1-back-neck-group">
 						<g id="person-1-back-head-group">
 							<g id="person-1-back-head">
-								<path id="person-1-back-head-shape" class="st7" d="M441.5,36.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8
+								<path id="person-1-back-head-shape" class="flesh" d="M441.5,36.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8
 									c0,3.6-3,6.6-6.6,6.6h-3.8c-3.6,0-6.6-3-6.6-6.6V36.6z"/>
 							</g>
-							<circle id="person-1-back-head-ball" class="st20" cx="450" cy="50.5" r="5"/>
+							<circle id="person-1-back-head-ball" class="ball" cx="450" cy="50.5" r="5"/>
 						</g>
 						<g id="person-1-back-neck">
-							<path id="person-1-back-neck-shape" class="st7" d="M445,62c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5v6c0,2.8-2.2,5-5,5l0,0
+							<path id="person-1-back-neck-shape" class="st1" d="M445,62c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5v6c0,2.8-2.2,5-5,5l0,0
 								c-2.8,0-5-2.2-5-5V62z"/>
 						</g>
-						<circle id="person-1-back-headneck-ball" class="st20" cx="450" cy="68" r="5"/>
+						<circle id="person-1-back-headneck-ball" class="ball" cx="450" cy="68" r="5"/>
 						<g id="person-1-back-neck-socket">
-							<circle class="st15" cx="450" cy="62" r="5"/>
+							<circle class="st0" cx="450" cy="62" r="5"/>
 						</g>
 					</g>
 				</g>
@@ -304,27 +309,27 @@
 							<g id="person-1-back-legs-right-lower-group">
 								<g id="person-1-back-legs-right-foot-group">
 									<g id="person-1-back-legs-right-foot">
-										<path id="person-1-back-legs-right-foot-shape" class="st7" d="M460.5,259.5c0,2.8,2.2,2,5,2l0,0c2.8,0,5,0.8,5-2v-3
+										<path id="person-1-back-legs-right-foot-shape" class="st1" d="M460.5,259.5c0,2.8,2.2,2,5,2l0,0c2.8,0,5,0.8,5-2v-3
 											c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V259.5z"/>
 									</g>
-									<circle id="person-1-back-legs-right-foot-ball" class="st20" cx="465.5" cy="256.5" r="5"/>
+									<circle id="person-1-back-legs-right-foot-ball" class="ball" cx="465.5" cy="256.5" r="5"/>
 								</g>
 								<g id="person-1-back-legs-right-lower">
-									<path id="person-1-back-legs-right-lower-shape" class="st4" d="M470.5,239.5c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5v-42
-										c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V239.5z"/>
+									<path id="person-1-back-legs-right-lower-shape" class="cricketclothes" d="M470.5,239.5c0,2.8-2.2,5-5,5l0,0
+										c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V239.5z"/>
 								</g>
-								<circle id="person-1-back-legs-right-lower-ball" class="st20" cx="465.5" cy="197.5" r="5"/>
+								<circle id="person-1-back-legs-right-lower-ball" class="ball" cx="465.5" cy="197.5" r="5"/>
 								<g id="person-1-back-legs-right-lower-socket">
-									<circle class="st15" cx="465.5" cy="239.5" r="5"/>
+									<circle class="st0" cx="465.5" cy="239.5" r="5"/>
 								</g>
 							</g>
 							<g id="person-1-back-legs-right-upper">
-								<path id="person-1-back-legs-right-upper-shape" class="st4" d="M470.5,184.5c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5v-38
-									c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V184.5z"/>
+								<path id="person-1-back-legs-right-upper-shape" class="cricketclothes" d="M470.5,184.5c0,2.8-2.2,5-5,5l0,0
+									c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V184.5z"/>
 							</g>
-							<circle id="person-1-back-legs-upper-right-ball" class="st20" cx="465.5" cy="146.5" r="5"/>
+							<circle id="person-1-back-legs-upper-right-ball" class="ball" cx="465.5" cy="146.5" r="5"/>
 							<g id="person-1-back-legs-right-upper-socket">
-								<circle class="st15" cx="465.5" cy="184.5" r="5"/>
+								<circle class="st0" cx="465.5" cy="184.5" r="5"/>
 							</g>
 						</g>
 					</g>
@@ -334,64 +339,68 @@
 						<g id="person-1-back-arms-right-lower-group">
 							<g id="person-1-back-arms-right-hand-group">
 								<g id="person-1-back-arms-right-hand">
-									<path id="person-1-back-arms-right-hand-shape" class="st7" d="M589.5,83c0,1.9-1.6,3.5-3.5,3.5h-7c-1.9,0-3.5-1.6-3.5-3.5
+									<path id="person-1-back-arms-right-hand-shape" class="st1" d="M589.5,83c0,1.9-1.6,3.5-3.5,3.5h-7c-1.9,0-3.5-1.6-3.5-3.5
 										l0,0c0-1.9,1.6-3.5,3.5-3.5h7C587.9,79.5,589.5,81.1,589.5,83L589.5,83z"/>
 								</g>
-								<circle id="person-1-back-arms-right-hand-ball" class="st20" cx="579" cy="83" r="4"/>
+								
+									<ellipse id="person-1-back-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 135.8631 464.7846)" class="ball" cx="579" cy="83" rx="4" ry="4"/>
 							</g>
 							<g id="person-1-back-arms-right-lower">
 								<g>
-									<path class="st12" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
+									<path class="st6" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
 										c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
 								<g>
-									<path class="st4" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
-										c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
+									<path class="cricketclothes" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3
+										c0-1.9,1.4-3.4,3.1-3.4h33.8c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
 								<g>
-									<path class="st10" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
+									<path class="st7" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
 										c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
 							</g>
-							<circle id="person-1-back-arms-right-lower-ball" class="st20" cx="535" cy="83" r="4"/>
-							<g id="person-1-back-arms-right-lower-socket" class="st9">
-								<circle class="st3" cx="568" cy="83" r="4"/>
+							
+								<ellipse id="person-1-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 120.7851 431.6256)" class="ball" cx="535" cy="83" rx="4" ry="4"/>
+							<g id="person-1-back-arms-right-lower-socket" class="st2">
+								<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 132.0936 456.4949)" class="st3" cx="568" cy="83" rx="4" ry="4"/>
 							</g>
 						</g>
 						<g id="person-1-back-arms-right-upper">
-							<path id="person-1-back-arms-right-upper-shape" class="st4" d="M527.5,83.1c0,1.9-1.2,3.4-2.7,3.4h-29.6
+							<path id="person-1-back-arms-right-upper-shape" class="cricketclothes" d="M527.5,83.1c0,1.9-1.2,3.4-2.7,3.4h-29.6
 								c-1.5,0-2.7-1.5-2.7-3.4v-0.3c0-1.9,1.2-3.4,2.7-3.4h29.6c1.5,0,2.7,1.5,2.7,3.4V83.1z"/>
 						</g>
-						<circle id="person-1-back-arms-right-upper-ball" class="st20" cx="496" cy="83" r="4"/>
-						<g id="person-1-back-arms-right-upper-socket" class="st9">
-							<circle class="st3" cx="524" cy="83" r="4"/>
+						
+							<ellipse id="person-1-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 107.4205 402.2347)" class="ball" cx="496" cy="83" rx="4" ry="4"/>
+						<g id="person-1-back-arms-right-upper-socket" class="st2">
+							<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 117.0156 423.3359)" class="st3" cx="524" cy="83" rx="4" ry="4"/>
 						</g>
 					</g>
 				</g>
 				<g id="person-1-back-pelvis-group">
 					<g id="person-1-back-pelvis">
-						<path id="person-1-back-pelvis-shape" class="st4" d="M470,124.5c0,6.1-4.9,11-11,11h-18c-6.1,0-11-4.9-11-11l0,0
+						<path id="person-1-back-pelvis-shape" class="cricketclothes" d="M470,124.5c0,6.1-4.9,11-11,11h-18c-6.1,0-11-4.9-11-11l0,0
 							c0-6.1,4.9-11,11-11h18C465.1,113.5,470,118.4,470,124.5L470,124.5z"/>
 					</g>
 					<g id="person-1-back-pelvis-socket-legs-right">
-						<circle class="st15" cx="465" cy="124.5" r="5"/>
+						<circle class="st0" cx="465" cy="124.5" r="5"/>
 					</g>
 					<g id="person-1-back-pelvis-socket-legs-left">
-						<circle class="st15" cx="435" cy="124.5" r="5"/>
+						<circle class="st0" cx="435" cy="124.5" r="5"/>
 					</g>
 				</g>
 				<g id="person-1-back-torso-group">
 					<g id="person-1-back-torso">
-						<path id="person-1-back-torso-shape" class="st4" d="M429.5,86.8c-1,0-3-1.8-3-3.6v-0.3c0-1.9,2.3-3.4,4-3.4h7.1h3.2h20.5h3.2
-							h7.1c1.7,0,2,1.5,2,3.4v0.3c0,1.9-1,3.6-3,3.6V92v9.5c0,6.6-3.6,12-9.2,12h-20.5c-5.7,0-11.2-5.4-11.2-12V92V86.8z"/>
+						<path id="person-1-back-torso-shape" class="cricketclothes" d="M429.5,86.8c-1,0-3-1.8-3-3.6v-0.3c0-1.9,2.3-3.4,4-3.4h7.1
+							h3.2h20.5h3.2h7.1c1.7,0,2,1.5,2,3.4v0.3c0,1.9-1,3.6-3,3.6V92v9.5c0,6.6-3.6,12-9.2,12h-20.5c-5.7,0-11.2-5.4-11.2-12V92
+							V86.8z"/>
 					</g>
-					<g id="person-1-back-torso-socket-arms-right" class="st9">
-						<circle class="st3" cx="470" cy="83" r="4"/>
+					<g id="person-1-back-torso-socket-arms-right" class="st2">
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 98.5108 382.6408)" class="st3" cx="470" cy="83" rx="4" ry="4"/>
 					</g>
-					<g id="person-1-back-torso-socket-arms-left" class="st9">
-						<circle class="st3" cx="430" cy="83" r="4"/>
+					<g id="person-1-back-torso-socket-arms-left" class="st2">
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 51.389 303.0968)" class="st3" cx="430" cy="83" rx="4" ry="4"/>
 					</g>
-					<circle id="person-1-back-headneck-socket" class="st0" cx="450" cy="79.5" r="5"/>
+					<circle id="person-1-back-headneck-socket" class="st4" cx="450" cy="79.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -401,14 +410,14 @@
 			<g id="person-2-front-body">
 				<g id="person-2-front-pelvis-group">
 					<g id="person-2-front-pelvis">
-						<path id="person-2-front-pelvis-shape" class="st7" d="M169.5,424.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11l0,0
+						<path id="person-2-front-pelvis-shape" class="st1" d="M169.5,424.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11l0,0
 							c0,6.1,4.9,11,11,11h18C164.6,435.5,169.5,430.6,169.5,424.5L169.5,424.5z"/>
 					</g>
 					<g id="person-2-front-pelvis-socket-legs-right">
-						<circle class="st15" cx="134.5" cy="424.5" r="5"/>
+						<circle class="st0" cx="134.5" cy="424.5" r="5"/>
 					</g>
 					<g id="person-2-front-pelvis-socket-legs-left">
-						<circle class="st15" cx="164.5" cy="424.5" r="5"/>
+						<circle class="st0" cx="164.5" cy="424.5" r="5"/>
 					</g>
 				</g>
 				<g id="person-2-front-arms">
@@ -416,27 +425,31 @@
 						<g id="person-2-front-arms-right-lower-group">
 							<g id="person-2-front-arms-right-hand-group">
 								<g id="person-2-front-arms-right-hand">
-									<path id="person-2-front-arms-right-hand-shape" class="st7" d="M10.5,383c0,1.9,1.6,3.5,3.5,3.5h7c1.9,0,3.5-1.6,3.5-3.5
+									<path id="person-2-front-arms-right-hand-shape" class="st1" d="M10.5,383c0,1.9,1.6,3.5,3.5,3.5h7c1.9,0,3.5-1.6,3.5-3.5
 										l0,0c0-1.9-1.6-3.5-3.5-3.5h-7C12.1,379.5,10.5,381.1,10.5,383L10.5,383z"/>
 								</g>
-								<circle id="person-2-front-arms-right-hand-ball" class="st20" cx="21" cy="383" r="4"/>
+								
+									<ellipse id="person-2-front-arms-right-hand-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -246.5785 108.1697)" class="ball" cx="21" cy="383" rx="4" ry="4"/>
 							</g>
 							<g id="person-2-front-arms-right-lower">
-								<path id="person-2-front-arms-right-lower-shape" class="st7" d="M28.5,383.1c0,1.9,1.4,3.4,3.1,3.4h33.8
+								<path id="person-2-front-arms-right-lower-shape" class="st1" d="M28.5,383.1c0,1.9,1.4,3.4,3.1,3.4h33.8
 									c1.7,0,3.1-1.5,3.1-3.4v-0.3c0-1.9-1.4-3.4-3.1-3.4H31.6c-1.7,0-3.1,1.5-3.1,3.4V383.1z"/>
 							</g>
-							<circle id="person-2-front-arms-right-lower-ball" class="st20" cx="65" cy="383" r="4"/>
-							<g id="person-2-front-arms-right-lower-socket" class="st9">
-								<circle class="st3" cx="32" cy="383" r="4"/>
+							
+								<ellipse id="person-2-front-arms-right-lower-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -235.7375 137.0917)" class="ball" cx="65" cy="383" rx="4" ry="4"/>
+							<g id="person-2-front-arms-right-lower-socket" class="st2">
+								
+									<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -243.8683 115.4002)" class="st3" cx="32" cy="383" rx="4" ry="4"/>
 							</g>
 						</g>
 						<g id="person-2-front-arms-right-upper">
-							<path id="person-2-front-arms-right-upper-shape" class="st7" d="M72.5,383.1c0,1.9,1.2,3.4,2.7,3.4h29.6
+							<path id="person-2-front-arms-right-upper-shape" class="st1" d="M72.5,383.1c0,1.9,1.2,3.4,2.7,3.4h29.6
 								c1.5,0,2.7-1.5,2.7-3.4v-0.3c0-1.9-1.2-3.4-2.7-3.4H75.2c-1.5,0-2.7,1.5-2.7,3.4V383.1z"/>
 						</g>
-						<circle id="person-2-front-arms-right-upper-ball" class="st20" cx="104" cy="383" r="4"/>
-						<g id="person-2-front-arms-right-upper-socket" class="st9">
-							<circle class="st3" cx="76" cy="383" r="4"/>
+						
+							<ellipse id="person-2-front-arms-right-upper-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -226.1284 162.7271)" class="ball" cx="104" cy="383" rx="4" ry="4"/>
+						<g id="person-2-front-arms-right-upper-socket" class="st2">
+							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -233.0273 144.3222)" class="st3" cx="76" cy="383" rx="4" ry="4"/>
 						</g>
 					</g>
 				</g>
@@ -446,27 +459,27 @@
 							<g id="person-2-front-legs-right-lower-group">
 								<g id="person-2-front-legs-right-foot-group">
 									<g id="person-2-front-legs-right-foot">
-										<path id="person-2-front-legs-right-foot-shape" class="st7" d="M139.5,559.5c0,2.8-2.2,2-5,2l0,0c-2.8,0-5,0.8-5-2v-3
+										<path id="person-2-front-legs-right-foot-shape" class="st1" d="M139.5,559.5c0,2.8-2.2,2-5,2l0,0c-2.8,0-5,0.8-5-2v-3
 											c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V559.5z"/>
 									</g>
-									<circle id="person-2-front-legs-right-foot-ball" class="st20" cx="134.5" cy="556.5" r="5"/>
+									<circle id="person-2-front-legs-right-foot-ball" class="ball" cx="134.5" cy="556.5" r="5"/>
 								</g>
 								<g id="person-2-front-legs-right-lower">
-									<path id="person-2-front-legs-right-lower-shape" class="st7" d="M139.5,497.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v42
+									<path id="person-2-front-legs-right-lower-shape" class="st1" d="M139.5,497.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v42
 										c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V497.5z"/>
 								</g>
-								<circle id="person-2-front-legs-right-lower-ball" class="st20" cx="134.5" cy="497.5" r="5"/>
+								<circle id="person-2-front-legs-right-lower-ball" class="ball" cx="134.5" cy="497.5" r="5"/>
 								<g id="person-2-front-legs-right-lower-socket">
-									<circle class="st15" cx="134.5" cy="539.5" r="5"/>
+									<circle class="st0" cx="134.5" cy="539.5" r="5"/>
 								</g>
 							</g>
 							<g id="person-2-front-legs-right-upper">
-								<path id="person-2-front-legs-right-upper-shape" class="st7" d="M139.5,446.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38
+								<path id="person-2-front-legs-right-upper-shape" class="st1" d="M139.5,446.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38
 									c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V446.5z"/>
 							</g>
-							<circle id="person-2-front-legs-upper-right-ball" class="st20" cx="134.5" cy="446.5" r="5"/>
+							<circle id="person-2-front-legs-upper-right-ball" class="ball" cx="134.5" cy="446.5" r="5"/>
 							<g id="person-2-front-legs-right-upper-socket">
-								<circle class="st15" cx="134.5" cy="484.5" r="5"/>
+								<circle class="st0" cx="134.5" cy="484.5" r="5"/>
 							</g>
 						</g>
 					</g>
@@ -475,36 +488,36 @@
 					<g id="person-2-front-neck-group">
 						<g id="person-2-front-head-group">
 							<g id="person-2-front-head">
-								<path id="person-2-front-head-shape" class="st7" d="M158.5,336.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6v8.8
+								<path id="person-2-front-head-shape" class="flesh" d="M158.5,336.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6v8.8
 									c0,3.6,3,6.6,6.6,6.6h3.8c3.6,0,6.6-3,6.6-6.6V336.6z"/>
-								<path class="st6" d="M159.5,337c0,5.2-4.3-0.5-9.5-0.5l0,0c-5.2,0-9.5,5.7-9.5,0.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0
+								<path class="st8" d="M159.5,337c0,5.2-4.3-0.5-9.5-0.5l0,0c-5.2,0-9.5,5.7-9.5,0.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0
 									C155.2,327.5,159.5,331.8,159.5,337L159.5,337z"/>
 							</g>
-							<circle id="person-2-front-head-ball" class="st20" cx="150" cy="350.5" r="5"/>
+							<circle id="person-2-front-head-ball" class="ball" cx="150" cy="350.5" r="5"/>
 						</g>
 						<g id="person-2-front-neck">
-							<path id="person-2-front-neck-shape" class="st7" d="M155,362c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6c0,2.8,2.2,5,5,5l0,0
+							<path id="person-2-front-neck-shape" class="st1" d="M155,362c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6c0,2.8,2.2,5,5,5l0,0
 								c2.8,0,5-2.2,5-5V362z"/>
 						</g>
-						<circle id="person-2-front-headneck-ball" class="st20" cx="150" cy="368" r="5"/>
+						<circle id="person-2-front-headneck-ball" class="ball" cx="150" cy="368" r="5"/>
 						<g id="person-2-front-neck-socket">
-							<circle class="st15" cx="150" cy="362" r="5"/>
+							<circle class="st0" cx="150" cy="362" r="5"/>
 						</g>
 					</g>
 				</g>
 				<g id="person-2-front-torso-group">
 					<g id="person-2-front-torso">
-						<path id="person-2-front-torso-shape" class="st7" d="M170.5,386.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4h-7.1h-3.2
+						<path id="person-2-front-torso-shape" class="st1" d="M170.5,386.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4h-7.1h-3.2
 							h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6v5.2v9.5c0,6.6,4.6,12,10.2,12h20.5c5.7,0,10.2-5.4,10.2-12V392
 							V386.8z"/>
 					</g>
-					<g id="person-2-front-torso-socket-arms-right" class="st9">
-						<circle class="st3" cx="130" cy="383" r="4"/>
+					<g id="person-2-front-torso-socket-arms-right" class="st2">
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -219.7224 179.8174)" class="st3" cx="130" cy="383" rx="4" ry="4"/>
 					</g>
-					<g id="person-2-front-torso-socket-arms-left" class="st9">
-						<circle class="st3" cx="170" cy="383" r="4"/>
+					<g id="person-2-front-torso-socket-arms-left" class="st2">
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -230.3778 259.3614)" class="st3" cx="170" cy="383" rx="4" ry="4"/>
 					</g>
-					<circle id="person-2-front-headneck-socket" class="st0" cx="150" cy="379.5" r="5"/>
+					<circle id="person-2-front-headneck-socket" class="st4" cx="150" cy="379.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -514,46 +527,46 @@
 					<g id="person-2-right-neck-group">
 						<g id="person-2-right-head-group">
 							<g id="person-2-right-head">
-								<path id="person-2-right-head-shape" class="st7" d="M765.5,342.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2
+								<path id="person-2-right-head-shape" class="st1" d="M765.5,342.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2
 									c-4.1,0-7.9,2.5-7.9,6.1v8.8c0,3.6,3.8,7.1,7.9,7.1h4.2c4.1,0,6.9-3.5,6.9-7.1v-2.1L765.5,342.9z"/>
-								<path class="st6" d="M762,335c0,1-2.8,4-8,4c-0.5,0-3.5,1-4,1c-5.2,0-9.5,3.2-9.5-2c0-0.5,0-1.5,0-2c0-5.2,3.3-8.5,8.5-8.5
+								<path class="st8" d="M762,335c0,1-2.8,4-8,4c-0.5,0-3.5,1-4,1c-5.2,0-9.5,3.2-9.5-2c0-0.5,0-1.5,0-2c0-5.2,3.3-8.5,8.5-8.5
 									c0.5,0,1.5,0,2,0C756.2,327.5,762,329.8,762,335C762,335.5,762,334.5,762,335z"/>
 							</g>
-							<circle id="person-2-right-head-ball" class="st20" cx="749.5" cy="351" r="5"/>
+							<circle id="person-2-right-head-ball" class="ball" cx="749.5" cy="351" r="5"/>
 						</g>
 						<g id="person-2-right-neck">
-							<path id="person-2-right-neck-shape" class="st7" d="M754.5,362.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6c0,2.8,2.2,5,5,5
+							<path id="person-2-right-neck-shape" class="st1" d="M754.5,362.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6c0,2.8,2.2,5,5,5
 								l0,0c2.8,0,5-2.2,5-5V362.5z"/>
 						</g>
-						<circle id="person-2-right-headneck-ball" class="st20" cx="749.5" cy="368.5" r="5"/>
+						<circle id="person-2-right-headneck-ball" class="ball" cx="749.5" cy="368.5" r="5"/>
 						<g id="person-2-right-neck-socket">
-							<circle class="st15" cx="749.5" cy="362.5" r="5"/>
+							<circle class="st0" cx="749.5" cy="362.5" r="5"/>
 						</g>
 					</g>
 				</g>
 				<g id="person-2-right-pelvis-group">
 					<g id="person-2-right-pelvis-socket-legs-left">
-						<circle class="st15" cx="750.5" cy="424" r="5"/>
+						<circle class="st0" cx="750.5" cy="424" r="5"/>
 					</g>
 					<g id="person-2-right-pelvis">
-						<path id="person-2-right-pelvis-shape" class="st7" d="M762.5,424.5c0-6.1-2.9-11-6.5-11h-12c-3.6,0-6.5,4.9-6.5,11l0,0
+						<path id="person-2-right-pelvis-shape" class="st1" d="M762.5,424.5c0-6.1-2.9-11-6.5-11h-12c-3.6,0-6.5,4.9-6.5,11l0,0
 							c0,6.1,2.9,11,6.5,11h12C759.6,435.5,762.5,430.6,762.5,424.5L762.5,424.5z"/>
 					</g>
 					<g id="person-2-right-pelvis-socket-legs-right">
-						<circle class="st15" cx="750.5" cy="424" r="5"/>
+						<circle class="st0" cx="750.5" cy="424" r="5"/>
 					</g>
 				</g>
 				<g id="person-2-right-torso-group">
 					<g id="person-2-right-torso">
-						<path id="person-2-right-torso-shape" class="st7" d="M762.5,391.5c0-6.6-5.2-12-11.5-12H749c-6.4,0-11.5,5.4-11.5,12v10
+						<path id="person-2-right-torso-shape" class="st1" d="M762.5,391.5c0-6.6-5.2-12-11.5-12H749c-6.4,0-11.5,5.4-11.5,12v10
 							c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V391.5z"/>
 					</g>
-					<circle id="person-2-right-headneck-socket" class="st0" cx="749.5" cy="380" r="5"/>
-					<g id="person-2-right-torso-socket-arms-right" class="st9">
-						<circle class="st3" cx="749" cy="383" r="4"/>
+					<circle id="person-2-right-headneck-socket" class="st4" cx="749.5" cy="380" r="5"/>
+					<g id="person-2-right-torso-socket-arms-right" class="st2">
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -31.9649 695.7035)" class="st3" cx="749" cy="383" rx="4" ry="4"/>
 					</g>
-					<g id="person-2-right-torso-socket-arms-left" class="st9">
-						<circle class="st3" cx="749" cy="383" r="4"/>
+					<g id="person-2-right-torso-socket-arms-left" class="st2">
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -67.209 586.6972)" class="st3" cx="749" cy="383" rx="4" ry="4"/>
 					</g>
 				</g>
 				<g id="person-2-right-legs-right">
@@ -561,27 +574,27 @@
 						<g id="person-2-right-legs-right-lower-group">
 							<g id="person-2-right-legs-right-foot-group">
 								<g id="person-2-right-legs-right-foot">
-									<path id="person-2-right-legs-right-foot-shape" class="st13" d="M770,561.5l-14.9-6.9c-0.7-1.8-2.5-3.1-4.6-3.1
+									<path id="person-2-right-legs-right-foot-shape" class="st5" d="M770,561.5l-14.9-6.9c-0.7-1.8-2.5-3.1-4.6-3.1
 										c-2.8,0-5,2.2-5,5v3c0,2.8,2.2,2,5,2c1.5,0,2.8,0.2,3.7,0H770z"/>
 								</g>
-								<circle id="person-2-right-legs-right-foot-ball" class="st20" cx="750.5" cy="556.5" r="5"/>
+								<circle id="person-2-right-legs-right-foot-ball" class="ball" cx="750.5" cy="556.5" r="5"/>
 							</g>
 							<g id="person-2-right-legs-right-lower">
-								<path id="person-2-right-legs-right-lower-shape" class="st7" d="M755.5,497.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v42
+								<path id="person-2-right-legs-right-lower-shape" class="st1" d="M755.5,497.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v42
 									c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V497.5z"/>
 							</g>
 							<g id="person-2-right-legs-right-lower-socket">
-								<circle class="st15" cx="750.5" cy="539.5" r="5"/>
+								<circle class="st0" cx="750.5" cy="539.5" r="5"/>
 							</g>
-							<circle id="person-2-right-legs-right-lower-ball" class="st20" cx="750.5" cy="497.5" r="5"/>
+							<circle id="person-2-right-legs-right-lower-ball" class="ball" cx="750.5" cy="497.5" r="5"/>
 						</g>
 						<g id="person-2-right-legs-right-upper">
-							<path id="person-2-right-legs-right-upper-shape" class="st7" d="M755.5,446.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38
+							<path id="person-2-right-legs-right-upper-shape" class="st1" d="M755.5,446.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38
 								c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V446.5z"/>
 						</g>
-						<circle id="person-2-right-legs-upper-right-ball" class="st20" cx="750.5" cy="446.5" r="5"/>
+						<circle id="person-2-right-legs-upper-right-ball" class="ball" cx="750.5" cy="446.5" r="5"/>
 						<g id="person-2-right-legs-right-upper-socket">
-							<circle class="st15" cx="750.5" cy="484.5" r="5"/>
+							<circle class="st0" cx="750.5" cy="484.5" r="5"/>
 						</g>
 					</g>
 				</g>
@@ -589,27 +602,30 @@
 					<g id="person-2-right-arms-right-lower-group">
 						<g id="person-2-right-arms-right-hand-group">
 							<g id="person-2-right-arms-right-hand">
-								<path id="person-2-right-arms-right-hand-shape" class="st7" d="M716,476.5c1.9,0,3.5-1.6,3.5-3.5v-7c0-1.9-1.6-3.5-3.5-3.5
+								<path id="person-2-right-arms-right-hand-shape" class="st1" d="M716,476.5c1.9,0,3.5-1.6,3.5-3.5v-7c0-1.9-1.6-3.5-3.5-3.5
 									l0,0c-1.9,0-3.5,1.6-3.5,3.5v7C712.5,474.9,714.1,476.5,716,476.5L716,476.5z"/>
 							</g>
-							<circle id="person-2-right-arms-right-hand-ball" class="st20" cx="716" cy="466" r="4"/>
+							
+								<ellipse id="person-2-right-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -105.8237 699.277)" class="ball" cx="716" cy="466" rx="4" ry="4"/>
 						</g>
 						<g id="person-2-right-arms-right-lower">
-							<path id="person-2-right-arms-right-lower-shape" class="st7" d="M716.1,458.5c1.9,0,3.4-1.4,3.4-3.1v-33.8
+							<path id="person-2-right-arms-right-lower-shape" class="st1" d="M716.1,458.5c1.9,0,3.4-1.4,3.4-3.1v-33.8
 								c0-1.7-1.5-3.1-3.4-3.1h-0.3c-1.9,0-3.4,1.4-3.4,3.1v33.8c0,1.7,1.5,3.1,3.4,3.1H716.1z"/>
 						</g>
-						<circle id="person-2-right-arms-right-lower-ball" class="st20" cx="716" cy="422" r="4"/>
-						<g id="person-2-right-arms-right-lower-socket" class="st9">
-							<circle class="st3" cx="716" cy="455" r="4"/>
+						
+							<ellipse id="person-2-right-arms-right-lower-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 -72.64 684.2728)" class="ball" cx="716" cy="422" rx="4" ry="4"/>
+						<g id="person-2-right-arms-right-lower-socket" class="st2">
+							<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -97.5113 695.5837)" class="st3" cx="716" cy="455" rx="4" ry="4"/>
 						</g>
 					</g>
 					<g id="person-2-right-arms-right-upper">
-						<path id="person-2-right-arms-right-upper-shape" class="st7" d="M716.1,414.5c1.9,0,3.4-1.2,3.4-2.7v-29.6
+						<path id="person-2-right-arms-right-upper-shape" class="st1" d="M716.1,414.5c1.9,0,3.4-1.2,3.4-2.7v-29.6
 							c0-1.5-1.5-2.7-3.4-2.7h-0.3c-1.9,0-3.4,1.2-3.4,2.7v29.6c0,1.5,1.5,2.7,3.4,2.7H716.1z"/>
 					</g>
-					<circle id="person-2-right-arms-right-upper-ball" class="st20" cx="716" cy="383" r="4"/>
-					<g id="person-2-right-arms-right-upper-socket" class="st9">
-						<circle class="st3" cx="716" cy="411" r="4"/>
+					
+						<ellipse id="person-2-right-arms-right-upper-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 -43.2463 670.9062)" class="ball" cx="716" cy="383" rx="4" ry="4"/>
+					<g id="person-2-right-arms-right-upper-socket" class="st2">
+						<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -64.3492 680.5033)" class="st3" cx="716" cy="411" rx="4" ry="4"/>
 					</g>
 				</g>
 			</g>
@@ -620,20 +636,20 @@
 					<g id="person-2-back-neck-group">
 						<g id="person-2-back-head-group">
 							<g id="person-2-back-head">
-								<path id="person-2-back-head-shape" class="st7" d="M441.5,336.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8
+								<path id="person-2-back-head-shape" class="flesh" d="M441.5,336.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8
 									c0,3.6-3,6.6-6.6,6.6h-3.8c-3.6,0-6.6-3-6.6-6.6V336.6z"/>
-								<path class="st6" d="M459.5,337c0,5.2-4.3-0.5-9.5-0.5l0,0c-5.2,0-9.5,5.7-9.5,0.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0
+								<path class="st8" d="M459.5,337c0,5.2-4.3-0.5-9.5-0.5l0,0c-5.2,0-9.5,5.7-9.5,0.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0
 									C455.2,327.5,459.5,331.8,459.5,337L459.5,337z"/>
 							</g>
-							<circle id="person-2-back-head-ball" class="st20" cx="450" cy="350.5" r="5"/>
+							<circle id="person-2-back-head-ball" class="ball" cx="450" cy="350.5" r="5"/>
 						</g>
 						<g id="person-2-back-neck">
-							<path id="person-2-back-neck-shape" class="st7" d="M445,362c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5v6c0,2.8-2.2,5-5,5l0,0
+							<path id="person-2-back-neck-shape" class="st1" d="M445,362c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5v6c0,2.8-2.2,5-5,5l0,0
 								c-2.8,0-5-2.2-5-5V362z"/>
 						</g>
-						<circle id="person-2-back-headneck-ball" class="st20" cx="450" cy="368" r="5"/>
+						<circle id="person-2-back-headneck-ball" class="ball" cx="450" cy="368" r="5"/>
 						<g id="person-2-back-neck-socket">
-							<circle class="st15" cx="450" cy="362" r="5"/>
+							<circle class="st0" cx="450" cy="362" r="5"/>
 						</g>
 					</g>
 				</g>
@@ -643,27 +659,27 @@
 							<g id="person-2-back-legs-right-lower-group">
 								<g id="person-2-back-legs-right-foot-group">
 									<g id="person-2-back-legs-right-foot">
-										<path id="person-2-back-legs-right-foot-shape" class="st7" d="M460.5,559.5c0,2.8,2.2,2,5,2l0,0c2.8,0,5,0.8,5-2v-3
+										<path id="person-2-back-legs-right-foot-shape" class="st1" d="M460.5,559.5c0,2.8,2.2,2,5,2l0,0c2.8,0,5,0.8,5-2v-3
 											c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V559.5z"/>
 									</g>
-									<circle id="person-2-back-legs-right-foot-ball" class="st20" cx="465.5" cy="556.5" r="5"/>
+									<circle id="person-2-back-legs-right-foot-ball" class="ball" cx="465.5" cy="556.5" r="5"/>
 								</g>
 								<g id="person-2-back-legs-right-lower">
-									<path id="person-2-back-legs-right-lower-shape" class="st7" d="M470.5,539.5c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5v-42
+									<path id="person-2-back-legs-right-lower-shape" class="st1" d="M470.5,539.5c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5v-42
 										c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V539.5z"/>
 								</g>
-								<circle id="person-2-back-legs-right-lower-ball" class="st20" cx="465.5" cy="497.5" r="5"/>
+								<circle id="person-2-back-legs-right-lower-ball" class="ball" cx="465.5" cy="497.5" r="5"/>
 								<g id="person-2-back-legs-right-lower-socket">
-									<circle class="st15" cx="465.5" cy="539.5" r="5"/>
+									<circle class="st0" cx="465.5" cy="539.5" r="5"/>
 								</g>
 							</g>
 							<g id="person-2-back-legs-right-upper">
-								<path id="person-2-back-legs-right-upper-shape" class="st7" d="M470.5,484.5c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5v-38
+								<path id="person-2-back-legs-right-upper-shape" class="st1" d="M470.5,484.5c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5v-38
 									c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V484.5z"/>
 							</g>
-							<circle id="person-2-back-legs-upper-right-ball" class="st20" cx="465.5" cy="446.5" r="5"/>
+							<circle id="person-2-back-legs-upper-right-ball" class="ball" cx="465.5" cy="446.5" r="5"/>
 							<g id="person-2-back-legs-right-upper-socket">
-								<circle class="st15" cx="465.5" cy="484.5" r="5"/>
+								<circle class="st0" cx="465.5" cy="484.5" r="5"/>
 							</g>
 						</g>
 					</g>
@@ -673,107 +689,113 @@
 						<g id="person-2-back-arms-right-lower-group">
 							<g id="person-2-back-arms-right-hand-group">
 								<g id="person-2-back-arms-right-hand">
-									<path id="person-2-back-arms-right-hand-shape" class="st7" d="M589.5,383c0,1.9-1.6,3.5-3.5,3.5h-7
+									<path id="person-2-back-arms-right-hand-shape" class="st1" d="M589.5,383c0,1.9-1.6,3.5-3.5,3.5h-7
 										c-1.9,0-3.5-1.6-3.5-3.5l0,0c0-1.9,1.6-3.5,3.5-3.5h7C587.9,379.5,589.5,381.1,589.5,383L589.5,383z"/>
 								</g>
-								<circle id="person-2-back-arms-right-hand-ball" class="st20" cx="579" cy="383" r="4"/>
+								
+									<ellipse id="person-2-back-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -90.2209 567.5892)" class="ball" cx="579" cy="383" rx="4" ry="4"/>
 							</g>
 							<g id="person-2-back-arms-right-lower">
-								<path id="person-2-back-arms-right-lower-shape" class="st4" d="M571.5,383.1c0,1.9-1.4,3.4-3.1,3.4h-33.8
+								<path id="person-2-back-arms-right-lower-shape" class="cricketclothes" d="M571.5,383.1c0,1.9-1.4,3.4-3.1,3.4h-33.8
 									c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8c1.7,0,3.1,1.5,3.1,3.4V383.1z"/>
 							</g>
-							<circle id="person-2-back-arms-right-lower-ball" class="st20" cx="535" cy="383" r="4"/>
-							<g id="person-2-back-arms-right-lower-socket" class="st9">
-								<circle class="st3" cx="568" cy="383" r="4"/>
+							
+								<ellipse id="person-2-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -105.2989 534.4302)" class="ball" cx="535" cy="383" rx="4" ry="4"/>
+							<g id="person-2-back-arms-right-lower-socket" class="st2">
+								
+									<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -93.9904 559.2995)" class="st3" cx="568" cy="383" rx="4" ry="4"/>
 							</g>
 						</g>
 						<g id="person-2-back-arms-right-upper">
-							<path id="person-2-back-arms-right-upper-shape" class="st4" d="M527.5,383.1c0,1.9-1.2,3.4-2.7,3.4h-29.6
+							<path id="person-2-back-arms-right-upper-shape" class="cricketclothes" d="M527.5,383.1c0,1.9-1.2,3.4-2.7,3.4h-29.6
 								c-1.5,0-2.7-1.5-2.7-3.4v-0.3c0-1.9,1.2-3.4,2.7-3.4h29.6c1.5,0,2.7,1.5,2.7,3.4V383.1z"/>
 						</g>
-						<circle id="person-2-back-arms-right-upper-ball" class="st20" cx="496" cy="383" r="4"/>
-						<g id="person-2-back-arms-right-upper-socket" class="st9">
-							<circle class="st3" cx="524" cy="383" r="4"/>
+						
+							<ellipse id="person-2-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -118.6635 505.0393)" class="ball" cx="496" cy="383" rx="4" ry="4"/>
+						<g id="person-2-back-arms-right-upper-socket" class="st2">
+							
+								<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -109.0684 526.1405)" class="st3" cx="524" cy="383" rx="4" ry="4"/>
 						</g>
 					</g>
 				</g>
 				<g id="person-2-back-pelvis-group">
 					<g id="person-2-back-pelvis">
-						<path id="person-2-back-pelvis-shape" class="st4" d="M470,424.5c0,6.1-4.9,11-11,11h-18c-6.1,0-11-4.9-11-11l0,0
+						<path id="person-2-back-pelvis-shape" class="cricketclothes" d="M470,424.5c0,6.1-4.9,11-11,11h-18c-6.1,0-11-4.9-11-11l0,0
 							c0-6.1,4.9-11,11-11h18C465.1,413.5,470,418.4,470,424.5L470,424.5z"/>
 					</g>
 					<g id="person-2-back-pelvis-socket-legs-right">
-						<circle class="st15" cx="465" cy="424.5" r="5"/>
+						<circle class="st0" cx="465" cy="424.5" r="5"/>
 					</g>
 					<g id="person-2-back-pelvis-socket-legs-left">
-						<circle class="st15" cx="435" cy="424.5" r="5"/>
+						<circle class="st0" cx="435" cy="424.5" r="5"/>
 					</g>
 				</g>
 				<g id="person-2-back-torso-group">
 					<g id="person-2-back-torso">
-						<path id="person-2-back-torso-shape" class="st4" d="M429.5,386.8c-1,0-3-1.8-3-3.6v-0.3c0-1.9,2.3-3.4,4-3.4h7.1h3.2h20.5
-							h3.2h7.1c1.7,0,2,1.5,2,3.4v0.3c0,1.9-1,3.6-3,3.6v5.2v9.5c0,6.6-3.6,12-9.2,12h-20.5c-5.7,0-11.2-5.4-11.2-12V392V386.8z"/>
+						<path id="person-2-back-torso-shape" class="cricketclothes" d="M429.5,386.8c-1,0-3-1.8-3-3.6v-0.3c0-1.9,2.3-3.4,4-3.4h7.1
+							h3.2h20.5h3.2h7.1c1.7,0,2,1.5,2,3.4v0.3c0,1.9-1,3.6-3,3.6v5.2v9.5c0,6.6-3.6,12-9.2,12h-20.5c-5.7,0-11.2-5.4-11.2-12V392
+							V386.8z"/>
 					</g>
-					<g id="person-2-back-torso-socket-arms-right" class="st9">
-						<circle class="st3" cx="470" cy="383" r="4"/>
+					<g id="person-2-back-torso-socket-arms-right" class="st2">
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -127.5732 485.4454)" class="st3" cx="470" cy="383" rx="4" ry="4"/>
 					</g>
-					<g id="person-2-back-torso-socket-arms-left" class="st9">
-						<circle class="st3" cx="430" cy="383" r="4"/>
+					<g id="person-2-back-torso-socket-arms-left" class="st2">
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -145.8064 377.0128)" class="st3" cx="430" cy="383" rx="4" ry="4"/>
 					</g>
-					<circle id="person-2-back-headneck-socket" class="st0" cx="450" cy="379.5" r="5"/>
+					<circle id="person-2-back-headneck-socket" class="st4" cx="450" cy="379.5" r="5"/>
 				</g>
 			</g>
 		</g>
 	</g>
 </g>
 <g id="Labels">
-	<rect x="10" y="6" class="st14" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 10 16.6401)"><tspan x="0" y="0" class="st5 st19">Person 1</tspan><tspan x="0" y="14.4" class="st5 st18">Front</tspan></text>
-	<rect x="184" y="4" class="st14" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 184 11.6001)"><tspan x="0" y="0" class="st1 st17">Where no left-side </tspan><tspan x="0" y="12" class="st1 st17">body parts are </tspan><tspan x="0" y="24" class="st1 st17">supplied, the right-</tspan><tspan x="0" y="36" class="st1 st17">side body parts will </tspan><tspan x="0" y="48" class="st1 st17">be flipped.</tspan></text>
-	<rect x="10" y="51" class="st14" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 10 58.6001)" class="st1 st17">right-side</text>
-	<rect x="190" y="149" class="st14" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 190 156.6001)"><tspan x="0" y="0" class="st16 st8 st17">◌</tspan><tspan x="5" y="0" class="st1 st17"> connect to parent</tspan><tspan x="0" y="12" class="st11 st8 st17">⃝</tspan><tspan x="5" y="12" class="st1 st17"> connect to child</tspan></text>
-	<rect x="474" y="6" class="st14" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 474 16.6401)"><tspan x="0" y="0" class="st5 st19">Person 1</tspan><tspan x="0" y="14.4" class="st5 st18">Back</tspan></text>
-	<rect x="310.3" y="4" class="st14" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 310.3335 11.6001)"><tspan x="0" y="0" class="st1 st17">Where no left-side </tspan><tspan x="0" y="12" class="st1 st17">body parts are </tspan><tspan x="0" y="24" class="st1 st17">supplied, the right-</tspan><tspan x="0" y="36" class="st1 st17">side body parts will </tspan><tspan x="0" y="48" class="st1 st17">be flipped.</tspan></text>
-	<rect x="474" y="51" class="st14" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 474 58.6001)" class="st1 st17">right-side</text>
-	<rect x="311" y="149" class="st14" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 311 156.6001)"><tspan x="0" y="0" class="st16 st8 st17">◌</tspan><tspan x="5" y="0" class="st1 st17"> connect to parent</tspan><tspan x="0" y="12" class="st11 st8 st17">⃝</tspan><tspan x="5" y="12" class="st1 st17"> connect to child</tspan></text>
-	<rect x="610" y="6" class="st14" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 610 16.6401)"><tspan x="0" y="0" class="st5 st19">Person 1</tspan><tspan x="0" y="14.4" class="st5 st18">Right</tspan></text>
-	<rect x="784" y="4" class="st14" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 784 11.6001)"><tspan x="0" y="0" class="st1 st17">Where no left-side </tspan><tspan x="0" y="12" class="st1 st17">body parts are </tspan><tspan x="0" y="24" class="st1 st17">supplied, the right-</tspan><tspan x="0" y="36" class="st1 st17">side body parts will </tspan><tspan x="0" y="48" class="st1 st17">be copied.</tspan></text>
-	<rect x="630" y="133" class="st14" width="77" height="14"/>
-	<text transform="matrix(1 0 0 1 630 140.6001)" class="st1 st17">right-side</text>
-	<rect x="790" y="149" class="st14" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 790 156.6001)"><tspan x="0" y="0" class="st16 st8 st17">◌</tspan><tspan x="5" y="0" class="st1 st17"> connect to parent</tspan><tspan x="0" y="12" class="st11 st8 st17">⃝</tspan><tspan x="5" y="12" class="st1 st17"> connect to child</tspan></text>
-	<rect x="10" y="306" class="st14" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 10 316.6401)"><tspan x="0" y="0" class="st5 st19">Person 2</tspan><tspan x="0" y="14.4" class="st5 st18">Front</tspan></text>
-	<rect x="184" y="304" class="st14" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 184 311.6001)"><tspan x="0" y="0" class="st1 st17">Where no left-side </tspan><tspan x="0" y="12" class="st1 st17">body parts are </tspan><tspan x="0" y="24" class="st1 st17">supplied, the right-</tspan><tspan x="0" y="36" class="st1 st17">side body parts will </tspan><tspan x="0" y="48" class="st1 st17">be flipped.</tspan></text>
-	<rect x="10" y="351" class="st14" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 10 358.6001)" class="st1 st17">right-side</text>
-	<rect x="190" y="449" class="st14" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 190 456.6001)"><tspan x="0" y="0" class="st16 st8 st17">◌</tspan><tspan x="5" y="0" class="st1 st17"> connect to parent</tspan><tspan x="0" y="12" class="st11 st8 st17">⃝</tspan><tspan x="5" y="12" class="st1 st17"> connect to child</tspan></text>
-	<rect x="474" y="306" class="st14" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 474 316.6401)"><tspan x="0" y="0" class="st5 st19">Person 2</tspan><tspan x="0" y="14.4" class="st5 st18">Back</tspan></text>
-	<rect x="310.3" y="304" class="st14" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 310.3335 311.6001)"><tspan x="0" y="0" class="st1 st17">Where no left-side </tspan><tspan x="0" y="12" class="st1 st17">body parts are </tspan><tspan x="0" y="24" class="st1 st17">supplied, the right-</tspan><tspan x="0" y="36" class="st1 st17">side body parts will </tspan><tspan x="0" y="48" class="st1 st17">be flipped.</tspan></text>
-	<rect x="474" y="351" class="st14" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 474 358.6001)" class="st1 st17">right-side</text>
-	<rect x="311" y="449" class="st14" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 311 456.6001)"><tspan x="0" y="0" class="st16 st8 st17">◌</tspan><tspan x="5" y="0" class="st1 st17"> connect to parent</tspan><tspan x="0" y="12" class="st11 st8 st17">⃝</tspan><tspan x="5" y="12" class="st1 st17"> connect to child</tspan></text>
-	<rect x="610" y="306" class="st14" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 610 316.6401)"><tspan x="0" y="0" class="st5 st19">Person 2</tspan><tspan x="0" y="14.4" class="st5 st18">Right</tspan></text>
-	<rect x="784" y="304" class="st14" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 784 311.6001)"><tspan x="0" y="0" class="st1 st17">Where no left-side </tspan><tspan x="0" y="12" class="st1 st17">body parts are </tspan><tspan x="0" y="24" class="st1 st17">supplied, the right-</tspan><tspan x="0" y="36" class="st1 st17">side body parts will </tspan><tspan x="0" y="48" class="st1 st17">be copied.</tspan></text>
-	<rect x="630" y="433" class="st14" width="77" height="14"/>
-	<text transform="matrix(1 0 0 1 630 440.6001)" class="st1 st17">right-side</text>
-	<rect x="790" y="449" class="st14" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 790 456.6001)"><tspan x="0" y="0" class="st16 st8 st17">◌</tspan><tspan x="5" y="0" class="st1 st17"> connect to parent</tspan><tspan x="0" y="12" class="st11 st8 st17">⃝</tspan><tspan x="5" y="12" class="st1 st17"> connect to child</tspan></text>
+	<rect x="10" y="6" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 10 16.6401)"><tspan x="0" y="0" class="st10 st11">Person 1</tspan><tspan x="0" y="14.4" class="st10 st12">Front</tspan></text>
+	<rect x="184" y="4" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 184 11.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be flipped.</tspan></text>
+	<rect x="10" y="51" class="st9" width="114" height="18"/>
+	<text transform="matrix(1 0 0 1 10 58.6001)" class="st13 st14">right-side</text>
+	<rect x="190" y="149" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 190 156.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="474" y="6" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 474 16.6401)"><tspan x="0" y="0" class="st10 st11">Person 1</tspan><tspan x="0" y="14.4" class="st10 st12">Back</tspan></text>
+	<rect x="310.3" y="4" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 310.3335 11.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be flipped.</tspan></text>
+	<rect x="474" y="51" class="st9" width="114" height="18"/>
+	<text transform="matrix(1 0 0 1 474 58.6001)" class="st13 st14">right-side</text>
+	<rect x="311" y="149" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 311 156.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="610" y="6" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 610 16.6401)"><tspan x="0" y="0" class="st10 st11">Person 1</tspan><tspan x="0" y="14.4" class="st10 st12">Right</tspan></text>
+	<rect x="784" y="4" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 784 11.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be copied.</tspan></text>
+	<rect x="630" y="133" class="st9" width="77" height="14"/>
+	<text transform="matrix(1 0 0 1 630 140.6001)" class="st13 st14">right-side</text>
+	<rect x="790" y="149" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 790 156.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="10" y="306" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 10 316.6401)"><tspan x="0" y="0" class="st10 st11">Person 2</tspan><tspan x="0" y="14.4" class="st10 st12">Front</tspan></text>
+	<rect x="184" y="304" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 184 311.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be flipped.</tspan></text>
+	<rect x="10" y="351" class="st9" width="114" height="18"/>
+	<text transform="matrix(1 0 0 1 10 358.6001)" class="st13 st14">right-side</text>
+	<rect x="190" y="449" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 190 456.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="474" y="306" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 474 316.6401)"><tspan x="0" y="0" class="st10 st11">Person 2</tspan><tspan x="0" y="14.4" class="st10 st12">Back</tspan></text>
+	<rect x="310.3" y="304" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 310.3335 311.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be flipped.</tspan></text>
+	<rect x="474" y="351" class="st9" width="114" height="18"/>
+	<text transform="matrix(1 0 0 1 474 358.6001)" class="st13 st14">right-side</text>
+	<rect x="311" y="449" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 311 456.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="610" y="306" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 610 316.6401)"><tspan x="0" y="0" class="st10 st11">Person 2</tspan><tspan x="0" y="14.4" class="st10 st12">Right</tspan></text>
+	<rect x="784" y="304" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 784 311.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be copied.</tspan></text>
+	<rect x="630" y="433" class="st9" width="77" height="14"/>
+	<text transform="matrix(1 0 0 1 630 440.6001)" class="st13 st14">right-side</text>
+	<rect x="790" y="449" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 790 456.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
 </g>
 </svg>
