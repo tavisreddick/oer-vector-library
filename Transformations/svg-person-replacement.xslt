@@ -24,7 +24,8 @@
 		<xsl:copy />
 		<xsl:copy-of select="$replacementSetDoc/svg:svg/svg:style/text()" />
 	</xsl:template>
-	<xsl:template match="svg:g[starts-with(@id, 'person')][not(svg:g)]">
+	<xsl:template match="svg:g[starts-with(@id, 'person')][not(svg:g/@id)]">
+		<!-- every group with a person-related id but not containing a child group with id -->
 		<xsl:variable name="gid" select="./@id"/>
 		<xsl:comment select="concat('gid = ', $gid)" />
 		<xsl:choose>

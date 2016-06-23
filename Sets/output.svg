@@ -35,21 +35,28 @@
 	.liveryteam1A{fill:#FCEE21;stroke:#FBB03B;stroke-linejoin:round;stroke-miterlimit:10;}
 	.liveryteam1B{fill:#1A1A1A;stroke:#666666;stroke-miterlimit:10;}
 	.person2flesh{fill:#FFCCCC;stroke:#996666;stroke-miterlimit:10;}
+	.liveryteam2A{fill:#662D91;stroke:#1B1464;stroke-miterlimit:10;}
+	.liveryteam2B{fill:#29ABE2;stroke:#0071BC;stroke-miterlimit:10;}
 	.st0{fill:none;}
 	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
 	.st2{opacity:0.8;}
 	.st3{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9652,0.9652;}
-	.st4{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st5{fill:#C7B299;}
-	.st6{fill:none;stroke:#603813;stroke-miterlimit:10;}
-	.st7{font-family:'Verdana-Bold';}
-	.st8{font-size:14px;}
-	.st9{font-size:12px;}
-	.st10{font-family:'Verdana';}
-	.st11{font-size:10px;}
-	.st12{fill:#00FF00;}
-	.st13{font-family:'MyriadPro-Regular';}
-	.st14{fill:#FF0000;}
+	.st4{fill:#1A1A1A;}
+	.st5{font-family:'Verdana';}
+	.st6{font-size:24px;}
+	.st7{fill:none;stroke:#666666;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st9{fill:#C7B299;}
+	.st10{fill:none;stroke:#603813;stroke-miterlimit:10;}
+	.st11{fill:#29ABE2;}
+	.st12{fill:none;stroke:#0071BC;stroke-miterlimit:10;}
+	.st13{font-family:'Verdana-Bold';}
+	.st14{font-size:14px;}
+	.st15{font-size:12px;}
+	.st16{font-size:10px;}
+	.st17{fill:#00FF00;}
+	.st18{font-family:'MyriadPro-Regular';}
+	.st19{fill:#FF0000;}
 </style>
 <g id="Background">
 	<rect class="backcloth" width="300" height="300"/>
@@ -184,6 +191,10 @@
 				<g id="person-1-front-torso-group">
 					<!--gid = person-1-front-torso--><!--replacement--><g id="person-1-front-torso">
 						<path id="person-1-front-torso-shape" class="liveryteam1A" d="M170.5,86.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4h-7.1        h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6V92v9.5c0,6.6,4.6,12,10.2,12h20.5c5.7,0,10.2-5.4,10.2-12        V92V86.8z"/>
+						<g>
+							<text transform="matrix(1 0 0 1 135 107)" class="st4 st5 st6">01</text>
+							<text transform="matrix(1 0 0 1 135 107)" class="st7 st5 st6">01</text>
+						</g>
 					</g>
 					<!--gid = person-1-front-torso-socket-arms-right--><!--replacement--><g id="person-1-front-torso-socket-arms-right" class="st2">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -22.527 105.9014)" class="st0" cx="130" cy="83" rx="4" ry="4"/>
@@ -258,13 +269,13 @@
 						</g>
 						<!--gid = person-1-right-legs-right-upper--><!--replacement--><g id="person-1-right-legs-right-upper">
 							<g>
-								<path class="st5" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+								<path class="st9" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g>
 							<g>
 								<path class="person1flesh" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5          V146.5z"/>
 							</g>
 							<g>
-								<path class="st6" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+								<path class="st10" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g>
 						</g>
 						<circle id="person-1-right-legs-upper-right-ball" class="ball" cx="750.5" cy="146.5" r="5"/>
@@ -327,23 +338,23 @@
 						<g id="person-1-back-legs-right-upper-group">
 							<g id="person-1-back-legs-right-lower-group">
 								<g id="person-1-back-legs-right-foot-group">
-									<!--gid = person-1-back-legs-right-foot--><!--replacement--><g id="person-1-back-legs-right-foot">
+									<!--gid = person-1-back-legs-right-foot--><!--component-detected, new component = person-1-back-legs-left-foot--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><!--gid = person-1-back-legs-right-foot--><!--replacement--><g id="person-1-back-legs-right-foot">
 										<path id="person-1-back-legs-right-foot-shape" class="person1flesh" d="M460.5,259.5c0,2.8,2.2,2,5,2l0,0            c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V259.5z"/>
-									</g>
+									</g><use xlink:href="#person-1-back-legs-right-foot" id="person-1-back-legs-left-foot" transform="translate(-31,0)"/>
 									<circle id="person-1-back-legs-right-foot-ball" class="ball" cx="465.5" cy="256.5" r="5"/>
 								</g>
-								<!--gid = person-1-back-legs-right-lower--><!--replacement--><g id="person-1-back-legs-right-lower">
+								<!--gid = person-1-back-legs-right-lower--><!--component-detected, new component = person-1-back-legs-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><!--gid = person-1-back-legs-right-lower--><!--replacement--><g id="person-1-back-legs-right-lower">
 									<path id="person-1-back-legs-right-lower-shape" class="person1flesh" d="M470.5,239.5c0,2.8-2.2,5-5,5l0,0           c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V239.5z"/>
-								</g>
+								</g><use xlink:href="#person-1-back-legs-right-lower" id="person-1-back-legs-left-lower" transform="translate(-31,0)"/>
 								<circle id="person-1-back-legs-right-lower-ball" class="ball" cx="465.5" cy="197.5" r="5"/>
 								<!--gid = person-1-back-legs-right-lower-socket--><!--replacement--><g id="person-1-back-legs-right-lower-socket">
 									<circle class="st0" cx="465.5" cy="239.5" r="5"/>
 									<circle class="st1" cx="465.5" cy="239.5" r="5"/>
 								</g>
 							</g>
-							<!--gid = person-1-back-legs-right-upper--><!--replacement--><g id="person-1-back-legs-right-upper">
+							<!--gid = person-1-back-legs-right-upper--><!--component-detected, new component = person-1-back-legs-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><!--gid = person-1-back-legs-right-upper--><!--replacement--><g id="person-1-back-legs-right-upper">
 								<path id="person-1-back-legs-right-upper-shape" class="person1flesh" d="M470.5,184.5c0,2.8-2.2,5-5,5l0,0          c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V184.5z"/>
-							</g>
+							</g><use xlink:href="#person-1-back-legs-right-upper" id="person-1-back-legs-left-upper" transform="translate(-31,0)"/>
 							<circle id="person-1-back-legs-upper-right-ball" class="ball" cx="465.5" cy="146.5" r="5"/>
 							<!--gid = person-1-back-legs-right-upper-socket--><!--replacement--><g id="person-1-back-legs-right-upper-socket">
 								<circle class="st0" cx="465.5" cy="184.5" r="5"/>
@@ -356,23 +367,15 @@
 					<g id="person-1-back-arms-right">
 						<g id="person-1-back-arms-right-lower-group">
 							<g id="person-1-back-arms-right-hand-group">
-								<!--gid = person-1-back-arms-right-hand--><!--replacement--><g id="person-1-back-arms-right-hand">
+								<!--gid = person-1-back-arms-right-hand--><!--component-detected, new component = person-1-back-arms-left-hand--><!--$newComponent/@x = 450--><!--$ball/@cx = 579--><!--gid = person-1-back-arms-right-hand--><!--replacement--><g id="person-1-back-arms-right-hand">
 									<path id="person-1-back-arms-right-hand-shape" class="person1flesh" d="M589.5,83c0,1.9-1.6,3.5-3.5,3.5h-7           c-1.9,0-3.5-1.6-3.5-3.5l0,0c0-1.9,1.6-3.5,3.5-3.5h7C587.9,79.5,589.5,81.1,589.5,83L589.5,83z"/>
-								</g>
+								</g><use xlink:href="#person-1-back-arms-right-hand" id="person-1-back-arms-left-hand" transform="rotate(180,450,83)"/>
 								
 									<ellipse id="person-1-back-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 135.8631 464.7846)" class="ball" cx="579" cy="83" rx="4" ry="4"/>
 							</g>
-							<g id="person-1-back-arms-right-lower">
-								<g>
-									<path class="st4" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8           c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
-								</g>
-								<g>
-									<path class="cricketclothes" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3           c0-1.9,1.4-3.4,3.1-3.4h33.8c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
-								</g>
-								<g>
-									<path class="st5" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8           c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
-								</g>
-							</g>
+							<!--gid = person-1-back-arms-right-lower--><!--component-detected, new component = person-1-back-arms-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = 535--><!--gid = person-1-back-arms-right-lower--><!--replacement--><g id="person-1-back-arms-right-lower">
+								<path id="person-1-back-arms-right-lower-shape" class="person1flesh" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8          c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
+							</g><use xlink:href="#person-1-back-arms-right-lower" id="person-1-back-arms-left-lower" transform="rotate(180,450,83)"/>
 							
 								<ellipse id="person-1-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 120.7851 431.6256)" class="ball" cx="535" cy="83" rx="4" ry="4"/>
 							<!--gid = person-1-back-arms-right-lower-socket--><!--replacement--><g id="person-1-back-arms-right-lower-socket" class="st2">
@@ -380,9 +383,9 @@
 								<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 132.0927 456.4938)" class="st3" cx="568" cy="83" rx="4" ry="4"/>
 							</g>
 						</g>
-						<!--gid = person-1-back-arms-right-upper--><!--replacement--><g id="person-1-back-arms-right-upper">
+						<!--gid = person-1-back-arms-right-upper--><!--component-detected, new component = person-1-back-arms-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = 496--><!--gid = person-1-back-arms-right-upper--><!--replacement--><g id="person-1-back-arms-right-upper">
 							<path id="person-1-back-arms-right-upper-shape" class="person1flesh" d="M527.5,83.1c0,1.9-1.2,3.4-2.7,3.4h-29.6         c-1.5,0-2.7-1.5-2.7-3.4v-0.3c0-1.9,1.2-3.4,2.7-3.4h29.6c1.5,0,2.7,1.5,2.7,3.4V83.1z"/>
-						</g>
+						</g><use xlink:href="#person-1-back-arms-right-upper" id="person-1-back-arms-left-upper" transform="rotate(180,450,83)"/>
 						
 							<ellipse id="person-1-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 107.4205 402.2347)" class="ball" cx="496" cy="83" rx="4" ry="4"/>
 						<!--gid = person-1-back-arms-right-upper-socket--><!--replacement--><g id="person-1-back-arms-right-upper-socket" class="st2">
@@ -426,7 +429,7 @@
 			<g id="person-2-front-body">
 				<g id="person-2-front-pelvis-group">
 					<!--gid = person-2-front-pelvis--><!--replacement--><g id="person-2-front-pelvis">
-						<path id="person-2-front-pelvis-shape" class="person2flesh" d="M169.5,424.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11l0,0        c0,6.1,4.9,11,11,11h18C164.6,435.5,169.5,430.6,169.5,424.5L169.5,424.5z"/>
+						<path id="person-2-front-pelvis-shape" class="liveryteam2B" d="M169.5,424.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11l0,0        c0,6.1,4.9,11,11,11h18C164.6,435.5,169.5,430.6,169.5,424.5L169.5,424.5z"/>
 					</g>
 					<!--gid = person-2-front-pelvis-socket-legs-right--><!--replacement--><g id="person-2-front-pelvis-socket-legs-right">
 						<circle class="st1" cx="134.5" cy="424.5" r="5"/>
@@ -496,12 +499,8 @@
 				<g id="person-2-front-headneck">
 					<g id="person-2-front-neck-group">
 						<g id="person-2-front-head-group">
-							<g id="person-2-front-head">
+							<!--gid = person-2-front-head--><!--replacement--><g id="person-2-front-head">
 								<path id="person-2-front-head-shape" class="person2flesh" d="M158.5,336.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6          v8.8c0,3.6,3,6.6,6.6,6.6h3.8c3.6,0,6.6-3,6.6-6.6V336.6z"/>
-								<path class="st6" d="M159.5,337c0,5.2-4.3-0.5-9.5-0.5l0,0c-5.2,0-9.5,5.7-9.5,0.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0          C155.2,327.5,159.5,331.8,159.5,337L159.5,337z"/>
-								<g>
-									<path class="person2hair" d="M159.8,346c-0.1-0.5-0.4-0.5-0.8-0.5c-0.4,0-1.1-0.2-1.5,0.3l-0.2-0.2c-1.4,0-2.7,0.1-4.1-0.2           c-0.4-0.1-0.7-0.1-1.1-0.2c-0.3-0.1-0.6-0.2-0.9-0.4c-0.3-0.1-0.6-0.1-0.9-0.3c-0.2-0.1-0.3-0.2-0.5-0.2           c-0.2,0-0.3,0.1-0.5,0.2c-0.3,0.1-0.6,0.1-0.9,0.3c-0.3,0.1-0.6,0.3-0.9,0.4c-0.3,0.1-0.7,0.1-1.1,0.2           c-1.4,0.2-2.7,0.2-4.1,0.2l-0.2,0.2c-0.3-0.4-1-0.3-1.5-0.3c-0.3,0-0.7,0-0.8,0.5c-0.1,0.3,0,0.6,0,0.9c0,1,0,2,0.2,2.9           c0.2,1,0.5,1.7,1.2,2.3c0.5,0.4,1.2,0.7,1.7,1.2c0.2,0.2,0.4,0.4,0.7,0.6c0.4,0.3,0.8,0.6,1.2,0.9c0.6,0.4,1.2,0.7,1.7,1.1           c0.5,0.3,1,0.6,1.6,0.8c0.5,0.2,1.1,0.4,1.6,0.6c0.5-0.2,1-0.4,1.6-0.6c0.6-0.2,1.1-0.5,1.6-0.8c0.6-0.4,1.2-0.7,1.7-1.1           c0.4-0.3,0.8-0.6,1.2-0.9c0.3-0.2,0.4-0.4,0.7-0.6c0.5-0.5,1.1-0.8,1.7-1.2c0.7-0.5,1-1.2,1.2-2.3c0.2-0.9,0.2-1.9,0.2-2.9           C159.9,346.6,159.9,346.3,159.8,346z M149,348c-5,0,0-1,0-1C151,347,154,348,149,348z"/>
-								</g>
 							</g>
 							<circle id="person-2-front-head-ball" class="ball" cx="150" cy="350.5" r="5"/>
 						</g>
@@ -516,7 +515,12 @@
 				</g>
 				<g id="person-2-front-torso-group">
 					<!--gid = person-2-front-torso--><!--replacement--><g id="person-2-front-torso">
-						<path id="person-2-front-torso-shape" class="person2flesh" d="M170.5,386.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4h-7.1        h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6v5.2v9.5c0,6.6,4.6,12,10.2,12h20.5c5.7,0,10.2-5.4,10.2-12        V392V386.8z"/>
+						<path id="person-2-front-torso-shape_1_" class="person2flesh" d="M170.5,386.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4        h-7.1h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6v5.2v9.5c0,6.6,4.6,12,10.2,12h20.5        c5.7,0,10.2-5.4,10.2-12V392V386.8z"/>
+						<path class="liveryteam2A" d="M169.8,388.2c-2.8,0-5.2-2.5-5.2-5.2v-3.5h-1.1h-3.2h-2.3c-0.5,5.4-3.9,9.5-7.9,9.5        s-7.4-4.1-7.9-9.5h-2.3h-3.2h-1.1v3.5c0,2.8-2.5,5.2-5.2,5.2c-0.3,0-0.5,0-0.8-0.1v3.8v9.5c0,6.6,4.6,12,10.2,12h20.5        c5.7,0,10.2-5.4,10.2-12V392v-3.8C170.3,388.2,170,388.2,169.8,388.2z"/>
+						<g>
+							<text transform="matrix(1 0 0 1 135 409)" class="st11 st5 st6">02</text>
+							<text transform="matrix(1 0 0 1 135 409)" class="st12 st5 st6">02</text>
+						</g>
 					</g>
 					<!--gid = person-2-front-torso-socket-arms-right--><!--replacement--><g id="person-2-front-torso-socket-arms-right" class="st2">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -219.7224 179.8174)" class="st3" cx="130" cy="383" rx="4" ry="4"/>
@@ -533,12 +537,8 @@
 				<g id="person-2-right-headneck">
 					<g id="person-2-right-neck-group">
 						<g id="person-2-right-head-group">
-							<g id="person-2-right-head">
+							<!--gid = person-2-right-head--><!--replacement--><g id="person-2-right-head">
 								<path id="person-2-right-head-shape" class="person2flesh" d="M765.5,342.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2          c-4.1,0-7.9,2.5-7.9,6.1v8.8c0,3.6,3.8,7.1,7.9,7.1h4.2c4.1,0,6.9-3.5,6.9-7.1v-2.1L765.5,342.9z"/>
-								<g>
-									<path class="person2hair" d="M752.4,345.5c1.8,0,3.6,0.1,5.4-0.2c0.5-0.1,1-0.1,1.4-0.2c0.4-0.1,0.8-0.2,1.2-0.4           c0.4-0.1,0.8-0.1,1.1-0.3c0.3-0.1,0.7-0.3,1-0.3c0.7,0.1,1.2,1.1,1.5,1.7c0.3,0.6,0.4,1.2,0.6,1.8c0.2,0.5,0.5,0.9,0.6,1.4           c0.1,0.6,0.3,1.2,0.4,1.7c0.1,0.3,0,0.4,0.2,0.7c0.1,0.2,0.2,0.5,0.3,0.7c0.1,0.5,0.3,1,0.4,1.6c0,0.2,0,0.5,0.1,0.8           c0.1,0.3,0.6,0.7,0.8,0.9c0.5,0.4,1,0.8,1.5,1.2c0.1,0.1,0.7,0.4,0.7,0.6c0,0.4-1,0.5-1.3,0.5c-0.8,0.2-1.7,0.2-2.6,0.3           c-0.8,0-1.5-0.2-2.3-0.4c-1.2-0.4-2.3-0.7-3.5-1.1c-0.7-0.2-1.4-0.5-2.1-0.8c-0.7-0.4-1.5-0.7-2.3-1.1           c-0.5-0.3-1.1-0.6-1.6-0.9c-0.4-0.2-0.6-0.4-0.9-0.6c-0.7-0.5-1.5-0.8-2.2-1.2c-0.9-0.5-1.3-1.2-1.6-2.3           c-0.3-0.9-0.3-1.9-0.3-2.9c0-0.3,0-0.6,0.1-0.9c0.2-0.5,0.6-0.5,1-0.5c0.6,0,1.5-0.2,1.9,0.3"/>
-								</g>
-								<path class="st6" d="M762,335c0,1-2.8,4-8,4c-0.5,0-3.5,1-4,1c-5.2,0-9.5,3.2-9.5-2c0-0.5,0-1.5,0-2c0-5.2,3.3-8.5,8.5-8.5          c0.5,0,1.5,0,2,0C756.2,327.5,762,329.8,762,335C762,335.5,762,334.5,762,335z"/>
 							</g>
 							<circle id="person-2-right-head-ball" class="ball" cx="749.5" cy="351" r="5"/>
 						</g>
@@ -653,22 +653,22 @@
 						<g id="person-2-back-legs-right-upper-group">
 							<g id="person-2-back-legs-right-lower-group">
 								<g id="person-2-back-legs-right-foot-group">
-									<!--gid = person-2-back-legs-right-foot--><!--replacement--><g id="person-2-back-legs-right-foot">
+									<!--gid = person-2-back-legs-right-foot--><!--component-detected, new component = person-2-back-legs-left-foot--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><!--gid = person-2-back-legs-right-foot--><!--replacement--><g id="person-2-back-legs-right-foot">
 										<path id="person-2-back-legs-right-foot-shape" class="person2flesh" d="M460.5,559.5c0,2.8,2.2,2,5,2l0,0            c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V559.5z"/>
-									</g>
+									</g><use xlink:href="#person-2-back-legs-right-foot" id="person-2-back-legs-left-foot" transform="translate(-31,0)"/>
 									<circle id="person-2-back-legs-right-foot-ball" class="ball" cx="465.5" cy="556.5" r="5"/>
 								</g>
-								<!--gid = person-2-back-legs-right-lower--><!--replacement--><g id="person-2-back-legs-right-lower">
+								<!--gid = person-2-back-legs-right-lower--><!--component-detected, new component = person-2-back-legs-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><!--gid = person-2-back-legs-right-lower--><!--replacement--><g id="person-2-back-legs-right-lower">
 									<path id="person-2-back-legs-right-lower-shape" class="person2flesh" d="M470.5,539.5c0,2.8-2.2,5-5,5l0,0           c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V539.5z"/>
-								</g>
+								</g><use xlink:href="#person-2-back-legs-right-lower" id="person-2-back-legs-left-lower" transform="translate(-31,0)"/>
 								<circle id="person-2-back-legs-right-lower-ball" class="ball" cx="465.5" cy="497.5" r="5"/>
 								<!--gid = person-2-back-legs-right-lower-socket--><!--replacement--><g id="person-2-back-legs-right-lower-socket">
 									<circle class="st1" cx="465.5" cy="539.5" r="5"/>
 								</g>
 							</g>
-							<!--gid = person-2-back-legs-right-upper--><!--replacement--><g id="person-2-back-legs-right-upper">
+							<!--gid = person-2-back-legs-right-upper--><!--component-detected, new component = person-2-back-legs-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><!--gid = person-2-back-legs-right-upper--><!--replacement--><g id="person-2-back-legs-right-upper">
 								<path id="person-2-back-legs-right-upper-shape" class="person2flesh" d="M470.5,484.5c0,2.8-2.2,5-5,5l0,0          c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V484.5z"/>
-							</g>
+							</g><use xlink:href="#person-2-back-legs-right-upper" id="person-2-back-legs-left-upper" transform="translate(-31,0)"/>
 							<circle id="person-2-back-legs-upper-right-ball" class="ball" cx="465.5" cy="446.5" r="5"/>
 							<!--gid = person-2-back-legs-right-upper-socket--><!--replacement--><g id="person-2-back-legs-right-upper-socket">
 								<circle class="st1" cx="465.5" cy="484.5" r="5"/>
@@ -680,15 +680,15 @@
 					<g id="person-2-back-arms-right">
 						<g id="person-2-back-arms-right-lower-group">
 							<g id="person-2-back-arms-right-hand-group">
-								<!--gid = person-2-back-arms-right-hand--><!--replacement--><g id="person-2-back-arms-right-hand">
+								<!--gid = person-2-back-arms-right-hand--><!--component-detected, new component = person-2-back-arms-left-hand--><!--$newComponent/@x = 450--><!--$ball/@cx = 579--><!--gid = person-2-back-arms-right-hand--><!--replacement--><g id="person-2-back-arms-right-hand">
 									<path id="person-2-back-arms-right-hand-shape" class="person2flesh" d="M589.5,383c0,1.9-1.6,3.5-3.5,3.5h-7           c-1.9,0-3.5-1.6-3.5-3.5l0,0c0-1.9,1.6-3.5,3.5-3.5h7C587.9,379.5,589.5,381.1,589.5,383L589.5,383z"/>
-								</g>
+								</g><use xlink:href="#person-2-back-arms-right-hand" id="person-2-back-arms-left-hand" transform="rotate(180,450,383)"/>
 								
 									<ellipse id="person-2-back-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -90.2209 567.5892)" class="ball" cx="579" cy="383" rx="4" ry="4"/>
 							</g>
-							<!--gid = person-2-back-arms-right-lower--><!--replacement--><g id="person-2-back-arms-right-lower">
+							<!--gid = person-2-back-arms-right-lower--><!--component-detected, new component = person-2-back-arms-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = 535--><!--gid = person-2-back-arms-right-lower--><!--replacement--><g id="person-2-back-arms-right-lower">
 								<path id="person-2-back-arms-right-lower-shape" class="person2flesh" d="M571.5,383.1c0,1.9-1.4,3.4-3.1,3.4h-33.8          c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8c1.7,0,3.1,1.5,3.1,3.4V383.1z"/>
-							</g>
+							</g><use xlink:href="#person-2-back-arms-right-lower" id="person-2-back-arms-left-lower" transform="rotate(180,450,383)"/>
 							
 								<ellipse id="person-2-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -105.2989 534.4302)" class="ball" cx="535" cy="383" rx="4" ry="4"/>
 							<!--gid = person-2-back-arms-right-lower-socket--><!--replacement--><g id="person-2-back-arms-right-lower-socket" class="st2">
@@ -696,9 +696,9 @@
 									<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -93.9904 559.2995)" class="st3" cx="568" cy="383" rx="4" ry="4"/>
 							</g>
 						</g>
-						<!--gid = person-2-back-arms-right-upper--><!--replacement--><g id="person-2-back-arms-right-upper">
+						<!--gid = person-2-back-arms-right-upper--><!--component-detected, new component = person-2-back-arms-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = 496--><!--gid = person-2-back-arms-right-upper--><!--replacement--><g id="person-2-back-arms-right-upper">
 							<path id="person-2-back-arms-right-upper-shape" class="person2flesh" d="M527.5,383.1c0,1.9-1.2,3.4-2.7,3.4h-29.6         c-1.5,0-2.7-1.5-2.7-3.4v-0.3c0-1.9,1.2-3.4,2.7-3.4h29.6c1.5,0,2.7,1.5,2.7,3.4V383.1z"/>
-						</g>
+						</g><use xlink:href="#person-2-back-arms-right-upper" id="person-2-back-arms-left-upper" transform="rotate(180,450,383)"/>
 						
 							<ellipse id="person-2-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -118.6635 505.0393)" class="ball" cx="496" cy="383" rx="4" ry="4"/>
 						<!--gid = person-2-back-arms-right-upper-socket--><!--replacement--><g id="person-2-back-arms-right-upper-socket" class="st2">

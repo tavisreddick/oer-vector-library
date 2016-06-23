@@ -11,21 +11,28 @@
 	.liveryteam1A{fill:#FCEE21;stroke:#FBB03B;stroke-linejoin:round;stroke-miterlimit:10;}
 	.liveryteam1B{fill:#1A1A1A;stroke:#666666;stroke-miterlimit:10;}
 	.person2flesh{fill:#FFCCCC;stroke:#996666;stroke-miterlimit:10;}
+	.liveryteam2A{fill:#662D91;stroke:#1B1464;stroke-miterlimit:10;}
+	.liveryteam2B{fill:#29ABE2;stroke:#0071BC;stroke-miterlimit:10;}
 	.st0{fill:none;}
 	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
 	.st2{opacity:0.8;}
 	.st3{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9652,0.9652;}
-	.st4{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st5{fill:#C7B299;}
-	.st6{fill:none;stroke:#603813;stroke-miterlimit:10;}
-	.st7{font-family:'Verdana-Bold';}
-	.st8{font-size:14px;}
-	.st9{font-size:12px;}
-	.st10{font-family:'Verdana';}
-	.st11{font-size:10px;}
-	.st12{fill:#00FF00;}
-	.st13{font-family:'MyriadPro-Regular';}
-	.st14{fill:#FF0000;}
+	.st4{fill:#1A1A1A;}
+	.st5{font-family:'Verdana';}
+	.st6{font-size:24px;}
+	.st7{fill:none;stroke:#666666;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st9{fill:#C7B299;}
+	.st10{fill:none;stroke:#603813;stroke-miterlimit:10;}
+	.st11{fill:#29ABE2;}
+	.st12{fill:none;stroke:#0071BC;stroke-miterlimit:10;}
+	.st13{font-family:'Verdana-Bold';}
+	.st14{font-size:14px;}
+	.st15{font-size:12px;}
+	.st16{font-size:10px;}
+	.st17{fill:#00FF00;}
+	.st18{font-family:'MyriadPro-Regular';}
+	.st19{fill:#FF0000;}
 </style>
 <g id="Background">
 	<rect class="backcloth" width="300" height="300"/>
@@ -172,6 +179,10 @@
 						<path id="person-1-front-torso-shape" class="liveryteam1A" d="M170.5,86.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4h-7.1
 							h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6V92v9.5c0,6.6,4.6,12,10.2,12h20.5c5.7,0,10.2-5.4,10.2-12
 							V92V86.8z"/>
+						<g>
+							<text transform="matrix(1 0 0 1 135 107)" class="st4 st5 st6">01</text>
+							<text transform="matrix(1 0 0 1 135 107)" class="st7 st5 st6">01</text>
+						</g>
 					</g>
 					<g id="person-1-front-torso-socket-arms-right" class="st2">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -22.527 105.9014)" class="st0" cx="130" cy="83" rx="4" ry="4"/>
@@ -181,7 +192,7 @@
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="st0" cx="170" cy="83" rx="4" ry="4"/>
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="st3" cx="170" cy="83" rx="4" ry="4"/>
 					</g>
-					<circle id="person-1-front-headneck-socket" class="st4" cx="150" cy="79.5" r="5"/>
+					<circle id="person-1-front-headneck-socket" class="st8" cx="150" cy="79.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -223,7 +234,7 @@
 						<path id="person-1-right-torso-shape" class="person1flesh" d="M762.5,91.5c0-6.6-5.2-12-11.5-12H749c-6.4,0-11.5,5.4-11.5,12
 							v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V91.5z"/>
 					</g>
-					<circle id="person-1-right-headneck-socket" class="st4" cx="749.5" cy="80" r="5"/>
+					<circle id="person-1-right-headneck-socket" class="st8" cx="749.5" cy="80" r="5"/>
 					<g id="person-1-right-torso-socket-arms-right" class="st2">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 194.1191 592.8989)" class="st3" cx="749" cy="83" rx="4" ry="4"/>
 					</g>
@@ -252,14 +263,14 @@
 						</g>
 						<g id="person-1-right-legs-right-upper">
 							<g>
-								<path class="st5" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+								<path class="st9" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g>
 							<g>
 								<path class="person1flesh" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5
 									V146.5z"/>
 							</g>
 							<g>
-								<path class="st6" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+								<path class="st10" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g>
 						</g>
 						<circle id="person-1-right-legs-upper-right-ball" class="ball" cx="750.5" cy="146.5" r="5"/>
@@ -417,7 +428,7 @@
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 51.389 303.0968)" class="st0" cx="430" cy="83" rx="4" ry="4"/>
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 51.389 303.0968)" class="st3" cx="430" cy="83" rx="4" ry="4"/>
 					</g>
-					<circle id="person-1-back-headneck-socket" class="st4" cx="450" cy="79.5" r="5"/>
+					<circle id="person-1-back-headneck-socket" class="st8" cx="450" cy="79.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -427,7 +438,7 @@
 			<g id="person-2-front-body">
 				<g id="person-2-front-pelvis-group">
 					<g id="person-2-front-pelvis">
-						<path id="person-2-front-pelvis-shape" class="person2flesh" d="M169.5,424.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11l0,0
+						<path id="person-2-front-pelvis-shape" class="liveryteam2B" d="M169.5,424.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11l0,0
 							c0,6.1,4.9,11,11,11h18C164.6,435.5,169.5,430.6,169.5,424.5L169.5,424.5z"/>
 					</g>
 					<g id="person-2-front-pelvis-socket-legs-right">
@@ -522,9 +533,16 @@
 				</g>
 				<g id="person-2-front-torso-group">
 					<g id="person-2-front-torso">
-						<path id="person-2-front-torso-shape" class="person2flesh" d="M170.5,386.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4h-7.1
-							h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6v5.2v9.5c0,6.6,4.6,12,10.2,12h20.5c5.7,0,10.2-5.4,10.2-12
-							V392V386.8z"/>
+						<path id="person-2-front-torso-shape_1_" class="person2flesh" d="M170.5,386.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4
+							h-7.1h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6v5.2v9.5c0,6.6,4.6,12,10.2,12h20.5
+							c5.7,0,10.2-5.4,10.2-12V392V386.8z"/>
+						<path class="liveryteam2A" d="M169.8,388.2c-2.8,0-5.2-2.5-5.2-5.2v-3.5h-1.1h-3.2h-2.3c-0.5,5.4-3.9,9.5-7.9,9.5
+							s-7.4-4.1-7.9-9.5h-2.3h-3.2h-1.1v3.5c0,2.8-2.5,5.2-5.2,5.2c-0.3,0-0.5,0-0.8-0.1v3.8v9.5c0,6.6,4.6,12,10.2,12h20.5
+							c5.7,0,10.2-5.4,10.2-12V392v-3.8C170.3,388.2,170,388.2,169.8,388.2z"/>
+						<g>
+							<text transform="matrix(1 0 0 1 135 409)" class="st11 st5 st6">02</text>
+							<text transform="matrix(1 0 0 1 135 409)" class="st12 st5 st6">02</text>
+						</g>
 					</g>
 					<g id="person-2-front-torso-socket-arms-right" class="st2">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -219.7224 179.8174)" class="st3" cx="130" cy="383" rx="4" ry="4"/>
@@ -532,7 +550,7 @@
 					<g id="person-2-front-torso-socket-arms-left" class="st2">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -230.3778 259.3614)" class="st3" cx="170" cy="383" rx="4" ry="4"/>
 					</g>
-					<circle id="person-2-front-headneck-socket" class="st4" cx="150" cy="379.5" r="5"/>
+					<circle id="person-2-front-headneck-socket" class="st8" cx="150" cy="379.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -574,7 +592,7 @@
 						<path id="person-2-right-torso-shape" class="person2flesh" d="M762.5,391.5c0-6.6-5.2-12-11.5-12H749
 							c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V391.5z"/>
 					</g>
-					<circle id="person-2-right-headneck-socket" class="st4" cx="749.5" cy="380" r="5"/>
+					<circle id="person-2-right-headneck-socket" class="st8" cx="749.5" cy="380" r="5"/>
 					<g id="person-2-right-torso-socket-arms-right" class="st2">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -31.9649 695.7035)" class="st3" cx="749" cy="383" rx="4" ry="4"/>
 					</g>
@@ -753,7 +771,7 @@
 					<g id="person-2-back-torso-socket-arms-left" class="st2">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -145.8064 377.0128)" class="st3" cx="430" cy="383" rx="4" ry="4"/>
 					</g>
-					<circle id="person-2-back-headneck-socket" class="st4" cx="450" cy="379.5" r="5"/>
+					<circle id="person-2-back-headneck-socket" class="st8" cx="450" cy="379.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -761,52 +779,52 @@
 </g>
 <g id="Labels">
 	<rect x="10" y="6" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 10 16.6401)"><tspan x="0" y="0" class="st7 st8">Person 1</tspan><tspan x="0" y="14.4" class="st7 st9">Front</tspan></text>
+	<text transform="matrix(1 0 0 1 10 16.6401)"><tspan x="0" y="0" class="st13 st14">Person 1</tspan><tspan x="0" y="14.4" class="st13 st15">Front</tspan></text>
 	<rect x="184" y="4" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 184 11.6001)"><tspan x="0" y="0" class="st10 st11">Where no left-side </tspan><tspan x="0" y="12" class="st10 st11">body parts are </tspan><tspan x="0" y="24" class="st10 st11">supplied, the </tspan><tspan x="0" y="36" class="st10 st11">right-side body parts </tspan><tspan x="0" y="48" class="st10 st11">will be flipped.</tspan></text>
+	<text transform="matrix(1 0 0 1 184 11.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be flipped.</tspan></text>
 	<rect x="10" y="51" class="st0" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 10 58.6001)" class="st10 st11">right-side</text>
+	<text transform="matrix(1 0 0 1 10 58.6001)" class="st5 st16">right-side</text>
 	<rect x="190" y="149" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 190 156.6001)"><tspan x="0" y="0" class="st12 st13 st11">◌</tspan><tspan x="5" y="0" class="st10 st11"> connect to parent</tspan><tspan x="0" y="12" class="st14 st13 st11">⃝</tspan><tspan x="5" y="12" class="st10 st11"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 190 156.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
 	<rect x="474" y="6" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 474 16.6401)"><tspan x="0" y="0" class="st7 st8">Person 1</tspan><tspan x="0" y="14.4" class="st7 st9">Back</tspan></text>
+	<text transform="matrix(1 0 0 1 474 16.6401)"><tspan x="0" y="0" class="st13 st14">Person 1</tspan><tspan x="0" y="14.4" class="st13 st15">Back</tspan></text>
 	<rect x="310.3" y="4" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 310.3335 11.6001)"><tspan x="0" y="0" class="st10 st11">Where no left-side </tspan><tspan x="0" y="12" class="st10 st11">body parts are </tspan><tspan x="0" y="24" class="st10 st11">supplied, the </tspan><tspan x="0" y="36" class="st10 st11">right-side body parts </tspan><tspan x="0" y="48" class="st10 st11">will be flipped.</tspan></text>
+	<text transform="matrix(1 0 0 1 310.3335 11.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be flipped.</tspan></text>
 	<rect x="474" y="51" class="st0" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 474 58.6001)" class="st10 st11">right-side</text>
+	<text transform="matrix(1 0 0 1 474 58.6001)" class="st5 st16">right-side</text>
 	<rect x="311" y="149" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 311 156.6001)"><tspan x="0" y="0" class="st12 st13 st11">◌</tspan><tspan x="5" y="0" class="st10 st11"> connect to parent</tspan><tspan x="0" y="12" class="st14 st13 st11">⃝</tspan><tspan x="5" y="12" class="st10 st11"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 311 156.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
 	<rect x="610" y="6" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 610 16.6401)"><tspan x="0" y="0" class="st7 st8">Person 1</tspan><tspan x="0" y="14.4" class="st7 st9">Right</tspan></text>
+	<text transform="matrix(1 0 0 1 610 16.6401)"><tspan x="0" y="0" class="st13 st14">Person 1</tspan><tspan x="0" y="14.4" class="st13 st15">Right</tspan></text>
 	<rect x="784" y="4" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 784 11.6001)"><tspan x="0" y="0" class="st10 st11">Where no left-side </tspan><tspan x="0" y="12" class="st10 st11">body parts are </tspan><tspan x="0" y="24" class="st10 st11">supplied, the </tspan><tspan x="0" y="36" class="st10 st11">right-side body parts </tspan><tspan x="0" y="48" class="st10 st11">will be copied.</tspan></text>
+	<text transform="matrix(1 0 0 1 784 11.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be copied.</tspan></text>
 	<rect x="630" y="133" class="st0" width="77" height="14"/>
-	<text transform="matrix(1 0 0 1 630 140.6001)" class="st10 st11">right-side</text>
+	<text transform="matrix(1 0 0 1 630 140.6001)" class="st5 st16">right-side</text>
 	<rect x="790" y="149" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 790 156.6001)"><tspan x="0" y="0" class="st12 st13 st11">◌</tspan><tspan x="5" y="0" class="st10 st11"> connect to parent</tspan><tspan x="0" y="12" class="st14 st13 st11">⃝</tspan><tspan x="5" y="12" class="st10 st11"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 790 156.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
 	<rect x="10" y="306" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 10 316.6401)"><tspan x="0" y="0" class="st7 st8">Person 2</tspan><tspan x="0" y="14.4" class="st7 st9">Front</tspan></text>
+	<text transform="matrix(1 0 0 1 10 316.6401)"><tspan x="0" y="0" class="st13 st14">Person 2</tspan><tspan x="0" y="14.4" class="st13 st15">Front</tspan></text>
 	<rect x="184" y="304" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 184 311.6001)"><tspan x="0" y="0" class="st10 st11">Where no left-side </tspan><tspan x="0" y="12" class="st10 st11">body parts are </tspan><tspan x="0" y="24" class="st10 st11">supplied, the </tspan><tspan x="0" y="36" class="st10 st11">right-side body parts </tspan><tspan x="0" y="48" class="st10 st11">will be flipped.</tspan></text>
+	<text transform="matrix(1 0 0 1 184 311.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be flipped.</tspan></text>
 	<rect x="10" y="351" class="st0" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 10 358.6001)" class="st10 st11">right-side</text>
+	<text transform="matrix(1 0 0 1 10 358.6001)" class="st5 st16">right-side</text>
 	<rect x="190" y="449" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 190 456.6001)"><tspan x="0" y="0" class="st12 st13 st11">◌</tspan><tspan x="5" y="0" class="st10 st11"> connect to parent</tspan><tspan x="0" y="12" class="st14 st13 st11">⃝</tspan><tspan x="5" y="12" class="st10 st11"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 190 456.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
 	<rect x="474" y="306" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 474 316.6401)"><tspan x="0" y="0" class="st7 st8">Person 2</tspan><tspan x="0" y="14.4" class="st7 st9">Back</tspan></text>
+	<text transform="matrix(1 0 0 1 474 316.6401)"><tspan x="0" y="0" class="st13 st14">Person 2</tspan><tspan x="0" y="14.4" class="st13 st15">Back</tspan></text>
 	<rect x="310.3" y="304" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 310.3335 311.6001)"><tspan x="0" y="0" class="st10 st11">Where no left-side </tspan><tspan x="0" y="12" class="st10 st11">body parts are </tspan><tspan x="0" y="24" class="st10 st11">supplied, the </tspan><tspan x="0" y="36" class="st10 st11">right-side body parts </tspan><tspan x="0" y="48" class="st10 st11">will be flipped.</tspan></text>
+	<text transform="matrix(1 0 0 1 310.3335 311.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be flipped.</tspan></text>
 	<rect x="474" y="351" class="st0" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 474 358.6001)" class="st10 st11">right-side</text>
+	<text transform="matrix(1 0 0 1 474 358.6001)" class="st5 st16">right-side</text>
 	<rect x="311" y="449" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 311 456.6001)"><tspan x="0" y="0" class="st12 st13 st11">◌</tspan><tspan x="5" y="0" class="st10 st11"> connect to parent</tspan><tspan x="0" y="12" class="st14 st13 st11">⃝</tspan><tspan x="5" y="12" class="st10 st11"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 311 456.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
 	<rect x="610" y="306" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 610 316.6401)"><tspan x="0" y="0" class="st7 st8">Person 2</tspan><tspan x="0" y="14.4" class="st7 st9">Right</tspan></text>
+	<text transform="matrix(1 0 0 1 610 316.6401)"><tspan x="0" y="0" class="st13 st14">Person 2</tspan><tspan x="0" y="14.4" class="st13 st15">Right</tspan></text>
 	<rect x="784" y="304" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 784 311.6001)"><tspan x="0" y="0" class="st10 st11">Where no left-side </tspan><tspan x="0" y="12" class="st10 st11">body parts are </tspan><tspan x="0" y="24" class="st10 st11">supplied, the </tspan><tspan x="0" y="36" class="st10 st11">right-side body parts </tspan><tspan x="0" y="48" class="st10 st11">will be copied.</tspan></text>
+	<text transform="matrix(1 0 0 1 784 311.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be copied.</tspan></text>
 	<rect x="630" y="433" class="st0" width="77" height="14"/>
-	<text transform="matrix(1 0 0 1 630 440.6001)" class="st10 st11">right-side</text>
+	<text transform="matrix(1 0 0 1 630 440.6001)" class="st5 st16">right-side</text>
 	<rect x="790" y="449" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 790 456.6001)"><tspan x="0" y="0" class="st12 st13 st11">◌</tspan><tspan x="5" y="0" class="st10 st11"> connect to parent</tspan><tspan x="0" y="12" class="st14 st13 st11">⃝</tspan><tspan x="5" y="12" class="st10 st11"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 790 456.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
 </g>
 </svg>

@@ -2,6 +2,7 @@
 <personComponents xmlns="http://www.sleepingdog.org.uk/oer-vector-library/person-components"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.sleepingdog.org.uk/oer-vector-library/person-components personComponents.xsd">
+	<!-- person-1-front -->
 	<component id="person-1-front-arms-right-hand" designation="right">
 		<twin id="person-1-front-arms-left-hand" symmetry="flip-horizontal" x="150" designation="left" />
 	</component>
@@ -20,6 +21,7 @@
 	<component id="person-1-front-legs-right-upper" designation="right">
 		<twin id="person-1-front-legs-left-upper" symmetry="flip-horizontal" x="150" designation="left"/>
 	</component>
+	<!-- person-2-front -->
 	<component id="person-2-front-arms-right-hand" designation="right">
 		<twin id="person-2-front-arms-left-hand" symmetry="flip-horizontal" x="150" designation="left" />
 	</component>
@@ -37,5 +39,43 @@
 	</component>
 	<component id="person-2-front-legs-right-upper" designation="right">
 		<twin id="person-2-front-legs-left-upper" symmetry="flip-horizontal" x="150" designation="left"/>
+	</component>
+	<!-- person-1-back -->
+	<component id="person-1-back-arms-right-hand" designation="right">
+		<twin id="person-1-back-arms-left-hand" symmetry="flip-horizontal" x="450" designation="left" />
+	</component>
+	<component id="person-1-back-arms-right-lower" designation="right">
+		<twin id="person-1-back-arms-left-lower" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<component id="person-1-back-arms-right-upper" designation="right">
+		<twin id="person-1-back-arms-left-upper" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<component id="person-1-back-legs-right-foot" designation="right">
+		<twin id="person-1-back-legs-left-foot" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<component id="person-1-back-legs-right-lower" designation="right">
+		<twin id="person-1-back-legs-left-lower" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<component id="person-1-back-legs-right-upper" designation="right">
+		<twin id="person-1-back-legs-left-upper" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<!-- person-2-back -->
+	<component id="person-2-back-arms-right-hand" designation="right">
+		<twin id="person-2-back-arms-left-hand" symmetry="flip-horizontal" x="450" designation="left" />
+	</component>
+	<component id="person-2-back-arms-right-lower" designation="right">
+		<twin id="person-2-back-arms-left-lower" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<component id="person-2-back-arms-right-upper" designation="right">
+		<twin id="person-2-back-arms-left-upper" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<component id="person-2-back-legs-right-foot" designation="right">
+		<twin id="person-2-back-legs-left-foot" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<component id="person-2-back-legs-right-lower" designation="right">
+		<twin id="person-2-back-legs-left-lower" symmetry="flip-horizontal" x="450" designation="left"/>
+	</component>
+	<component id="person-2-back-legs-right-upper" designation="right">
+		<twin id="person-2-back-legs-left-upper" symmetry="flip-horizontal" x="450" designation="left"/>
 	</component>
 </personComponents>
