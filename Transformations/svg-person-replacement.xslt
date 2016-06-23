@@ -15,7 +15,7 @@
 	</xd:doc>
 	<xsl:output indent="yes" media-type="image/svg+xml" method="xml" />
 	<xsl:include href="copy.xslt" />	
-	<xsl:param name="replacementSetUrl" select="'file:/Volumes/sleepingdog/Projects/Coding/OERVectorLibrary/Sets/OVL-Set-Rollergirls.svg'" />
+	<xsl:param name="replacementSetUrl" select="'../Sets/OVL-Set-Rollergirls.svg'" />
 	<xsl:variable name="replacementSetDoc" select="document($replacementSetUrl)" />
 	<xsl:template match="/">
 		<xsl:apply-templates />

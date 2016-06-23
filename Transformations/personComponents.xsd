@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	targetNamespace="http://www.sleepingdog.org.uk/oer-vector-library/person-components"
+	xmlns="http://www.sleepingdog.org.uk/oer-vector-library/person-components">
+	<xs:simpleType name="angleDegrees">
+		<xs:restriction base="xs:short">
+			<xs:minInclusive value="-359"/>
+			<xs:maxInclusive value="359"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="designation">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="left"/>
+			<xs:enumeration value="right"/>
+			<xs:enumeration value="upper"/>
+			<xs:enumeration value="lower"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="symmetryOperation">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="flip-horizontal"/>
+			<xs:enumeration value="flip-vertical"/>
+			<xs:enumeration value="rotate"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="personComponents">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="component" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="twin" minOccurs="0" maxOccurs="1">
+								<xs:complexType>
+									<xs:attribute name="id" use="required" />
+									<xs:attribute name="symmetry" use="required" type="symmetryOperation" />
+									<xs:attribute name="axis" use="optional" type="angleDegrees" />
+									<xs:attribute name="x" use="optional" type="xs:short" />
+									<xs:attribute name="y" use="optional" type="xs:short" />
+									<xs:attribute name="designation" use="required" type="designation" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" />
+						<xs:attribute name="designation" use="optional" type="designation" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
