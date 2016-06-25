@@ -81,13 +81,13 @@
 							<g id="person-1-front-arms-right-hand-group">
 								<!--gid = person-1-front-arms-right-hand--><!--component-detected, new component = person-1-front-arms-left-hand--><!--$newComponent/@x = 150--><!--$ball/@cx = 21--><g id="person-1-front-arms-right-hand">
 									<path id="person-1-front-arms-right-hand-shape" class="person1flesh" d="M10.5,83c0,1.9,1.6,3.5,3.5,3.5h7           c1.9,0,3.5-1.6,3.5-3.5l0,0c0-1.9-1.6-3.5-3.5-3.5h-7C12.1,79.5,10.5,81.1,10.5,83L10.5,83z"/>
-								</g><use xlink:href="#person-1-front-arms-right-hand" id="person-1-front-arms-left-hand" transform="rotate(180,150,83)"/>
+								</g><use xlink:href="#person-1-front-arms-right-hand" id="person-1-front-arms-left-hand" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 								
 									<ellipse id="person-1-front-arms-right-hand-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -49.3831 34.2537)" class="ball" cx="21" cy="83" rx="4" ry="4"/>
 							</g>
 							<!--gid = person-1-front-arms-right-lower--><!--component-detected, new component = person-1-front-arms-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = 65--><g id="person-1-front-arms-right-lower">
 								<path id="person-1-front-arms-right-lower-shape" class="cricketclothes" d="M28.5,83.1c0,1.9,1.4,3.4,3.1,3.4h33.8          c1.7,0,3.1-1.5,3.1-3.4v-0.3c0-1.9-1.4-3.4-3.1-3.4H31.6c-1.7,0-3.1,1.5-3.1,3.4V83.1z"/>
-							</g><use xlink:href="#person-1-front-arms-right-lower" id="person-1-front-arms-left-lower" transform="rotate(180,150,83)"/>
+							</g><use xlink:href="#person-1-front-arms-right-lower" id="person-1-front-arms-left-lower" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 							
 								<ellipse id="person-1-front-arms-right-lower-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -38.5421 63.1757)" class="ball" cx="65" cy="83" rx="4" ry="4"/>
 							<g id="person-1-front-arms-right-lower-socket" class="st1">
@@ -96,7 +96,7 @@
 						</g>
 						<!--gid = person-1-front-arms-right-upper--><!--component-detected, new component = person-1-front-arms-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = 104--><g id="person-1-front-arms-right-upper">
 							<path id="person-1-front-arms-right-upper-shape" class="cricketclothes" d="M72.5,83.1c0,1.9,1.2,3.4,2.7,3.4h29.6         c1.5,0,2.7-1.5,2.7-3.4v-0.3c0-1.9-1.2-3.4-2.7-3.4H75.2c-1.5,0-2.7,1.5-2.7,3.4V83.1z"/>
-						</g><use xlink:href="#person-1-front-arms-right-upper" id="person-1-front-arms-left-upper" transform="rotate(180,150,83)"/>
+						</g><use xlink:href="#person-1-front-arms-right-upper" id="person-1-front-arms-left-upper" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 						
 							<ellipse id="person-1-front-arms-right-upper-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -28.933 88.8111)" class="ball" cx="104" cy="83" rx="4" ry="4"/>
 						<g id="person-1-front-arms-right-upper-socket" class="st1">
@@ -111,12 +111,12 @@
 								<g id="person-1-front-legs-right-foot-group">
 									<!--gid = person-1-front-legs-right-foot--><!--component-detected, new component = person-1-front-legs-left-foot--><!--$newComponent/@x = 150--><!--$ball/@cx = 134.5--><g id="person-1-front-legs-right-foot">
 										<path id="person-1-front-legs-right-foot-shape" class="person1flesh" d="M139.5,259.5c0,2.8-2.2,2-5,2l0,0            c-2.8,0-5,0.8-5-2v-3c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V259.5z"/>
-									</g><use xlink:href="#person-1-front-legs-right-foot" id="person-1-front-legs-left-foot" transform="translate(31,0)"/>
+									</g><use xlink:href="#person-1-front-legs-right-foot" id="person-1-front-legs-left-foot" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 									<circle id="person-1-front-legs-right-foot-ball" class="ball" cx="134.5" cy="256.5" r="5"/>
 								</g>
 								<!--gid = person-1-front-legs-right-lower--><!--component-detected, new component = person-1-front-legs-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = 134.5--><g id="person-1-front-legs-right-lower">
 									<path id="person-1-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,197.5c0-2.8-2.2-5-5-5l0,0           c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
-								</g><use xlink:href="#person-1-front-legs-right-lower" id="person-1-front-legs-left-lower" transform="translate(31,0)"/>
+								</g><use xlink:href="#person-1-front-legs-right-lower" id="person-1-front-legs-left-lower" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 								<circle id="person-1-front-legs-right-lower-ball" class="ball" cx="134.5" cy="197.5" r="5"/>
 								<g id="person-1-front-legs-right-lower-socket">
 									<circle class="st0" cx="134.5" cy="239.5" r="5"/>
@@ -124,7 +124,7 @@
 							</g>
 							<!--gid = person-1-front-legs-right-upper--><!--component-detected, new component = person-1-front-legs-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = 134.5--><g id="person-1-front-legs-right-upper">
 								<path id="person-1-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,146.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
-							</g><use xlink:href="#person-1-front-legs-right-upper" id="person-1-front-legs-left-upper" transform="translate(31,0)"/>
+							</g><use xlink:href="#person-1-front-legs-right-upper" id="person-1-front-legs-left-upper" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 							<circle id="person-1-front-legs-upper-right-ball" class="ball" cx="134.5" cy="146.5" r="5"/>
 							<g id="person-1-front-legs-right-upper-socket">
 								<circle class="st0" cx="134.5" cy="184.5" r="5"/>
@@ -286,12 +286,12 @@
 								<g id="person-1-back-legs-right-foot-group">
 									<!--gid = person-1-back-legs-right-foot--><!--component-detected, new component = person-1-back-legs-left-foot--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><g id="person-1-back-legs-right-foot">
 										<path id="person-1-back-legs-right-foot-shape" class="person1flesh" d="M460.5,259.5c0,2.8,2.2,2,5,2l0,0            c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V259.5z"/>
-									</g><use xlink:href="#person-1-back-legs-right-foot" id="person-1-back-legs-left-foot" transform="translate(-31,0)"/>
+									</g><use xlink:href="#person-1-back-legs-right-foot" id="person-1-back-legs-left-foot" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 									<circle id="person-1-back-legs-right-foot-ball" class="ball" cx="465.5" cy="256.5" r="5"/>
 								</g>
 								<!--gid = person-1-back-legs-right-lower--><!--component-detected, new component = person-1-back-legs-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><g id="person-1-back-legs-right-lower">
 									<path id="person-1-back-legs-right-lower-shape" class="cricketclothes" d="M470.5,239.5c0,2.8-2.2,5-5,5l0,0           c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V239.5z"/>
-								</g><use xlink:href="#person-1-back-legs-right-lower" id="person-1-back-legs-left-lower" transform="translate(-31,0)"/>
+								</g><use xlink:href="#person-1-back-legs-right-lower" id="person-1-back-legs-left-lower" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 								<circle id="person-1-back-legs-right-lower-ball" class="ball" cx="465.5" cy="197.5" r="5"/>
 								<g id="person-1-back-legs-right-lower-socket">
 									<circle class="st0" cx="465.5" cy="239.5" r="5"/>
@@ -299,7 +299,7 @@
 							</g>
 							<!--gid = person-1-back-legs-right-upper--><!--component-detected, new component = person-1-back-legs-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><g id="person-1-back-legs-right-upper">
 								<path id="person-1-back-legs-right-upper-shape" class="cricketclothes" d="M470.5,184.5c0,2.8-2.2,5-5,5l0,0          c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V184.5z"/>
-							</g><use xlink:href="#person-1-back-legs-right-upper" id="person-1-back-legs-left-upper" transform="translate(-31,0)"/>
+							</g><use xlink:href="#person-1-back-legs-right-upper" id="person-1-back-legs-left-upper" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 							<circle id="person-1-back-legs-upper-right-ball" class="ball" cx="465.5" cy="146.5" r="5"/>
 							<g id="person-1-back-legs-right-upper-socket">
 								<circle class="st0" cx="465.5" cy="184.5" r="5"/>
@@ -313,7 +313,7 @@
 							<g id="person-1-back-arms-right-hand-group">
 								<!--gid = person-1-back-arms-right-hand--><!--component-detected, new component = person-1-back-arms-left-hand--><!--$newComponent/@x = 450--><!--$ball/@cx = 579--><g id="person-1-back-arms-right-hand">
 									<path id="person-1-back-arms-right-hand-shape" class="person1flesh" d="M589.5,83c0,1.9-1.6,3.5-3.5,3.5h-7           c-1.9,0-3.5-1.6-3.5-3.5l0,0c0-1.9,1.6-3.5,3.5-3.5h7C587.9,79.5,589.5,81.1,589.5,83L589.5,83z"/>
-								</g><use xlink:href="#person-1-back-arms-right-hand" id="person-1-back-arms-left-hand" transform="rotate(180,450,83)"/>
+								</g><use xlink:href="#person-1-back-arms-right-hand" id="person-1-back-arms-left-hand" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 								
 									<ellipse id="person-1-back-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 135.8631 464.7846)" class="ball" cx="579" cy="83" rx="4" ry="4"/>
 							</g>
@@ -327,7 +327,7 @@
 								<g>
 									<path class="st5" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8           c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
-							</g><use xlink:href="#person-1-back-arms-right-lower" id="person-1-back-arms-left-lower" transform="rotate(180,450,83)"/>
+							</g><use xlink:href="#person-1-back-arms-right-lower" id="person-1-back-arms-left-lower" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 							
 								<ellipse id="person-1-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 120.7851 431.6256)" class="ball" cx="535" cy="83" rx="4" ry="4"/>
 							<g id="person-1-back-arms-right-lower-socket" class="st1">
@@ -336,7 +336,7 @@
 						</g>
 						<!--gid = person-1-back-arms-right-upper--><!--component-detected, new component = person-1-back-arms-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = 496--><g id="person-1-back-arms-right-upper">
 							<path id="person-1-back-arms-right-upper-shape" class="cricketclothes" d="M527.5,83.1c0,1.9-1.2,3.4-2.7,3.4h-29.6         c-1.5,0-2.7-1.5-2.7-3.4v-0.3c0-1.9,1.2-3.4,2.7-3.4h29.6c1.5,0,2.7,1.5,2.7,3.4V83.1z"/>
-						</g><use xlink:href="#person-1-back-arms-right-upper" id="person-1-back-arms-left-upper" transform="rotate(180,450,83)"/>
+						</g><use xlink:href="#person-1-back-arms-right-upper" id="person-1-back-arms-left-upper" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 						
 							<ellipse id="person-1-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 107.4205 402.2347)" class="ball" cx="496" cy="83" rx="4" ry="4"/>
 						<g id="person-1-back-arms-right-upper-socket" class="st1">
@@ -390,13 +390,13 @@
 							<g id="person-2-front-arms-right-hand-group">
 								<!--gid = person-2-front-arms-right-hand--><!--component-detected, new component = person-2-front-arms-left-hand--><!--$newComponent/@x = 150--><!--$ball/@cx = 21--><g id="person-2-front-arms-right-hand">
 									<path id="person-2-front-arms-right-hand-shape" class="person2flesh" d="M10.5,383c0,1.9,1.6,3.5,3.5,3.5h7           c1.9,0,3.5-1.6,3.5-3.5l0,0c0-1.9-1.6-3.5-3.5-3.5h-7C12.1,379.5,10.5,381.1,10.5,383L10.5,383z"/>
-								</g><use xlink:href="#person-2-front-arms-right-hand" id="person-2-front-arms-left-hand" transform="rotate(180,150,383)"/>
+								</g><use xlink:href="#person-2-front-arms-right-hand" id="person-2-front-arms-left-hand" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 								
 									<ellipse id="person-2-front-arms-right-hand-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -246.5785 108.1697)" class="ball" cx="21" cy="383" rx="4" ry="4"/>
 							</g>
 							<!--gid = person-2-front-arms-right-lower--><!--component-detected, new component = person-2-front-arms-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = 65--><g id="person-2-front-arms-right-lower">
 								<path id="person-2-front-arms-right-lower-shape" class="cricketclothes" d="M28.5,383.1c0,1.9,1.4,3.4,3.1,3.4h33.8          c1.7,0,3.1-1.5,3.1-3.4v-0.3c0-1.9-1.4-3.4-3.1-3.4H31.6c-1.7,0-3.1,1.5-3.1,3.4V383.1z"/>
-							</g><use xlink:href="#person-2-front-arms-right-lower" id="person-2-front-arms-left-lower" transform="rotate(180,150,383)"/>
+							</g><use xlink:href="#person-2-front-arms-right-lower" id="person-2-front-arms-left-lower" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 							
 								<ellipse id="person-2-front-arms-right-lower-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -235.7375 137.0917)" class="ball" cx="65" cy="383" rx="4" ry="4"/>
 							<g id="person-2-front-arms-right-lower-socket" class="st1">
@@ -406,7 +406,7 @@
 						</g>
 						<!--gid = person-2-front-arms-right-upper--><!--component-detected, new component = person-2-front-arms-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = 104--><g id="person-2-front-arms-right-upper">
 							<path id="person-2-front-arms-right-upper-shape" class="cricketclothes" d="M72.5,383.1c0,1.9,1.2,3.4,2.7,3.4h29.6         c1.5,0,2.7-1.5,2.7-3.4v-0.3c0-1.9-1.2-3.4-2.7-3.4H75.2c-1.5,0-2.7,1.5-2.7,3.4V383.1z"/>
-						</g><use xlink:href="#person-2-front-arms-right-upper" id="person-2-front-arms-left-upper" transform="rotate(180,150,383)"/>
+						</g><use xlink:href="#person-2-front-arms-right-upper" id="person-2-front-arms-left-upper" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 						
 							<ellipse id="person-2-front-arms-right-upper-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -226.1284 162.7271)" class="ball" cx="104" cy="383" rx="4" ry="4"/>
 						<g id="person-2-front-arms-right-upper-socket" class="st1">
@@ -421,12 +421,12 @@
 								<g id="person-2-front-legs-right-foot-group">
 									<!--gid = person-2-front-legs-right-foot--><!--component-detected, new component = person-2-front-legs-left-foot--><!--$newComponent/@x = 150--><!--$ball/@cx = 134.5--><g id="person-2-front-legs-right-foot">
 										<path id="person-2-front-legs-right-foot-shape" class="person2flesh" d="M139.5,559.5c0,2.8-2.2,2-5,2l0,0            c-2.8,0-5,0.8-5-2v-3c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V559.5z"/>
-									</g><use xlink:href="#person-2-front-legs-right-foot" id="person-2-front-legs-left-foot" transform="translate(31,0)"/>
+									</g><use xlink:href="#person-2-front-legs-right-foot" id="person-2-front-legs-left-foot" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 									<circle id="person-2-front-legs-right-foot-ball" class="ball" cx="134.5" cy="556.5" r="5"/>
 								</g>
 								<!--gid = person-2-front-legs-right-lower--><!--component-detected, new component = person-2-front-legs-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = 134.5--><g id="person-2-front-legs-right-lower">
 									<path id="person-2-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,497.5c0-2.8-2.2-5-5-5l0,0           c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V497.5z"/>
-								</g><use xlink:href="#person-2-front-legs-right-lower" id="person-2-front-legs-left-lower" transform="translate(31,0)"/>
+								</g><use xlink:href="#person-2-front-legs-right-lower" id="person-2-front-legs-left-lower" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 								<circle id="person-2-front-legs-right-lower-ball" class="ball" cx="134.5" cy="497.5" r="5"/>
 								<g id="person-2-front-legs-right-lower-socket">
 									<circle class="st0" cx="134.5" cy="539.5" r="5"/>
@@ -434,7 +434,7 @@
 							</g>
 							<!--gid = person-2-front-legs-right-upper--><!--component-detected, new component = person-2-front-legs-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = 134.5--><g id="person-2-front-legs-right-upper">
 								<path id="person-2-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,446.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V446.5z"/>
-							</g><use xlink:href="#person-2-front-legs-right-upper" id="person-2-front-legs-left-upper" transform="translate(31,0)"/>
+							</g><use xlink:href="#person-2-front-legs-right-upper" id="person-2-front-legs-left-upper" transform="translate(150 0) scale(-1 1) translate(-150 0)"/>
 							<circle id="person-2-front-legs-upper-right-ball" class="ball" cx="134.5" cy="446.5" r="5"/>
 							<g id="person-2-front-legs-right-upper-socket">
 								<circle class="st0" cx="134.5" cy="484.5" r="5"/>
@@ -606,12 +606,12 @@
 								<g id="person-2-back-legs-right-foot-group">
 									<!--gid = person-2-back-legs-right-foot--><!--component-detected, new component = person-2-back-legs-left-foot--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><g id="person-2-back-legs-right-foot">
 										<path id="person-2-back-legs-right-foot-shape" class="person2flesh" d="M460.5,559.5c0,2.8,2.2,2,5,2l0,0            c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V559.5z"/>
-									</g><use xlink:href="#person-2-back-legs-right-foot" id="person-2-back-legs-left-foot" transform="translate(-31,0)"/>
+									</g><use xlink:href="#person-2-back-legs-right-foot" id="person-2-back-legs-left-foot" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 									<circle id="person-2-back-legs-right-foot-ball" class="ball" cx="465.5" cy="556.5" r="5"/>
 								</g>
 								<!--gid = person-2-back-legs-right-lower--><!--component-detected, new component = person-2-back-legs-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><g id="person-2-back-legs-right-lower">
 									<path id="person-2-back-legs-right-lower-shape" class="cricketclothes" d="M470.5,539.5c0,2.8-2.2,5-5,5l0,0           c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V539.5z"/>
-								</g><use xlink:href="#person-2-back-legs-right-lower" id="person-2-back-legs-left-lower" transform="translate(-31,0)"/>
+								</g><use xlink:href="#person-2-back-legs-right-lower" id="person-2-back-legs-left-lower" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 								<circle id="person-2-back-legs-right-lower-ball" class="ball" cx="465.5" cy="497.5" r="5"/>
 								<g id="person-2-back-legs-right-lower-socket">
 									<circle class="st0" cx="465.5" cy="539.5" r="5"/>
@@ -619,7 +619,7 @@
 							</g>
 							<!--gid = person-2-back-legs-right-upper--><!--component-detected, new component = person-2-back-legs-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = 465.5--><g id="person-2-back-legs-right-upper">
 								<path id="person-2-back-legs-right-upper-shape" class="cricketclothes" d="M470.5,484.5c0,2.8-2.2,5-5,5l0,0          c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V484.5z"/>
-							</g><use xlink:href="#person-2-back-legs-right-upper" id="person-2-back-legs-left-upper" transform="translate(-31,0)"/>
+							</g><use xlink:href="#person-2-back-legs-right-upper" id="person-2-back-legs-left-upper" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 							<circle id="person-2-back-legs-upper-right-ball" class="ball" cx="465.5" cy="446.5" r="5"/>
 							<g id="person-2-back-legs-right-upper-socket">
 								<circle class="st0" cx="465.5" cy="484.5" r="5"/>
@@ -633,13 +633,13 @@
 							<g id="person-2-back-arms-right-hand-group">
 								<!--gid = person-2-back-arms-right-hand--><!--component-detected, new component = person-2-back-arms-left-hand--><!--$newComponent/@x = 450--><!--$ball/@cx = 579--><g id="person-2-back-arms-right-hand">
 									<path id="person-2-back-arms-right-hand-shape" class="person2flesh" d="M589.5,383c0,1.9-1.6,3.5-3.5,3.5h-7           c-1.9,0-3.5-1.6-3.5-3.5l0,0c0-1.9,1.6-3.5,3.5-3.5h7C587.9,379.5,589.5,381.1,589.5,383L589.5,383z"/>
-								</g><use xlink:href="#person-2-back-arms-right-hand" id="person-2-back-arms-left-hand" transform="rotate(180,450,383)"/>
+								</g><use xlink:href="#person-2-back-arms-right-hand" id="person-2-back-arms-left-hand" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 								
 									<ellipse id="person-2-back-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -90.2209 567.5892)" class="ball" cx="579" cy="383" rx="4" ry="4"/>
 							</g>
 							<!--gid = person-2-back-arms-right-lower--><!--component-detected, new component = person-2-back-arms-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = 535--><g id="person-2-back-arms-right-lower">
 								<path id="person-2-back-arms-right-lower-shape" class="cricketclothes" d="M571.5,383.1c0,1.9-1.4,3.4-3.1,3.4h-33.8          c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8c1.7,0,3.1,1.5,3.1,3.4V383.1z"/>
-							</g><use xlink:href="#person-2-back-arms-right-lower" id="person-2-back-arms-left-lower" transform="rotate(180,450,383)"/>
+							</g><use xlink:href="#person-2-back-arms-right-lower" id="person-2-back-arms-left-lower" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 							
 								<ellipse id="person-2-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -105.2989 534.4302)" class="ball" cx="535" cy="383" rx="4" ry="4"/>
 							<g id="person-2-back-arms-right-lower-socket" class="st1">
@@ -649,7 +649,7 @@
 						</g>
 						<!--gid = person-2-back-arms-right-upper--><!--component-detected, new component = person-2-back-arms-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = 496--><g id="person-2-back-arms-right-upper">
 							<path id="person-2-back-arms-right-upper-shape" class="cricketclothes" d="M527.5,383.1c0,1.9-1.2,3.4-2.7,3.4h-29.6         c-1.5,0-2.7-1.5-2.7-3.4v-0.3c0-1.9,1.2-3.4,2.7-3.4h29.6c1.5,0,2.7,1.5,2.7,3.4V383.1z"/>
-						</g><use xlink:href="#person-2-back-arms-right-upper" id="person-2-back-arms-left-upper" transform="rotate(180,450,383)"/>
+						</g><use xlink:href="#person-2-back-arms-right-upper" id="person-2-back-arms-left-upper" transform="translate(450 0) scale(-1 1) translate(-450 0)"/>
 						
 							<ellipse id="person-2-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -118.6635 505.0393)" class="ball" cx="496" cy="383" rx="4" ry="4"/>
 						<g id="person-2-back-arms-right-upper-socket" class="st1">

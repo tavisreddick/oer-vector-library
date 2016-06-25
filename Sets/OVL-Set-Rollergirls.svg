@@ -13,6 +13,8 @@
 	.person2flesh{fill:#FFCCCC;stroke:#996666;stroke-miterlimit:10;}
 	.liveryteam2A{fill:#662D91;stroke:#1B1464;stroke-miterlimit:10;}
 	.liveryteam2B{fill:#29ABE2;stroke:#0071BC;stroke-miterlimit:10;}
+	.person1hair{fill:#534741;stroke:#8C6239;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1,1;}
+	.person2hair{fill:#F7931E;stroke:#C1272D;stroke-miterlimit:10;}
 	.st0{fill:none;}
 	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
 	.st2{opacity:0.8;}
@@ -22,17 +24,26 @@
 	.st6{font-size:24px;}
 	.st7{fill:none;stroke:#666666;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st9{fill:#C7B299;}
-	.st10{fill:none;stroke:#603813;stroke-miterlimit:10;}
-	.st11{fill:#29ABE2;}
-	.st12{fill:none;stroke:#0071BC;stroke-miterlimit:10;}
-	.st13{font-family:'Verdana-Bold';}
-	.st14{font-size:14px;}
-	.st15{font-size:12px;}
-	.st16{font-size:10px;}
-	.st17{fill:#00FF00;}
-	.st18{font-family:'MyriadPro-Regular';}
-	.st19{fill:#FF0000;}
+	.st9{fill:#534741;}
+	.st10{fill:none;stroke:#8C6239;stroke-linejoin:round;}
+	.st11{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:1.0104,1.0104;}
+	.st12{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:1,1;}
+	.st13{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:0.9766,0.9766;}
+	.st14{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:0.9567,0.9567;}
+	.st15{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:0.9803,0.9803;}
+	.st16{fill:#C7B299;}
+	.st17{fill:none;stroke:#603813;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:1.0022,1.0022;}
+	.st19{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:1.0171,1.0171;}
+	.st20{fill:#29ABE2;}
+	.st21{fill:none;stroke:#0071BC;stroke-miterlimit:10;}
+	.st22{font-family:'Verdana-Bold';}
+	.st23{font-size:14px;}
+	.st24{font-size:12px;}
+	.st25{font-size:10px;}
+	.st26{fill:#00FF00;}
+	.st27{font-family:'MyriadPro-Regular';}
+	.st28{fill:#FF0000;}
 </style>
 <g id="Background">
 	<rect class="backcloth" width="300" height="300"/>
@@ -202,8 +213,26 @@
 							<g id="person-1-right-head">
 								<path id="person-1-right-head-shape" class="person1flesh" d="M764,42c0-1.3-2.5-2.7-2.5-2.7v-2.7c0-3.6-2.8-6.1-6.9-6.1
 									h-4.2c-4.1,0-7.9,2.5-7.9,6.1v8.8c0,3.6,3.8,7.1,7.9,7.1h4.2c4.1,0,6.9-3.5,6.9-7.1v-2.1C761.5,43.3,764,43,764,42z"/>
+								<g>
+									<path class="st9" d="M745.7,26.5c-4,2.1-6.7,6.3-6.7,10.5c0,1.6,0.1,3,0.8,4.4c0,0,1.2,0.4,2.2,0.8v3.2
+										c0,0,0.5-0.4,0.5,0.6h1.5c6,0,7.1-4.7,8.3-5.2c0.4-1.1,0.7-2.5,0.7-3.7C753,32.4,749.8,27.9,745.7,26.5z"/>
+									<g>
+										<path class="st10" d="M746.2,26.7c-0.2-0.1-0.3-0.1-0.5-0.2c-0.1,0.1-0.3,0.2-0.4,0.2"/>
+										<path class="st11" d="M744.4,27.3c-3.3,2.3-5.4,6-5.4,9.7c0,1.6,0.4,3,1,4.4c0,0,0.6,0.2,1.5,0.5"/>
+										<path class="st10" d="M742,42c0.2,0,0.3,0.1,0.5,0.1v0.5"/>
+										<line class="st12" x1="742.5" y1="43" x2="742.5" y2="45"/>
+										<path class="st10" d="M742.5,45v0.4c0,0,0,0.1,0,0.1h0.5"/>
+										<path class="st13" d="M744,45.5L744,45.5c4.9,0.4,6.5-2.8,7.6-4.2"/>
+										<path class="st10" d="M751.9,40.9c0.1-0.1,0.3-0.2,0.4-0.3c0.1-0.2,0.1-0.3,0.2-0.5"/>
+										<path class="st14" d="M752.8,39.2c0.2-0.7,0.2-1.5,0.2-2.2c0-4.4-2.8-8.5-6.4-10.2"/>
+									</g>
+								</g>
 								<path class="liveryteam1A" d="M750.4,43.5l3.5-3.1c0,0,2.1-3.4,4.1-4.4c1.3-0.7,6-1.5,6-1.5c0-6.1-5.6-9.5-12.5-9.5
 									S739,30.9,739,37c0,1.6,0.4,3,1,4.4C740,41.4,745.8,43.5,750.4,43.5z"/>
+								<g>
+									<circle class="st9" cx="738" cy="45" r="5"/>
+									<circle class="st15" cx="738" cy="45" r="5"/>
+								</g>
 							</g>
 							<circle id="person-1-right-head-ball" class="ball" cx="749.5" cy="51" r="5"/>
 						</g>
@@ -263,14 +292,14 @@
 						</g>
 						<g id="person-1-right-legs-right-upper">
 							<g>
-								<path class="st9" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+								<path class="st16" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g>
 							<g>
 								<path class="person1flesh" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5
 									V146.5z"/>
 							</g>
 							<g>
-								<path class="st10" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+								<path class="st17" d="M755.5,146.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g>
 						</g>
 						<circle id="person-1-right-legs-upper-right-ball" class="ball" cx="750.5" cy="146.5" r="5"/>
@@ -319,8 +348,22 @@
 							<g id="person-1-back-head">
 								<path id="person-1-back-head-shape" class="person1flesh" d="M441.5,36.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8
 									c0,3.6-3,6.6-6.6,6.6h-3.8c-3.6,0-6.6-3-6.6-6.6V36.6z"/>
+								<g>
+									<path class="st9" d="M449,46c-5,0-7.1-4.7-8.3-5.2c-0.4-1.1-0.7-2.5-0.7-3.7c0-5.8,4.8-11.1,10-11.1s10,5.2,10,11
+										c0,1.2-0.2,2.7-0.7,3.8c-1.2,0.5-2.3,5.1-8.3,5.1H449z"/>
+									<g>
+										<path class="st10" d="M441.1,40.9c-0.1-0.1-0.3-0.2-0.4-0.3c-0.1-0.2-0.1-0.3-0.2-0.5"/>
+										<path class="st18" d="M440.2,39.2c-0.2-0.7-0.2-1.4-0.2-2.2c0-5.8,4.8-11,10-11s10,5.2,10,11c0,0.9-0.1,1.8-0.4,2.6"/>
+										<path class="st10" d="M459.5,40.1c-0.1,0.2-0.1,0.3-0.2,0.5c-0.1,0.1-0.3,0.2-0.4,0.3"/>
+										<path class="st19" d="M458.3,41.7c-1.1,1.6-2.9,4.2-7.3,3.8h-2c-4.1,0.4-6.3-2.8-7.6-4.3"/>
+									</g>
+								</g>
 								<path class="liveryteam1A" d="M449,43.5h2c4,0,9.1-2.1,9.1-2.1c0.6-1.3,0.9-2.8,0.9-4.4c0-6.1-4.9-12-11-12s-11,5.9-11,12
 									c0,1.6,0.3,3,0.9,4.4C439.9,41.4,445,43.5,449,43.5z"/>
+								<g>
+									<circle class="st9" cx="450" cy="45" r="5"/>
+									<circle class="st15" cx="450" cy="45" r="5"/>
+								</g>
 							</g>
 							<circle id="person-1-back-head-ball" class="ball" cx="450" cy="50.5" r="5"/>
 						</g>
@@ -515,18 +558,21 @@
 				</g>
 				<g id="person-2-front-headneck">
 					<g id="person-2-front-neck-group">
+						<g id="person-2-front-neck">
+							<path id="person-2-front-neck-shape" class="person2flesh" d="M155,362c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6
+								c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V362z"/>
+						</g>
 						<g id="person-2-front-head-group">
 							<g id="person-2-front-head">
+								<path class="person2hair" d="M157,345.4c4.3-3.5,3.1-9.9,1-14.4c-1.3-2.7-3.9-4-7-4c-13,0-9,17-9,17c0,3,9,0.5,8,4
+									c-0.4,1.3-0.7,2.7-1,3.9c0.3,0,0.6,0.1,1,0.1c1.9,0,3.8-0.8,5.1-2.2c-0.3-0.9-0.6-1.9-1.1-2.8C153,345,155,347,157,345.4z"
+									/>
 								<path id="person-2-front-head-shape" class="person2flesh" d="M158.5,336.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6
 									l1.5,8.8c0,3.6,3.4,6.6,7,6.6l0,0c3.6,0,7-3,7-6.6L158.5,336.6z"/>
 								<path class="liveryteam2A" d="M149,334.5h2c4,0,7.5,2.4,9.1,5.9c0.6-1.3,0.9-2.8,0.9-4.4c0-6.1-4.9-11-11-11
 									c-6.1,0-11,4.9-11,11c0,1.6,0.3,3,0.9,4.4C141.5,336.9,145,334.5,149,334.5z"/>
 							</g>
 							<circle id="person-2-front-head-ball" class="ball" cx="150" cy="350.5" r="5"/>
-						</g>
-						<g id="person-2-front-neck">
-							<path id="person-2-front-neck-shape" class="person2flesh" d="M155,362c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6
-								c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V362z"/>
 						</g>
 						<circle id="person-2-front-headneck-ball" class="ball" cx="150" cy="368" r="5"/>
 						<g id="person-2-front-neck-socket">
@@ -543,8 +589,8 @@
 							s-7.4-4.1-7.9-9.5h-2.3h-3.2h-1.1v3.5c0,2.8-2.5,5.2-5.2,5.2c-0.3,0-0.5,0-0.8-0.1v3.8v9.5c0,6.6,4.6,12,10.2,12h20.5
 							c5.7,0,10.2-5.4,10.2-12V392v-3.8C170.3,388.2,170,388.2,169.8,388.2z"/>
 						<g>
-							<text transform="matrix(1 0 0 1 135 409)" class="st11 st5 st6">02</text>
-							<text transform="matrix(1 0 0 1 135 409)" class="st12 st5 st6">02</text>
+							<text transform="matrix(1 0 0 1 135 409)" class="st20 st5 st6">02</text>
+							<text transform="matrix(1 0 0 1 135 409)" class="st21 st5 st6">02</text>
 						</g>
 					</g>
 					<g id="person-2-front-torso-socket-arms-right" class="st2">
@@ -565,6 +611,8 @@
 							<g id="person-2-right-head">
 								<path id="person-2-right-head-shape" class="person2flesh" d="M765.5,342.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2
 									c-4.1,0-7.9,2.5-7.9,6.1v8.8c0,3.6,3.8,7.1,7.9,7.1h4.2c4.1,0,6.9-3.5,6.9-7.1v-2.1L765.5,342.9z"/>
+								<path class="person2hair" d="M744,346c-4,10-14.6,19.3-17,19c-2.3-0.3-0.2-9.1,7-15c4.4-3.6,2.9-1.6,8-6c0,0-2-17,9-17
+									c3.1,0,8.7,1.3,10,4c2.1,4.5-4.3,10.7-9,13C747.2,346.4,745.8,341.4,744,346z"/>
 								<path class="liveryteam2A" d="M750.4,343.5l3.5-3.1c0,0,2.1-3.4,4.1-4.4c1.3-0.7,6-1.5,6-1.5c0-6.1-5.6-9.5-12.5-9.5
 									s-12.5,5.9-12.5,12c0,1.6,0.4,3,1,4.4C740,341.4,745.8,343.5,750.4,343.5z"/>
 							</g>
@@ -673,18 +721,20 @@
 			<g id="person-2-back-body">
 				<g id="person-2-back-headneck">
 					<g id="person-2-back-neck-group">
+						<g id="person-2-back-neck">
+							<path id="person-2-back-neck-shape" class="person2flesh" d="M445,362c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5v6
+								c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5V362z"/>
+						</g>
 						<g id="person-2-back-head-group">
 							<g id="person-2-back-head">
 								<path id="person-2-back-head-shape" class="person2flesh" d="M441.5,336.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6
 									l-1.5,8.8c0,3.6-1.5,6.6-5.1,6.6h-3.8c-3.6,0-5.1-3-5.1-6.6L441.5,336.6z"/>
+								<path class="person2hair" d="M454,347c4.8,9.6-1.6,18.3-4,18c-2.3-0.3-2.6-8.1,0-17c1-3.5-8-1-8-4c0,0-4-17,9-17
+									c3.1,0,5.7,1.3,7,4c2.1,4.5,3.3,10.9-1,14.4C455,347,453,345,454,347z"/>
 								<path class="liveryteam2A" d="M449,343.5h2c4,0,9.1-2.1,9.1-2.1c0.6-1.3,0.9-2.8,0.9-4.4c0-6.1-4.9-12-11-12s-11,5.9-11,12
 									c0,1.6,0.3,3,0.9,4.4C439.9,341.4,445,343.5,449,343.5z"/>
 							</g>
 							<circle id="person-2-back-head-ball" class="ball" cx="450" cy="350.5" r="5"/>
-						</g>
-						<g id="person-2-back-neck">
-							<path id="person-2-back-neck-shape" class="person2flesh" d="M445,362c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5v6
-								c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5V362z"/>
 						</g>
 						<circle id="person-2-back-headneck-ball" class="ball" cx="450" cy="368" r="5"/>
 						<g id="person-2-back-neck-socket">
@@ -792,52 +842,52 @@
 </g>
 <g id="Labels">
 	<rect x="10" y="6" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 10 16.6401)"><tspan x="0" y="0" class="st13 st14">Person 1</tspan><tspan x="0" y="14.4" class="st13 st15">Front</tspan></text>
+	<text transform="matrix(1 0 0 1 10 16.6401)"><tspan x="0" y="0" class="st22 st23">Person 1</tspan><tspan x="0" y="14.4" class="st22 st24">Front</tspan></text>
 	<rect x="184" y="4" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 184 11.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be flipped.</tspan></text>
+	<text transform="matrix(1 0 0 1 184 11.6001)"><tspan x="0" y="0" class="st5 st25">Where no left-side </tspan><tspan x="0" y="12" class="st5 st25">body parts are </tspan><tspan x="0" y="24" class="st5 st25">supplied, the </tspan><tspan x="0" y="36" class="st5 st25">right-side body parts </tspan><tspan x="0" y="48" class="st5 st25">will be flipped.</tspan></text>
 	<rect x="10" y="51" class="st0" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 10 58.6001)" class="st5 st16">right-side</text>
+	<text transform="matrix(1 0 0 1 10 58.6001)" class="st5 st25">right-side</text>
 	<rect x="190" y="149" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 190 156.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 190 156.6001)"><tspan x="0" y="0" class="st26 st27 st25">◌</tspan><tspan x="5" y="0" class="st5 st25"> connect to parent</tspan><tspan x="0" y="12" class="st28 st27 st25">⃝</tspan><tspan x="5" y="12" class="st5 st25"> connect to child</tspan></text>
 	<rect x="474" y="6" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 474 16.6401)"><tspan x="0" y="0" class="st13 st14">Person 1</tspan><tspan x="0" y="14.4" class="st13 st15">Back</tspan></text>
+	<text transform="matrix(1 0 0 1 474 16.6401)"><tspan x="0" y="0" class="st22 st23">Person 1</tspan><tspan x="0" y="14.4" class="st22 st24">Back</tspan></text>
 	<rect x="310.3" y="4" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 310.3335 11.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be flipped.</tspan></text>
+	<text transform="matrix(1 0 0 1 310.3335 11.6001)"><tspan x="0" y="0" class="st5 st25">Where no left-side </tspan><tspan x="0" y="12" class="st5 st25">body parts are </tspan><tspan x="0" y="24" class="st5 st25">supplied, the </tspan><tspan x="0" y="36" class="st5 st25">right-side body parts </tspan><tspan x="0" y="48" class="st5 st25">will be flipped.</tspan></text>
 	<rect x="474" y="51" class="st0" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 474 58.6001)" class="st5 st16">right-side</text>
+	<text transform="matrix(1 0 0 1 474 58.6001)" class="st5 st25">right-side</text>
 	<rect x="311" y="149" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 311 156.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 311 156.6001)"><tspan x="0" y="0" class="st26 st27 st25">◌</tspan><tspan x="5" y="0" class="st5 st25"> connect to parent</tspan><tspan x="0" y="12" class="st28 st27 st25">⃝</tspan><tspan x="5" y="12" class="st5 st25"> connect to child</tspan></text>
 	<rect x="610" y="6" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 610 16.6401)"><tspan x="0" y="0" class="st13 st14">Person 1</tspan><tspan x="0" y="14.4" class="st13 st15">Right</tspan></text>
+	<text transform="matrix(1 0 0 1 610 16.6401)"><tspan x="0" y="0" class="st22 st23">Person 1</tspan><tspan x="0" y="14.4" class="st22 st24">Right</tspan></text>
 	<rect x="784" y="4" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 784 11.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be copied.</tspan></text>
+	<text transform="matrix(1 0 0 1 784 11.6001)"><tspan x="0" y="0" class="st5 st25">Where no left-side </tspan><tspan x="0" y="12" class="st5 st25">body parts are </tspan><tspan x="0" y="24" class="st5 st25">supplied, the </tspan><tspan x="0" y="36" class="st5 st25">right-side body parts </tspan><tspan x="0" y="48" class="st5 st25">will be copied.</tspan></text>
 	<rect x="630" y="133" class="st0" width="77" height="14"/>
-	<text transform="matrix(1 0 0 1 630 140.6001)" class="st5 st16">right-side</text>
+	<text transform="matrix(1 0 0 1 630 140.6001)" class="st5 st25">right-side</text>
 	<rect x="790" y="149" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 790 156.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 790 156.6001)"><tspan x="0" y="0" class="st26 st27 st25">◌</tspan><tspan x="5" y="0" class="st5 st25"> connect to parent</tspan><tspan x="0" y="12" class="st28 st27 st25">⃝</tspan><tspan x="5" y="12" class="st5 st25"> connect to child</tspan></text>
 	<rect x="10" y="306" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 10 316.6401)"><tspan x="0" y="0" class="st13 st14">Person 2</tspan><tspan x="0" y="14.4" class="st13 st15">Front</tspan></text>
+	<text transform="matrix(1 0 0 1 10 316.6401)"><tspan x="0" y="0" class="st22 st23">Person 2</tspan><tspan x="0" y="14.4" class="st22 st24">Front</tspan></text>
 	<rect x="184" y="304" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 184 311.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be flipped.</tspan></text>
+	<text transform="matrix(1 0 0 1 184 311.6001)"><tspan x="0" y="0" class="st5 st25">Where no left-side </tspan><tspan x="0" y="12" class="st5 st25">body parts are </tspan><tspan x="0" y="24" class="st5 st25">supplied, the </tspan><tspan x="0" y="36" class="st5 st25">right-side body parts </tspan><tspan x="0" y="48" class="st5 st25">will be flipped.</tspan></text>
 	<rect x="10" y="351" class="st0" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 10 358.6001)" class="st5 st16">right-side</text>
+	<text transform="matrix(1 0 0 1 10 358.6001)" class="st5 st25">right-side</text>
 	<rect x="190" y="449" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 190 456.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 190 456.6001)"><tspan x="0" y="0" class="st26 st27 st25">◌</tspan><tspan x="5" y="0" class="st5 st25"> connect to parent</tspan><tspan x="0" y="12" class="st28 st27 st25">⃝</tspan><tspan x="5" y="12" class="st5 st25"> connect to child</tspan></text>
 	<rect x="474" y="306" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 474 316.6401)"><tspan x="0" y="0" class="st13 st14">Person 2</tspan><tspan x="0" y="14.4" class="st13 st15">Back</tspan></text>
+	<text transform="matrix(1 0 0 1 474 316.6401)"><tspan x="0" y="0" class="st22 st23">Person 2</tspan><tspan x="0" y="14.4" class="st22 st24">Back</tspan></text>
 	<rect x="310.3" y="304" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 310.3335 311.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be flipped.</tspan></text>
+	<text transform="matrix(1 0 0 1 310.3335 311.6001)"><tspan x="0" y="0" class="st5 st25">Where no left-side </tspan><tspan x="0" y="12" class="st5 st25">body parts are </tspan><tspan x="0" y="24" class="st5 st25">supplied, the </tspan><tspan x="0" y="36" class="st5 st25">right-side body parts </tspan><tspan x="0" y="48" class="st5 st25">will be flipped.</tspan></text>
 	<rect x="474" y="351" class="st0" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 474 358.6001)" class="st5 st16">right-side</text>
+	<text transform="matrix(1 0 0 1 474 358.6001)" class="st5 st25">right-side</text>
 	<rect x="311" y="449" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 311 456.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 311 456.6001)"><tspan x="0" y="0" class="st26 st27 st25">◌</tspan><tspan x="5" y="0" class="st5 st25"> connect to parent</tspan><tspan x="0" y="12" class="st28 st27 st25">⃝</tspan><tspan x="5" y="12" class="st5 st25"> connect to child</tspan></text>
 	<rect x="610" y="306" class="st0" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 610 316.6401)"><tspan x="0" y="0" class="st13 st14">Person 2</tspan><tspan x="0" y="14.4" class="st13 st15">Right</tspan></text>
+	<text transform="matrix(1 0 0 1 610 316.6401)"><tspan x="0" y="0" class="st22 st23">Person 2</tspan><tspan x="0" y="14.4" class="st22 st24">Right</tspan></text>
 	<rect x="784" y="304" class="st0" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 784 311.6001)"><tspan x="0" y="0" class="st5 st16">Where no left-side </tspan><tspan x="0" y="12" class="st5 st16">body parts are </tspan><tspan x="0" y="24" class="st5 st16">supplied, the </tspan><tspan x="0" y="36" class="st5 st16">right-side body parts </tspan><tspan x="0" y="48" class="st5 st16">will be copied.</tspan></text>
+	<text transform="matrix(1 0 0 1 784 311.6001)"><tspan x="0" y="0" class="st5 st25">Where no left-side </tspan><tspan x="0" y="12" class="st5 st25">body parts are </tspan><tspan x="0" y="24" class="st5 st25">supplied, the </tspan><tspan x="0" y="36" class="st5 st25">right-side body parts </tspan><tspan x="0" y="48" class="st5 st25">will be copied.</tspan></text>
 	<rect x="630" y="433" class="st0" width="77" height="14"/>
-	<text transform="matrix(1 0 0 1 630 440.6001)" class="st5 st16">right-side</text>
+	<text transform="matrix(1 0 0 1 630 440.6001)" class="st5 st25">right-side</text>
 	<rect x="790" y="449" class="st0" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 790 456.6001)"><tspan x="0" y="0" class="st17 st18 st16">◌</tspan><tspan x="5" y="0" class="st5 st16"> connect to parent</tspan><tspan x="0" y="12" class="st19 st18 st16">⃝</tspan><tspan x="5" y="12" class="st5 st16"> connect to child</tspan></text>
+	<text transform="matrix(1 0 0 1 790 456.6001)"><tspan x="0" y="0" class="st26 st27 st25">◌</tspan><tspan x="5" y="0" class="st5 st25"> connect to parent</tspan><tspan x="0" y="12" class="st28 st27 st25">⃝</tspan><tspan x="5" y="12" class="st5 st25"> connect to child</tspan></text>
 </g>
 </svg>

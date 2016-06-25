@@ -35,13 +35,9 @@
 		<xsl:comment select="concat('$ball/@cx = ', $ball/@cx)"/>
 		<xsl:copy-of select="."/>
 		<!-- transformed copy here -->
-		<!-- note: reflections in SVG are not natively supported, so stopgap rotation used as workaround for arms -->
-		<xsl:if test="contains($gid, 'arm')">
-			<use xlink:href="#{$gid}" id="{$newComponentId}" transform="rotate(180,{$newComponent/@x},{$ball/@cy})"/>
-		</xsl:if>
-		<!-- note: reflections in SVG are not natively supported, so stopgap translation used as workaround for legs -->
-		<xsl:if test="contains($gid, 'leg')">
-			<use xlink:href="#{$gid}" id="{$newComponentId}" transform="translate({$x-offset * 2},0)" />
+		<xsl:if test="contains($gid, 'arm') or contains($gid, 'leg')">
+			<!-- thanks to Dr. Olaf Hoffmann and Juergen Roethig of the www-svg@w3.org mailing list for explaining this -->
+			<use xlink:href="#{$gid}" id="{$newComponentId}" transform="translate({$newComponent/@x} 0) scale(-1 1) translate(-{$newComponent/@x} 0)" />
 		</xsl:if>
 		<!--<xsl:apply-templates />-->
 	</xsl:template>
