@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+	 viewBox="0 0 1200 1300" style="enable-background:new 0 0 1200 1300;" xml:space="preserve">
 <style type="text/css">
 	.person2flesh{fill:#C7B299;stroke:#603813;stroke-miterlimit:10;}
 	.cricketclothes{fill:#FFFFF0;stroke:#CCC0C0;stroke-miterlimit:10;}
@@ -11,22 +11,31 @@
 	.ball{opacity:0.9;fill:none;stroke:#33FF66;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
 	.person1flesh{fill:#E2CCCC;stroke:#B49999;stroke-miterlimit:10;}
 	.person2hair{fill:#2A0018;}
+	.cricketbatwillow{fill:#E5E39E;stroke:#999966;stroke-miterlimit:10;}
+	.cricketbails{fill:#FBB03B;stroke:#F15A24;stroke-miterlimit:10;}
+	.cricketstumps{fill:#999966;stroke:#736357;stroke-miterlimit:10;}
+	.cricketbathandle{fill:#42210B;stroke:#754C24;stroke-miterlimit:10;}
+	.cricketball{fill:#C1272D;stroke:#F15A24;stroke-miterlimit:10;}
+	.cricketstitching{fill:none;stroke:#FFFFCC;stroke-miterlimit:10;stroke-opacity:0.5;}
+	.liveryteam1A{fill:#C1272D;stroke:#FF7BAC;stroke-miterlimit:10;}
 	.st0{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
 	.st1{opacity:0.8;}
 	.st2{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9652,0.9652;}
-	.st3{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.st4{fill:#FFFFF0;}
-	.st5{fill:none;stroke:#CCC0C0;stroke-miterlimit:10;}
-	.st6{fill:#333333;stroke:#66666B;stroke-miterlimit:10;}
-	.st7{fill:none;}
-	.st8{font-family:'Verdana-Bold';}
-	.st9{font-size:14px;}
-	.st10{font-size:12px;}
-	.st11{font-family:'Verdana';}
-	.st12{font-size:10px;}
-	.st13{fill:#00FF00;}
-	.st14{font-family:'MyriadPro-Regular';}
-	.st15{fill:#FF0000;}
+	.st3{fill:#C1272D;stroke:#FF7BAC;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st5{fill:#FFFFF0;}
+	.st6{fill:none;stroke:#CCC0C0;stroke-miterlimit:10;}
+	.st7{fill:#333333;stroke:#66666B;stroke-miterlimit:10;}
+	.st8{fill:#FBB03B;stroke:#F15A24;stroke-miterlimit:10;}
+	.st9{fill:none;}
+	.st10{font-family:'Verdana-Bold';}
+	.st11{font-size:14px;}
+	.st12{font-size:12px;}
+	.st13{font-family:'Verdana';}
+	.st14{font-size:10px;}
+	.st15{fill:#00FF00;}
+	.st16{font-family:'MyriadPro-Regular';}
+	.st17{fill:#FF0000;}
 </style>
 <g id="Background">
 	<rect class="backcloth" width="300" height="300"/>
@@ -60,6 +69,14 @@
 	<line class="sprue" x1="307" y1="383" x2="300" y2="383"/>
 	<line class="sprue" x1="900" y1="383" x2="893" y2="383"/>
 	<line class="sprue" x1="607" y1="383" x2="600" y2="383"/>
+	<rect y="1200" class="sprue" width="100" height="100"/>
+	<rect x="100" y="1200" class="sprue" width="100" height="100"/>
+	<rect x="200" y="1200" class="sprue" width="100" height="100"/>
+	<rect x="300" y="1200" class="sprue" width="100" height="100"/>
+	<rect x="400" y="1200" class="sprue" width="100" height="100"/>
+	<rect x="500" y="1200" class="sprue" width="100" height="100"/>
+	<rect x="600" y="1200" class="sprue" width="100" height="100"/>
+	<rect x="700" y="1200" class="sprue" width="100" height="100"/>
 </g>
 <g id="Components">
 	<g id="person-1">
@@ -146,6 +163,12 @@
 							<g id="person-1-front-head">
 								<path id="person-1-front-head-shape" class="person1flesh" d="M158.5,36.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6
 									v8.8c0,3.6,3,6.6,6.6,6.6h3.8c3.6,0,6.6-3,6.6-6.6V36.6z"/>
+								<g>
+									<path class="liveryteam1A" d="M159.3,36.5c-1.4-5-5-8-9.3-8s-7.9,3-9.3,8H159.3z"/>
+									<path class="liveryteam1A" d="M157.4,36.5c-1.1-5-4-8-7.4-8s-6.4,3-7.4,8H157.4z"/>
+									<path class="liveryteam1A" d="M153.1,36.5c-0.5-5-1.7-8-3.1-8s-2.6,3-3.1,8H153.1z"/>
+								</g>
+								<path class="st3" d="M141,37.5c2.9,0,5.9,2,9,2s6.1-2,9-2H141z"/>
 							</g>
 							<circle id="person-1-front-head-ball" class="ball" cx="150" cy="50.5" r="5"/>
 						</g>
@@ -171,7 +194,7 @@
 					<g id="person-1-front-torso-socket-arms-left" class="st1">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="st2" cx="170" cy="83" rx="4" ry="4"/>
 					</g>
-					<circle id="person-1-front-headneck-socket" class="st3" cx="150" cy="79.5" r="5"/>
+					<circle id="person-1-front-headneck-socket" class="st4" cx="150" cy="79.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -183,6 +206,12 @@
 							<g id="person-1-right-head">
 								<path id="person-1-right-head-shape" class="person1flesh" d="M765.5,42.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2
 									c-4.1,0-7.9,2.5-7.9,6.1v8.8c0,3.6,3.8,7.1,7.9,7.1h4.2c4.1,0,6.9-3.5,6.9-7.1v-2.1L765.5,42.9z"/>
+								<g>
+									<path class="liveryteam1A" d="M763.3,36.5c-1.6-5-6.1-8-11.3-8s-9.7,3-11.3,8H763.3z"/>
+									<path class="liveryteam1A" d="M761,36.5c-1.3-5-4.9-8-9-8s-7.7,3-9,8H761z"/>
+									<path class="liveryteam1A" d="M755.8,36.5c-0.5-5-2-8-3.8-8s-3.2,3-3.8,8H755.8z"/>
+									<line class="liveryteam1A" x1="763.3" y1="36.5" x2="772" y2="38"/>
+								</g>
 							</g>
 							<circle id="person-1-right-head-ball" class="ball" cx="749.5" cy="51" r="5"/>
 						</g>
@@ -213,7 +242,7 @@
 						<path id="person-1-right-torso-shape" class="cricketclothes" d="M762.5,91.5c0-6.6-5.2-12-11.5-12H749
 							c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V91.5z"/>
 					</g>
-					<circle id="person-1-right-headneck-socket" class="st3" cx="749.5" cy="80" r="5"/>
+					<circle id="person-1-right-headneck-socket" class="st4" cx="749.5" cy="80" r="5"/>
 					<g id="person-1-right-torso-socket-arms-right" class="st1">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 194.1191 592.8989)" class="st2" cx="749" cy="83" rx="4" ry="4"/>
 					</g>
@@ -290,6 +319,11 @@
 							<g id="person-1-back-head">
 								<path id="person-1-back-head-shape" class="person1flesh" d="M441.5,36.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8
 									c0,3.6-3,6.6-6.6,6.6h-3.8c-3.6,0-6.6-3-6.6-6.6V36.6z"/>
+								<g>
+									<path class="liveryteam1A" d="M459.3,36.5c-1.4-5-5-8-9.3-8s-7.9,3-9.3,8H459.3z"/>
+									<path class="liveryteam1A" d="M457.4,36.5c-1.1-5-4-8-7.4-8s-6.4,3-7.4,8H457.4z"/>
+									<path class="liveryteam1A" d="M453.1,36.5c-0.5-5-1.7-8-3.1-8s-2.6,3-3.1,8H453.1z"/>
+								</g>
 							</g>
 							<circle id="person-1-back-head-ball" class="ball" cx="450" cy="50.5" r="5"/>
 						</g>
@@ -347,7 +381,7 @@
 							</g>
 							<g id="person-1-back-arms-right-lower">
 								<g>
-									<path class="st4" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
+									<path class="st5" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
 										c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
 								<g>
@@ -355,7 +389,7 @@
 										c0-1.9,1.4-3.4,3.1-3.4h33.8c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
 								<g>
-									<path class="st5" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
+									<path class="st6" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8
 										c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
 							</g>
@@ -400,7 +434,7 @@
 					<g id="person-1-back-torso-socket-arms-left" class="st1">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 51.389 303.0968)" class="st2" cx="430" cy="83" rx="4" ry="4"/>
 					</g>
-					<circle id="person-1-back-headneck-socket" class="st3" cx="450" cy="79.5" r="5"/>
+					<circle id="person-1-back-headneck-socket" class="st4" cx="450" cy="79.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -490,7 +524,7 @@
 							<g id="person-2-front-head">
 								<path id="person-2-front-head-shape" class="person2flesh" d="M158.5,336.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6
 									v8.8c0,3.6,3,6.6,6.6,6.6h3.8c3.6,0,6.6-3,6.6-6.6V336.6z"/>
-								<path class="st6" d="M150,327.5c5.2,0,9.5,4.3,9.5,9.5l0,0c0,5.2-4.3-0.5-9.5-0.5s-9.5,5.7-9.5,0.5l0,0
+								<path class="st7" d="M150,327.5c5.2,0,9.5,4.3,9.5,9.5l0,0c0,5.2-4.3-0.5-9.5-0.5s-9.5,5.7-9.5,0.5l0,0
 									C140.5,331.8,144.8,327.5,150,327.5z"/>
 								<g>
 									<path class="person2hair" d="M159.8,346c-0.1-0.5-0.4-0.5-0.8-0.5c-0.4,0-1.1-0.2-1.5,0.3l-0.2-0.2c-1.4,0-2.7,0.1-4.1-0.2
@@ -528,7 +562,7 @@
 					<g id="person-2-front-torso-socket-arms-left" class="st1">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -230.3778 259.3614)" class="st2" cx="170" cy="383" rx="4" ry="4"/>
 					</g>
-					<circle id="person-2-front-headneck-socket" class="st3" cx="150" cy="379.5" r="5"/>
+					<circle id="person-2-front-headneck-socket" class="st4" cx="150" cy="379.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -549,7 +583,7 @@
 										c-0.5-0.3-1.1-0.6-1.6-0.9c-0.4-0.2-0.6-0.4-0.9-0.6c-0.7-0.5-1.5-0.8-2.2-1.2c-0.9-0.5-1.3-1.2-1.6-2.3
 										c-0.3-0.9-0.3-1.9-0.3-2.9c0-0.3,0-0.6,0.1-0.9c0.2-0.5,0.6-0.5,1-0.5c0.6,0,1.5-0.2,1.9,0.3"/>
 								</g>
-								<path class="st6" d="M762,335c0,1-2.8,4-8,4c-0.5,0-3.5,1-4,1c-5.2,0-9.5,3.2-9.5-2c0-0.5,0-1.5,0-2c0-5.2,3.3-8.5,8.5-8.5
+								<path class="st7" d="M762,335c0,1-2.8,4-8,4c-0.5,0-3.5,1-4,1c-5.2,0-9.5,3.2-9.5-2c0-0.5,0-1.5,0-2c0-5.2,3.3-8.5,8.5-8.5
 									c0.5,0,1.5,0,2,0C756.2,327.5,762,329.8,762,335C762,335.5,762,334.5,762,335z"/>
 							</g>
 							<circle id="person-2-right-head-ball" class="ball" cx="749.5" cy="351" r="5"/>
@@ -581,7 +615,7 @@
 						<path id="person-2-right-torso-shape" class="cricketclothes" d="M762.5,391.5c0-6.6-5.2-12-11.5-12H749
 							c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V391.5z"/>
 					</g>
-					<circle id="person-2-right-headneck-socket" class="st3" cx="749.5" cy="380" r="5"/>
+					<circle id="person-2-right-headneck-socket" class="st4" cx="749.5" cy="380" r="5"/>
 					<g id="person-2-right-torso-socket-arms-right" class="st1">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -31.9649 695.7035)" class="st2" cx="749" cy="383" rx="4" ry="4"/>
 					</g>
@@ -658,7 +692,7 @@
 							<g id="person-2-back-head">
 								<path id="person-2-back-head-shape" class="person2flesh" d="M441.5,336.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8
 									c0,3.6-3,6.6-6.6,6.6h-3.8c-3.6,0-6.6-3-6.6-6.6V336.6z"/>
-								<path class="st6" d="M459.2,337c0,5.2-3.8,6.5-9.8,6.5l0,0c-5,0-9.2-1.3-9.2-6.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0
+								<path class="st7" d="M459.2,337c0,5.2-3.8,6.5-9.8,6.5l0,0c-5,0-9.2-1.3-9.2-6.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0
 									C455,327.5,459.2,331.8,459.2,337L459.2,337z"/>
 							</g>
 							<circle id="person-2-back-head-ball" class="ball" cx="450" cy="350.5" r="5"/>
@@ -762,60 +796,117 @@
 					<g id="person-2-back-torso-socket-arms-left" class="st1">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -145.8064 377.0128)" class="st2" cx="430" cy="383" rx="4" ry="4"/>
 					</g>
-					<circle id="person-2-back-headneck-socket" class="st3" cx="450" cy="379.5" r="5"/>
+					<circle id="person-2-back-headneck-socket" class="st4" cx="450" cy="379.5" r="5"/>
 				</g>
 			</g>
 		</g>
 	</g>
+	<g id="cricket-bat">
+		<g id="cricket-bat-front">
+			<path class="cricketbatwillow" d="M53,1228H47c-1.1,0-2,0.9-2,2v64.1c0,1.1,0.9,2,2,2H53c1.1,0,2-0.9,2-2V1230
+				C55,1228.9,54.1,1228,53,1228z"/>
+			<path class="cricketbathandle" d="M50,1230L50,1230c-1.1,0-2-0.9-2-2v-15c0-1.1,0.9-2,2-2h0c1.1,0,2,0.9,2,2v15
+				C52,1229.1,51.1,1230,50,1230z"/>
+		</g>
+		<g id="cricket-bat-right">
+			<path class="cricketbathandle" d="M250,1230L250,1230c-1.1,0-2-0.9-2-2v-15c0-1.1,0.9-2,2-2l0,0c1.1,0,2,0.9,2,2v15
+				C252,1229.1,251.1,1230,250,1230z"/>
+			<path class="cricketbatwillow" d="M251,1228h-2c-1.1,0-2,0.9-2,2l-2,60c0,1.1,2.9,6,4,6h2c1.1,0,2-0.9,2-2V1230
+				C253,1228.9,252.1,1228,251,1228z"/>
+		</g>
+		<g id="cricket-bat-back">
+			<path class="cricketbatwillow" d="M153,1228H147c-1.1,0-2,0.9-2,2v64.1c0,1.1,0.9,2,2,2h6.1c1.1,0,2-0.9,2-2V1230
+				C155,1228.9,154.1,1228,153,1228z"/>
+			<path class="cricketbathandle" d="M150,1230L150,1230c-1.1,0-2-0.9-2-2v-15c0-1.1,0.9-2,2-2l0,0c1.1,0,2,0.9,2,2v15
+				C152,1229.1,151.1,1230,150,1230z"/>
+			<line class="cricketbatwillow" x1="150" y1="1293" x2="150" y2="1230"/>
+		</g>
+	</g>
+	<g id="cricket-stumps">
+		<g id="cricket-stumps-front">
+			<rect x="448" y="1224" class="cricketstumps" width="4" height="72"/>
+			<rect x="438" y="1224" class="cricketstumps" width="4" height="72"/>
+			<rect x="458" y="1224" class="cricketstumps" width="4" height="72"/>
+			<rect x="442" y="1223" class="cricketbails" width="6" height="2"/>
+			<rect x="452" y="1223" class="cricketbails" width="6" height="2"/>
+		</g>
+		<g id="cricket-stumps-right">
+			<circle class="st8" cx="650" cy="1224" r="1"/>
+			<rect x="648" y="1224" class="cricketstumps" width="4" height="72"/>
+		</g>
+	</g>
+	<g id="cricket-ball">
+		<circle class="cricketball" cx="822.5" cy="1236.5" r="3.5"/>
+		<path class="cricketstitching" d="M825,1237.5h-5c-0.5,0-1-0.4-1-1l0,0c0-0.6,0.5-1,1-1h5c0.5,0,1,0.4,1,1l0,0
+			C826,1237.1,825.5,1237.5,825,1237.5z"/>
+	</g>
 </g>
 <g id="Labels">
-	<rect x="10" y="6" class="st7" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 10 16.6401)"><tspan x="0" y="0" class="st8 st9">Person 1</tspan><tspan x="0" y="14.4" class="st8 st10">Front</tspan></text>
-	<rect x="184" y="4" class="st7" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 184 11.6001)"><tspan x="0" y="0" class="st11 st12">Where no left-side </tspan><tspan x="0" y="12" class="st11 st12">body parts are </tspan><tspan x="0" y="24" class="st11 st12">supplied, the </tspan><tspan x="0" y="36" class="st11 st12">right-side body parts </tspan><tspan x="0" y="48" class="st11 st12">will be flipped.</tspan></text>
-	<rect x="10" y="51" class="st7" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 10 58.6001)" class="st11 st12">right-side</text>
-	<rect x="190" y="149" class="st7" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 190 156.6001)"><tspan x="0" y="0" class="st13 st14 st12">◌</tspan><tspan x="5" y="0" class="st11 st12"> connect to parent</tspan><tspan x="0" y="12" class="st15 st14 st12">⃝</tspan><tspan x="5" y="12" class="st11 st12"> connect to child</tspan></text>
-	<rect x="474" y="6" class="st7" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 474 16.6401)"><tspan x="0" y="0" class="st8 st9">Person 1</tspan><tspan x="0" y="14.4" class="st8 st10">Back</tspan></text>
-	<rect x="310.3" y="4" class="st7" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 310.3335 11.6001)"><tspan x="0" y="0" class="st11 st12">Where no left-side </tspan><tspan x="0" y="12" class="st11 st12">body parts are </tspan><tspan x="0" y="24" class="st11 st12">supplied, the </tspan><tspan x="0" y="36" class="st11 st12">right-side body parts </tspan><tspan x="0" y="48" class="st11 st12">will be flipped.</tspan></text>
-	<rect x="474" y="51" class="st7" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 474 58.6001)" class="st11 st12">right-side</text>
-	<rect x="311" y="149" class="st7" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 311 156.6001)"><tspan x="0" y="0" class="st13 st14 st12">◌</tspan><tspan x="5" y="0" class="st11 st12"> connect to parent</tspan><tspan x="0" y="12" class="st15 st14 st12">⃝</tspan><tspan x="5" y="12" class="st11 st12"> connect to child</tspan></text>
-	<rect x="610" y="6" class="st7" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 610 16.6401)"><tspan x="0" y="0" class="st8 st9">Person 1</tspan><tspan x="0" y="14.4" class="st8 st10">Right</tspan></text>
-	<rect x="784" y="4" class="st7" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 784 11.6001)"><tspan x="0" y="0" class="st11 st12">Where no left-side </tspan><tspan x="0" y="12" class="st11 st12">body parts are </tspan><tspan x="0" y="24" class="st11 st12">supplied, the </tspan><tspan x="0" y="36" class="st11 st12">right-side body parts </tspan><tspan x="0" y="48" class="st11 st12">will be copied.</tspan></text>
-	<rect x="630" y="133" class="st7" width="77" height="14"/>
-	<text transform="matrix(1 0 0 1 630 140.6001)" class="st11 st12">right-side</text>
-	<rect x="790" y="149" class="st7" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 790 156.6001)"><tspan x="0" y="0" class="st13 st14 st12">◌</tspan><tspan x="5" y="0" class="st11 st12"> connect to parent</tspan><tspan x="0" y="12" class="st15 st14 st12">⃝</tspan><tspan x="5" y="12" class="st11 st12"> connect to child</tspan></text>
-	<rect x="10" y="306" class="st7" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 10 316.6401)"><tspan x="0" y="0" class="st8 st9">Person 2</tspan><tspan x="0" y="14.4" class="st8 st10">Front</tspan></text>
-	<rect x="184" y="304" class="st7" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 184 311.6001)"><tspan x="0" y="0" class="st11 st12">Where no left-side </tspan><tspan x="0" y="12" class="st11 st12">body parts are </tspan><tspan x="0" y="24" class="st11 st12">supplied, the </tspan><tspan x="0" y="36" class="st11 st12">right-side body parts </tspan><tspan x="0" y="48" class="st11 st12">will be flipped.</tspan></text>
-	<rect x="10" y="351" class="st7" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 10 358.6001)" class="st11 st12">right-side</text>
-	<rect x="190" y="449" class="st7" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 190 456.6001)"><tspan x="0" y="0" class="st13 st14 st12">◌</tspan><tspan x="5" y="0" class="st11 st12"> connect to parent</tspan><tspan x="0" y="12" class="st15 st14 st12">⃝</tspan><tspan x="5" y="12" class="st11 st12"> connect to child</tspan></text>
-	<rect x="474" y="306" class="st7" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 474 316.6401)"><tspan x="0" y="0" class="st8 st9">Person 2</tspan><tspan x="0" y="14.4" class="st8 st10">Back</tspan></text>
-	<rect x="310.3" y="304" class="st7" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 310.3335 311.6001)"><tspan x="0" y="0" class="st11 st12">Where no left-side </tspan><tspan x="0" y="12" class="st11 st12">body parts are </tspan><tspan x="0" y="24" class="st11 st12">supplied, the </tspan><tspan x="0" y="36" class="st11 st12">right-side body parts </tspan><tspan x="0" y="48" class="st11 st12">will be flipped.</tspan></text>
-	<rect x="474" y="351" class="st7" width="114" height="18"/>
-	<text transform="matrix(1 0 0 1 474 358.6001)" class="st11 st12">right-side</text>
-	<rect x="311" y="449" class="st7" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 311 456.6001)"><tspan x="0" y="0" class="st13 st14 st12">◌</tspan><tspan x="5" y="0" class="st11 st12"> connect to parent</tspan><tspan x="0" y="12" class="st15 st14 st12">⃝</tspan><tspan x="5" y="12" class="st11 st12"> connect to child</tspan></text>
-	<rect x="610" y="306" class="st7" width="123" height="33"/>
-	<text transform="matrix(1 0 0 1 610 316.6401)"><tspan x="0" y="0" class="st8 st9">Person 2</tspan><tspan x="0" y="14.4" class="st8 st10">Right</tspan></text>
-	<rect x="784" y="304" class="st7" width="107" height="72"/>
-	<text transform="matrix(1 0 0 1 784 311.6001)"><tspan x="0" y="0" class="st11 st12">Where no left-side </tspan><tspan x="0" y="12" class="st11 st12">body parts are </tspan><tspan x="0" y="24" class="st11 st12">supplied, the </tspan><tspan x="0" y="36" class="st11 st12">right-side body parts </tspan><tspan x="0" y="48" class="st11 st12">will be copied.</tspan></text>
-	<rect x="630" y="433" class="st7" width="77" height="14"/>
-	<text transform="matrix(1 0 0 1 630 440.6001)" class="st11 st12">right-side</text>
-	<rect x="790" y="449" class="st7" width="105" height="81"/>
-	<text transform="matrix(1 0 0 1 790 456.6001)"><tspan x="0" y="0" class="st13 st14 st12">◌</tspan><tspan x="5" y="0" class="st11 st12"> connect to parent</tspan><tspan x="0" y="12" class="st15 st14 st12">⃝</tspan><tspan x="5" y="12" class="st11 st12"> connect to child</tspan></text>
+	<rect x="10" y="6" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 10 16.6401)"><tspan x="0" y="0" class="st10 st11">Person 1</tspan><tspan x="0" y="14.4" class="st10 st12">Front</tspan></text>
+	<rect x="184" y="4" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 184 11.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be flipped.</tspan></text>
+	<rect x="10" y="51" class="st9" width="114" height="18"/>
+	<text transform="matrix(1 0 0 1 10 58.6001)" class="st13 st14">right-side</text>
+	<rect x="190" y="149" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 190 156.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="474" y="6" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 474 16.6401)"><tspan x="0" y="0" class="st10 st11">Person 1</tspan><tspan x="0" y="14.4" class="st10 st12">Back</tspan></text>
+	<rect x="310.3" y="4" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 310.3335 11.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be flipped.</tspan></text>
+	<rect x="474" y="51" class="st9" width="114" height="18"/>
+	<text transform="matrix(1 0 0 1 474 58.6001)" class="st13 st14">right-side</text>
+	<rect x="311" y="149" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 311 156.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="610" y="6" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 610 16.6401)"><tspan x="0" y="0" class="st10 st11">Person 1</tspan><tspan x="0" y="14.4" class="st10 st12">Right</tspan></text>
+	<rect x="784" y="4" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 784 11.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be copied.</tspan></text>
+	<rect x="630" y="133" class="st9" width="77" height="14"/>
+	<text transform="matrix(1 0 0 1 630 140.6001)" class="st13 st14">right-side</text>
+	<rect x="790" y="149" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 790 156.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="10" y="306" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 10 316.6401)"><tspan x="0" y="0" class="st10 st11">Person 2</tspan><tspan x="0" y="14.4" class="st10 st12">Front</tspan></text>
+	<rect x="184" y="304" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 184 311.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be flipped.</tspan></text>
+	<rect x="10" y="351" class="st9" width="114" height="18"/>
+	<text transform="matrix(1 0 0 1 10 358.6001)" class="st13 st14">right-side</text>
+	<rect x="190" y="449" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 190 456.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="474" y="306" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 474 316.6401)"><tspan x="0" y="0" class="st10 st11">Person 2</tspan><tspan x="0" y="14.4" class="st10 st12">Back</tspan></text>
+	<rect x="310.3" y="304" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 310.3335 311.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be flipped.</tspan></text>
+	<rect x="474" y="351" class="st9" width="114" height="18"/>
+	<text transform="matrix(1 0 0 1 474 358.6001)" class="st13 st14">right-side</text>
+	<rect x="311" y="449" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 311 456.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="610" y="306" class="st9" width="123" height="33"/>
+	<text transform="matrix(1 0 0 1 610 316.6401)"><tspan x="0" y="0" class="st10 st11">Person 2</tspan><tspan x="0" y="14.4" class="st10 st12">Right</tspan></text>
+	<rect x="784" y="304" class="st9" width="107" height="72"/>
+	<text transform="matrix(1 0 0 1 784 311.6001)"><tspan x="0" y="0" class="st13 st14">Where no left-side </tspan><tspan x="0" y="12" class="st13 st14">body parts are </tspan><tspan x="0" y="24" class="st13 st14">supplied, the </tspan><tspan x="0" y="36" class="st13 st14">right-side body parts </tspan><tspan x="0" y="48" class="st13 st14">will be copied.</tspan></text>
+	<rect x="630" y="433" class="st9" width="77" height="14"/>
+	<text transform="matrix(1 0 0 1 630 440.6001)" class="st13 st14">right-side</text>
+	<rect x="790" y="449" class="st9" width="105" height="81"/>
+	<text transform="matrix(1 0 0 1 790 456.6001)"><tspan x="0" y="0" class="st15 st16 st14">◌</tspan><tspan x="5" y="0" class="st13 st14"> connect to parent</tspan><tspan x="0" y="12" class="st17 st16 st14">⃝</tspan><tspan x="5" y="12" class="st13 st14"> connect to child</tspan></text>
+	<rect x="3" y="1206" class="st9" width="53" height="33"/>
+	<text transform="matrix(1 0 0 1 3 1216.6401)"><tspan x="0" y="0" class="st10 st11">Bat</tspan><tspan x="0" y="14.4" class="st10 st12">Front</tspan></text>
+	<rect x="103" y="1206" class="st9" width="53" height="33"/>
+	<text transform="matrix(1 0 0 1 103 1216.6401)"><tspan x="0" y="0" class="st10 st11">Bat</tspan><tspan x="0" y="14.4" class="st10 st12">Back</tspan></text>
+	<rect x="203" y="1206" class="st9" width="53" height="33"/>
+	<text transform="matrix(1 0 0 1 203 1216.6401)"><tspan x="0" y="0" class="st10 st11">Bat</tspan><tspan x="0" y="14.4" class="st10 st12">Right</tspan></text>
+	<rect x="303" y="1206" class="st9" width="53" height="33"/>
+	<text transform="matrix(1 0 0 1 303 1216.6401)"><tspan x="0" y="0" class="st10 st11">Bat</tspan><tspan x="0" y="14.4" class="st10 st12">Left</tspan></text>
+	<rect x="403" y="1206" class="st9" width="69" height="33"/>
+	<text transform="matrix(1 0 0 1 403 1216.6401)"><tspan x="0" y="0" class="st10 st11">Stumps</tspan><tspan x="0" y="14.4" class="st10 st12">Front</tspan></text>
+	<rect x="503" y="1206" class="st9" width="69" height="33"/>
+	<text transform="matrix(1 0 0 1 503 1216.6401)"><tspan x="0" y="0" class="st10 st11">Stumps</tspan><tspan x="0" y="14.4" class="st10 st12">Back</tspan></text>
+	<rect x="603" y="1206" class="st9" width="69" height="33"/>
+	<text transform="matrix(1 0 0 1 603 1216.6401)"><tspan x="0" y="0" class="st10 st11">Stumps</tspan><tspan x="0" y="14.4" class="st10 st12">Right</tspan></text>
+	<rect x="703" y="1206" class="st9" width="69" height="33"/>
+	<text transform="matrix(1 0 0 1 703 1216.6401)"><tspan x="0" y="0" class="st10 st11">Stumps</tspan><tspan x="0" y="14.4" class="st10 st12">Left</tspan></text>
+	<rect x="803" y="1206" class="st9" width="69" height="33"/>
+	<text transform="matrix(1 0 0 1 803 1216.6401)"><tspan x="0" y="0" class="st10 st11">Ball</tspan><tspan x="0" y="14.4" class="st10 st12">Front</tspan></text>
 </g>
 </svg>
