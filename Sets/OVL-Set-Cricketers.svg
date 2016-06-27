@@ -21,8 +21,8 @@
 	.st0{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
 	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9652,0.9652;}
 	.st2{fill:#C1272D;stroke:#FF7BAC;stroke-miterlimit:10;}
-	.st3{opacity:0.8;}
-	.st4{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st3{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st4{opacity:0.8;}
 	.st5{fill:#FFFFF0;}
 	.st6{fill:none;stroke:#CCC0C0;stroke-miterlimit:10;}
 	.st7{fill:#333333;stroke:#66666B;stroke-miterlimit:10;}
@@ -127,6 +127,10 @@
 					<g id="person-1-front-legs-right">
 						<g id="person-1-front-legs-right-upper-group">
 							<g id="person-1-front-legs-right-lower-group">
+								<g id="person-1-front-legs-right-lower">
+									<path id="person-1-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,197.5c0-2.8-2.2-5-5-5l0,0
+										c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
+								</g>
 								<g id="person-1-front-legs-right-foot-group">
 									<g id="person-1-front-legs-right-foot">
 										<path id="person-1-front-legs-right-foot-shape" class="person1flesh" d="M139.5,259.5c0,2.8-2.2,2-5,2l0,0
@@ -134,23 +138,19 @@
 									</g>
 									<circle id="person-1-front-legs-right-foot-ball" class="ball" cx="134.5" cy="256.5" r="5"/>
 								</g>
-								<g id="person-1-front-legs-right-lower">
-									<path id="person-1-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,197.5c0-2.8-2.2-5-5-5l0,0
-										c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
-								</g>
-								<circle id="person-1-front-legs-right-lower-ball" class="ball" cx="134.5" cy="197.5" r="5"/>
 								<g id="person-1-front-legs-right-lower-socket">
 									<circle class="st0" cx="134.5" cy="239.5" r="5"/>
 								</g>
+								<circle id="person-1-front-legs-right-lower-ball" class="ball" cx="134.5" cy="197.5" r="5"/>
 							</g>
 							<g id="person-1-front-legs-right-upper">
 								<path id="person-1-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,146.5c0-2.8-2.2-5-5-5l0,0
 									c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g>
-							<circle id="person-1-front-legs-upper-right-ball" class="ball" cx="134.5" cy="146.5" r="5"/>
 							<g id="person-1-front-legs-right-upper-socket">
-								<circle class="st0" cx="134.5" cy="184.5" r="5"/>
+								<circle class="st0" cx="134.5" cy="185" r="5"/>
 							</g>
+							<circle id="person-1-front-legs-upper-right-ball" class="ball" cx="134.5" cy="146.5" r="5"/>
 						</g>
 					</g>
 				</g>
@@ -185,11 +185,11 @@
 							h-7.1h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6V92v9.5c0,6.6,4.6,12,10.2,12h20.5
 							c5.7,0,10.2-5.4,10.2-12V92V86.8z"/>
 					</g>
-					<g id="person-1-front-torso-socket-arms-left" class="st3">
-						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="st1" cx="170" cy="83" rx="4" ry="4"/>
-					</g>
 					<g id="person-1-front-torso-socket-arms-right">
 						<circle class="st1" cx="130" cy="83" r="4"/>
+					</g>
+					<g id="person-1-front-torso-socket-arms-left">
+						<circle class="st1" cx="170" cy="83" r="4"/>
 					</g>
 					<g id="person-1-front-headneck-socket">
 						<circle class="st0" cx="150" cy="79.5" r="5"/>
@@ -241,11 +241,11 @@
 						<path id="person-1-right-torso-shape" class="cricketclothes" d="M762.5,91.5c0-6.6-5.2-12-11.5-12H749
 							c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V91.5z"/>
 					</g>
-					<circle id="person-1-right-headneck-socket" class="st4" cx="749.5" cy="80" r="5"/>
-					<g id="person-1-right-torso-socket-arms-right" class="st3">
+					<circle id="person-1-right-headneck-socket" class="st3" cx="749.5" cy="80" r="5"/>
+					<g id="person-1-right-torso-socket-arms-right" class="st4">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 194.1191 592.8989)" class="st1" cx="749" cy="83" rx="4" ry="4"/>
 					</g>
-					<g id="person-1-right-torso-socket-arms-left" class="st3">
+					<g id="person-1-right-torso-socket-arms-left" class="st4">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 129.9864 512.7812)" class="st1" cx="749" cy="83" rx="4" ry="4"/>
 					</g>
 				</g>
@@ -294,7 +294,7 @@
 						</g>
 						
 							<ellipse id="person-1-right-arms-right-lower-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 153.4626 581.447)" class="ball" cx="716" cy="122" rx="4" ry="4"/>
-						<g id="person-1-right-arms-right-lower-socket" class="st3">
+						<g id="person-1-right-arms-right-lower-socket" class="st4">
 							<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 128.5913 592.7578)" class="st1" cx="716" cy="155" rx="4" ry="4"/>
 						</g>
 					</g>
@@ -304,7 +304,7 @@
 					</g>
 					
 						<ellipse id="person-1-right-arms-right-upper-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 182.8563 568.0803)" class="ball" cx="716" cy="83" rx="4" ry="4"/>
-					<g id="person-1-right-arms-right-upper-socket" class="st3">
+					<g id="person-1-right-arms-right-upper-socket" class="st4">
 						<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 161.7534 577.6774)" class="st1" cx="716" cy="111" rx="4" ry="4"/>
 					</g>
 				</g>
@@ -394,7 +394,7 @@
 							</g>
 							
 								<ellipse id="person-1-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 120.7851 431.6256)" class="ball" cx="535" cy="83" rx="4" ry="4"/>
-							<g id="person-1-back-arms-right-lower-socket" class="st3">
+							<g id="person-1-back-arms-right-lower-socket" class="st4">
 								<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 132.0936 456.4949)" class="st1" cx="568" cy="83" rx="4" ry="4"/>
 							</g>
 						</g>
@@ -404,7 +404,7 @@
 						</g>
 						
 							<ellipse id="person-1-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 107.4205 402.2347)" class="ball" cx="496" cy="83" rx="4" ry="4"/>
-						<g id="person-1-back-arms-right-upper-socket" class="st3">
+						<g id="person-1-back-arms-right-upper-socket" class="st4">
 							<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 117.0156 423.3359)" class="st1" cx="524" cy="83" rx="4" ry="4"/>
 						</g>
 					</g>
@@ -427,13 +427,13 @@
 							h3.2h20.5h3.2h7.1c1.7,0,2,1.5,2,3.4v0.3c0,1.9-1,3.6-3,3.6V92v9.5c0,6.6-3.6,12-9.2,12h-20.5c-5.7,0-11.2-5.4-11.2-12V92
 							V86.8z"/>
 					</g>
-					<g id="person-1-back-torso-socket-arms-right" class="st3">
+					<g id="person-1-back-torso-socket-arms-right" class="st4">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 98.5108 382.6408)" class="st1" cx="470" cy="83" rx="4" ry="4"/>
 					</g>
-					<g id="person-1-back-torso-socket-arms-left" class="st3">
+					<g id="person-1-back-torso-socket-arms-left" class="st4">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 51.389 303.0968)" class="st1" cx="430" cy="83" rx="4" ry="4"/>
 					</g>
-					<circle id="person-1-back-headneck-socket" class="st4" cx="450" cy="79.5" r="5"/>
+					<circle id="person-1-back-headneck-socket" class="st3" cx="450" cy="79.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -470,7 +470,7 @@
 							</g>
 							
 								<ellipse id="person-2-front-arms-right-lower-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -235.7375 137.0917)" class="ball" cx="65" cy="383" rx="4" ry="4"/>
-							<g id="person-2-front-arms-right-lower-socket" class="st3">
+							<g id="person-2-front-arms-right-lower-socket" class="st4">
 								
 									<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -243.8683 115.4002)" class="st1" cx="32" cy="383" rx="4" ry="4"/>
 							</g>
@@ -481,7 +481,7 @@
 						</g>
 						
 							<ellipse id="person-2-front-arms-right-upper-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -226.1284 162.7271)" class="ball" cx="104" cy="383" rx="4" ry="4"/>
-						<g id="person-2-front-arms-right-upper-socket" class="st3">
+						<g id="person-2-front-arms-right-upper-socket" class="st4">
 							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -233.0273 144.3222)" class="st1" cx="76" cy="383" rx="4" ry="4"/>
 						</g>
 					</g>
@@ -555,13 +555,13 @@
 							h-7.1h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6v5.2v9.5c0,6.6,4.6,12,10.2,12h20.5
 							c5.7,0,10.2-5.4,10.2-12V392V386.8z"/>
 					</g>
-					<g id="person-2-front-torso-socket-arms-right" class="st3">
+					<g id="person-2-front-torso-socket-arms-right" class="st4">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -219.7224 179.8174)" class="st1" cx="130" cy="383" rx="4" ry="4"/>
 					</g>
-					<g id="person-2-front-torso-socket-arms-left" class="st3">
+					<g id="person-2-front-torso-socket-arms-left" class="st4">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -230.3778 259.3614)" class="st1" cx="170" cy="383" rx="4" ry="4"/>
 					</g>
-					<circle id="person-2-front-headneck-socket" class="st4" cx="150" cy="379.5" r="5"/>
+					<circle id="person-2-front-headneck-socket" class="st3" cx="150" cy="379.5" r="5"/>
 				</g>
 			</g>
 		</g>
@@ -614,11 +614,11 @@
 						<path id="person-2-right-torso-shape" class="cricketclothes" d="M762.5,391.5c0-6.6-5.2-12-11.5-12H749
 							c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V391.5z"/>
 					</g>
-					<circle id="person-2-right-headneck-socket" class="st4" cx="749.5" cy="380" r="5"/>
-					<g id="person-2-right-torso-socket-arms-right" class="st3">
+					<circle id="person-2-right-headneck-socket" class="st3" cx="749.5" cy="380" r="5"/>
+					<g id="person-2-right-torso-socket-arms-right" class="st4">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -31.9649 695.7035)" class="st1" cx="749" cy="383" rx="4" ry="4"/>
 					</g>
-					<g id="person-2-right-torso-socket-arms-left" class="st3">
+					<g id="person-2-right-torso-socket-arms-left" class="st4">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -67.209 586.6972)" class="st1" cx="749" cy="383" rx="4" ry="4"/>
 					</g>
 				</g>
@@ -667,7 +667,7 @@
 						</g>
 						
 							<ellipse id="person-2-right-arms-right-lower-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 -72.64 684.2728)" class="ball" cx="716" cy="422" rx="4" ry="4"/>
-						<g id="person-2-right-arms-right-lower-socket" class="st3">
+						<g id="person-2-right-arms-right-lower-socket" class="st4">
 							<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -97.5113 695.5837)" class="st1" cx="716" cy="455" rx="4" ry="4"/>
 						</g>
 					</g>
@@ -677,7 +677,7 @@
 					</g>
 					
 						<ellipse id="person-2-right-arms-right-upper-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 -43.2463 670.9062)" class="ball" cx="716" cy="383" rx="4" ry="4"/>
-					<g id="person-2-right-arms-right-upper-socket" class="st3">
+					<g id="person-2-right-arms-right-upper-socket" class="st4">
 						<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -64.3492 680.5033)" class="st1" cx="716" cy="411" rx="4" ry="4"/>
 					</g>
 				</g>
@@ -754,7 +754,7 @@
 							</g>
 							
 								<ellipse id="person-2-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -105.2989 534.4302)" class="ball" cx="535" cy="383" rx="4" ry="4"/>
-							<g id="person-2-back-arms-right-lower-socket" class="st3">
+							<g id="person-2-back-arms-right-lower-socket" class="st4">
 								
 									<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -93.9904 559.2995)" class="st1" cx="568" cy="383" rx="4" ry="4"/>
 							</g>
@@ -765,7 +765,7 @@
 						</g>
 						
 							<ellipse id="person-2-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -118.6635 505.0393)" class="ball" cx="496" cy="383" rx="4" ry="4"/>
-						<g id="person-2-back-arms-right-upper-socket" class="st3">
+						<g id="person-2-back-arms-right-upper-socket" class="st4">
 							
 								<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -109.0684 526.1405)" class="st1" cx="524" cy="383" rx="4" ry="4"/>
 						</g>
@@ -789,13 +789,13 @@
 							h3.2h20.5h3.2h7.1c1.7,0,2,1.5,2,3.4v0.3c0,1.9-1,3.6-3,3.6v5.2v9.5c0,6.6-3.6,12-9.2,12h-20.5c-5.7,0-11.2-5.4-11.2-12V392
 							V386.8z"/>
 					</g>
-					<g id="person-2-back-torso-socket-arms-right" class="st3">
+					<g id="person-2-back-torso-socket-arms-right" class="st4">
 						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -127.5732 485.4454)" class="st1" cx="470" cy="383" rx="4" ry="4"/>
 					</g>
-					<g id="person-2-back-torso-socket-arms-left" class="st3">
+					<g id="person-2-back-torso-socket-arms-left" class="st4">
 						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -145.8064 377.0128)" class="st1" cx="430" cy="383" rx="4" ry="4"/>
 					</g>
-					<circle id="person-2-back-headneck-socket" class="st4" cx="450" cy="379.5" r="5"/>
+					<circle id="person-2-back-headneck-socket" class="st3" cx="450" cy="379.5" r="5"/>
 				</g>
 			</g>
 		</g>
