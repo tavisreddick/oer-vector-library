@@ -42,6 +42,8 @@
 						</xs:sequence>
 						<xs:attribute name="id" />
 						<xs:attribute name="designation" use="optional" type="designation" />
+						<xs:attribute name="ball" use="optional" type="xs:NMTOKEN" />
+						<xs:attribute name="socket" use="optional" type="xs:NMTOKEN" />
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
