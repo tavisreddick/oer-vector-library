@@ -55,6 +55,20 @@
 		<twin id="person-2-front-legs-left-upper" symmetry="flip-horizontal" x="150" designation="left"/>
 	</component>
 	<!-- person-1-back -->
+	<component id="person-1-back-neck-group" socket="person-1-back-headneck-socket" />
+	<component id="person-1-back-head-group" socket="person-1-back-neck-socket" />
+	<component id="person-1-back-arms-right-hand-group" designation="right"
+		socket="person-1-back-arms-right-lower-socket"/>
+	<component id="person-1-back-arms-right-lower-group" designation="right"
+		socket="person-1-back-arms-right-upper-socket" />
+	<component id="person-1-back-arms-right" designation="right"
+		socket="person-1-back-torso-socket-arms-right" />
+	<component id="person-1-back-legs-right-foot-group" designation="right"
+		socket="person-1-back-legs-right-lower-socket"/>
+	<component id="person-1-back-legs-right-lower-group" designation="right"
+		socket="person-1-back-legs-right-upper-socket" />
+	<component id="person-1-back-legs-right-upper-group" designation="right"
+		socket="person-1-back-pelvis-socket-legs-right" />
 	<component id="person-1-back-arms-right-hand" designation="right">
 		<twin id="person-1-back-arms-left-hand" symmetry="flip-horizontal" x="450" designation="left" />
 	</component>
@@ -92,4 +106,19 @@
 	<component id="person-2-back-legs-right-upper" designation="right">
 		<twin id="person-2-back-legs-left-upper" symmetry="flip-horizontal" x="450" designation="left"/>
 	</component>
+	<!-- person-2-right -->
+	<component id="person-2-right-neck-group" socket="person-2-right-headneck-socket" />
+	<component id="person-2-right-head-group" socket="person-2-right-neck-socket" />
+	<component id="person-2-right-arms-right-hand-group" designation="right"
+		socket="person-2-right-arms-right-lower-socket"/>
+	<component id="person-2-right-arms-right-lower-group" designation="right"
+		socket="person-2-right-arms-right-upper-socket" />
+	<component id="person-2-right-arms-right" designation="right"
+		socket="person-2-right-torso-socket-arms-right" />
+	<component id="person-2-right-legs-right-foot-group" designation="right"
+		socket="person-2-right-legs-right-lower-socket"/>
+	<component id="person-2-right-legs-right-lower-group" designation="right"
+		socket="person-2-right-legs-right-upper-socket" />
+	<component id="person-2-right-legs-right-upper-group" designation="right"
+		socket="person-2-right-pelvis-socket-legs-right" />
 </personComponents>

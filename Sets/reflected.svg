@@ -17,6 +17,7 @@
 	.cricketball{fill:#C1272D;stroke:#F15A24;stroke-miterlimit:10;}
 	.cricketstitching{fill:none;stroke:#FFFFCC;stroke-miterlimit:10;stroke-opacity:0.5;}
 	.liveryteam1A{fill:#C1272D;stroke:#FF7BAC;stroke-miterlimit:10;}
+	.liveryteam2A{fill:#333333;stroke:#66666B;stroke-miterlimit:10;}
 	.st0{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
 	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9652,0.9652;}
 	.st2{fill:#C1272D;stroke:#FF7BAC;stroke-miterlimit:10;}
@@ -24,7 +25,7 @@
 	.st4{opacity:0.8;}
 	.st5{fill:#FFFFF0;}
 	.st6{fill:none;stroke:#CCC0C0;stroke-miterlimit:10;}
-	.st7{fill:#333333;stroke:#66666B;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1.0083,1.0083;}
 	.st8{fill:#FBB03B;stroke:#F15A24;stroke-miterlimit:10;}
 	.st9{fill:none;}
 	.st10{font-family:'Verdana-Bold';}
@@ -81,6 +82,34 @@
 	<g id="person-1">
 		<g id="person-1-front">
 			<g id="person-1-front-body">
+				<g id="person-1-front-legs">
+					<g id="person-1-front-legs-right">
+						<!--gid = person-1-front-legs-right-upper-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 146.5--><!--$socketId = person-1-front-pelvis-socket-legs-right--><!--$socket/@cx = 134.5--><!--$socket/@cy = 124.5--><g id="person-1-front-legs-right-upper-group" transform="translate(0, -22) rotate(0, 134.5, 146.5)">
+							<!--gid = person-1-front-legs-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 197.5--><!--$socketId = person-1-front-legs-right-upper-socket--><!--$socket/@cx = 134.5--><!--$socket/@cy = 185--><g id="person-1-front-legs-right-lower-group" transform="translate(0, -12.5) rotate(0, 134.5, 197.5)">
+								<!--gid = person-1-front-legs-right-lower--><!--component-detected, new component = person-1-front-legs-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-legs-right-lower--><g id="person-1-front-legs-right-lower">
+									<path id="person-1-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,197.5c0-2.8-2.2-5-5-5l0,0           c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
+								</g><!--$totalXtransforms = 0 0 --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-1-front-legs-right-lower" id="person-1-front-legs-left-lower" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+								<!--gid = person-1-front-legs-right-foot-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 256.5--><!--$socketId = person-1-front-legs-right-lower-socket--><!--$socket/@cx = 134.5--><!--$socket/@cy = 239.5--><g id="person-1-front-legs-right-foot-group" transform="translate(0, -17) rotate(0, 134.5, 256.5)">
+									<!--gid = person-1-front-legs-right-foot--><!--component-detected, new component = person-1-front-legs-left-foot--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-legs-right-foot--><g id="person-1-front-legs-right-foot">
+										<path id="person-1-front-legs-right-foot-shape" class="person1flesh" d="M139.5,259.5c0,2.8-2.2,2-5,2l0,0            c-2.8,0-5,0.8-5-2v-3c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V259.5z"/>
+									</g><!--$totalXtransforms = 0 0 0 --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-1-front-legs-right-foot" id="person-1-front-legs-left-foot" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+									<circle id="person-1-front-legs-right-foot-ball" class="ball" cx="134.5" cy="256.5" r="5"/>
+								</g>
+								<g id="person-1-front-legs-right-lower-socket">
+									<circle class="st0" cx="134.5" cy="239.5" r="5"/>
+								</g>
+								<circle id="person-1-front-legs-right-lower-ball" class="ball" cx="134.5" cy="197.5" r="5"/>
+							</g>
+							<!--gid = person-1-front-legs-right-upper--><!--component-detected, new component = person-1-front-legs-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-legs-right-upper--><g id="person-1-front-legs-right-upper">
+								<path id="person-1-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,146.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+							</g><!--$totalXtransforms = 0 --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-1-front-legs-right-upper" id="person-1-front-legs-left-upper" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+							<g id="person-1-front-legs-right-upper-socket">
+								<circle class="st0" cx="134.5" cy="185" r="5"/>
+							</g>
+							<circle id="person-1-front-legs-upper-right-ball" class="ball" cx="134.5" cy="146.5" r="5"/>
+						</g>
+					</g>
+				</g>
 				<g id="person-1-front-pelvis-group">
 					<g id="person-1-front-pelvis">
 						<path id="person-1-front-pelvis-shape" class="cricketclothes" d="M169.5,124.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11        l0,0c0,6.1,4.9,11,11,11h18C164.6,135.5,169.5,130.6,169.5,124.5L169.5,124.5z"/>
@@ -93,65 +122,37 @@
 					</g>
 				</g>
 				<g id="person-1-front-arms">
-					<!--gid = person-1-front-arms-right--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 104--><!--$ball/@cy = 83--><!--$socketId = person-1-front-torso-socket-arms-right--><!--$socket/@cx = 130--><!--$socket/@cy = 83--><g id="person-1-front-arms-right" transform="translate(26 0)">
-						<!--gid = person-1-front-arms-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 65--><!--$ball/@cy = 83--><!--$socketId = person-1-front-arms-right-upper-socket--><!--$socket/@cx = 76--><!--$socket/@cy = 83--><g id="person-1-front-arms-right-lower-group" transform="translate(11 0)">
-							<!--gid = person-1-front-arms-right-hand-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 21--><!--$ball/@cy = 83--><!--$socketId = person-1-front-arms-right-lower-socket--><!--$socket/@cx = 32--><!--$socket/@cy = 83--><g id="person-1-front-arms-right-hand-group" transform="translate(11 0)">
-								<!--gid = person-1-front-arms-right-hand--><!--component-detected, new component = person-1-front-arms-left-hand--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-front-arms-right-hand">
+					<!--gid = person-1-front-arms-right--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 104--><!--$ball/@cy = 83--><!--$socketId = person-1-front-torso-socket-arms-right--><!--$socket/@cx = 130--><!--$socket/@cy = 83--><g id="person-1-front-arms-right" transform="translate(26, 0) rotate(0, 104, 83)">
+						<!--gid = person-1-front-arms-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 65--><!--$ball/@cy = 83--><!--$socketId = person-1-front-arms-right-upper-socket--><!--$socket/@cx = 76--><!--$socket/@cy = 83--><g id="person-1-front-arms-right-lower-group" transform="translate(11, 0) rotate(0, 65, 83)">
+							<!--gid = person-1-front-arms-right-hand-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 21--><!--$ball/@cy = 83--><!--$socketId = person-1-front-arms-right-lower-socket--><!--$socket/@cx = 32--><!--$socket/@cy = 83--><g id="person-1-front-arms-right-hand-group" transform="translate(11, 0) rotate(0, 21, 83)">
+								<!--gid = person-1-front-arms-right-hand--><!--component-detected, new component = person-1-front-arms-left-hand--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-arms-right-hand--><g id="person-1-front-arms-right-hand">
 									<path id="person-1-front-arms-right-hand-shape" class="person1flesh" d="M10.5,83c0,1.9,1.6,3.5,3.5,3.5h7           c1.9,0,3.5-1.6,3.5-3.5l0,0c0-1.9-1.6-3.5-3.5-3.5h-7C12.1,79.5,10.5,81.1,10.5,83L10.5,83z"/>
-								</g>
+								</g><!--$totalXtransforms = 26 11 11 --><!--$sumTotalXtransforms = 48--><use xlink:href="#person-1-front-arms-right-hand" id="person-1-front-arms-left-hand" transform="translate(102, 0) scale(-1 1)     translate(-102, 0)"/>
 								<circle id="person-1-front-arms-right-hand-ball" class="ball" cx="21" cy="83" r="4"/>
 							</g>
-							<!--gid = person-1-front-arms-right-lower--><!--component-detected, new component = person-1-front-arms-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-front-arms-right-lower">
+							<!--gid = person-1-front-arms-right-lower--><!--component-detected, new component = person-1-front-arms-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-arms-right-lower--><g id="person-1-front-arms-right-lower">
 								<path id="person-1-front-arms-right-lower-shape" class="cricketclothes" d="M28.5,83.1c0,1.9,1.4,3.4,3.1,3.4h33.8          c1.7,0,3.1-1.5,3.1-3.4v-0.3c0-1.9-1.4-3.4-3.1-3.4H31.6c-1.7,0-3.1,1.5-3.1,3.4V83.1z"/>
-							</g>
+							</g><!--$totalXtransforms = 26 11 --><!--$sumTotalXtransforms = 37--><use xlink:href="#person-1-front-arms-right-lower" id="person-1-front-arms-left-lower" transform="translate(113, 0) scale(-1 1)     translate(-113, 0)"/>
 							<g id="person-1-front-arms-right-lower-socket">
 								<circle class="st1" cx="32" cy="83" r="4"/>
 							</g>
 							<circle id="person-1-front-arms-right-lower-ball" class="ball" cx="65" cy="83" r="4"/>
 						</g>
-						<!--gid = person-1-front-arms-right-upper--><!--component-detected, new component = person-1-front-arms-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-front-arms-right-upper">
+						<!--gid = person-1-front-arms-right-upper--><!--component-detected, new component = person-1-front-arms-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-arms-right-upper--><g id="person-1-front-arms-right-upper">
 							<path id="person-1-front-arms-right-upper-shape" class="cricketclothes" d="M72.5,83.1c0,1.9,1.2,3.4,2.7,3.4h29.6         c1.5,0,2.7-1.5,2.7-3.4v-0.3c0-1.9-1.2-3.4-2.7-3.4H75.2c-1.5,0-2.7,1.5-2.7,3.4V83.1z"/>
-						</g>
+						</g><!--$totalXtransforms = 26 --><!--$sumTotalXtransforms = 26--><use xlink:href="#person-1-front-arms-right-upper" id="person-1-front-arms-left-upper" transform="translate(124, 0) scale(-1 1)     translate(-124, 0)"/>
 						<circle id="person-1-front-arms-right-upper-ball" class="ball" cx="104" cy="83" r="4"/>
 						<g id="person-1-front-arms-right-upper-socket">
 							<circle class="st1" cx="76" cy="83" r="4"/>
 						</g>
 					</g>
 				</g>
-				<g id="person-1-front-legs">
-					<g id="person-1-front-legs-right">
-						<!--gid = person-1-front-legs-right-upper-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 146.5--><!--$socketId = person-1-front-pelvis-socket-legs-right--><!--$socket/@cx = 134.5--><!--$socket/@cy = 124.5--><g id="person-1-front-legs-right-upper-group" transform="translate(0 -22)">
-							<!--gid = person-1-front-legs-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 197.5--><!--$socketId = person-1-front-legs-right-upper-socket--><!--$socket/@cx = 134.5--><!--$socket/@cy = 185--><g id="person-1-front-legs-right-lower-group" transform="translate(0 -12.5)">
-								<!--gid = person-1-front-legs-right-lower--><!--component-detected, new component = person-1-front-legs-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-front-legs-right-lower">
-									<path id="person-1-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,197.5c0-2.8-2.2-5-5-5l0,0           c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
-								</g>
-								<!--gid = person-1-front-legs-right-foot-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 256.5--><!--$socketId = person-1-front-legs-right-lower-socket--><!--$socket/@cx = 134.5--><!--$socket/@cy = 239.5--><g id="person-1-front-legs-right-foot-group" transform="translate(0 -17)">
-									<!--gid = person-1-front-legs-right-foot--><!--component-detected, new component = person-1-front-legs-left-foot--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-front-legs-right-foot">
-										<path id="person-1-front-legs-right-foot-shape" class="person1flesh" d="M139.5,259.5c0,2.8-2.2,2-5,2l0,0            c-2.8,0-5,0.8-5-2v-3c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V259.5z"/>
-									</g>
-									<circle id="person-1-front-legs-right-foot-ball" class="ball" cx="134.5" cy="256.5" r="5"/>
-								</g>
-								<g id="person-1-front-legs-right-lower-socket">
-									<circle class="st0" cx="134.5" cy="239.5" r="5"/>
-								</g>
-								<circle id="person-1-front-legs-right-lower-ball" class="ball" cx="134.5" cy="197.5" r="5"/>
-							</g>
-							<!--gid = person-1-front-legs-right-upper--><!--component-detected, new component = person-1-front-legs-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-front-legs-right-upper">
-								<path id="person-1-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,146.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
-							</g>
-							<g id="person-1-front-legs-right-upper-socket">
-								<circle class="st0" cx="134.5" cy="185" r="5"/>
-							</g>
-							<circle id="person-1-front-legs-upper-right-ball" class="ball" cx="134.5" cy="146.5" r="5"/>
-						</g>
-					</g>
-				</g>
 				<g id="person-1-front-headneck">
-					<!--gid = person-1-front-neck-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 150--><!--$ball/@cy = 68--><!--$socketId = person-1-front-headneck-socket--><!--$socket/@cx = 150--><!--$socket/@cy = 79.5--><g id="person-1-front-neck-group" transform="translate(0 11.5)">
+					<!--gid = person-1-front-neck-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 150--><!--$ball/@cy = 68--><!--$socketId = person-1-front-headneck-socket--><!--$socket/@cx = 150--><!--$socket/@cy = 79.5--><g id="person-1-front-neck-group" transform="translate(0, 11.5) rotate(0, 150, 68)">
 						<g id="person-1-front-neck">
 							<path id="person-1-front-neck-shape" class="person1flesh" d="M155,62c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6         c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V62z"/>
 						</g>
-						<!--gid = person-1-front-head-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 150--><!--$ball/@cy = 50.5--><!--$socketId = person-1-front-neck-socket--><!--$socket/@cx = 150--><!--$socket/@cy = 62--><g id="person-1-front-head-group" transform="translate(0 11.5)">
+						<!--gid = person-1-front-head-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 150--><!--$ball/@cy = 50.5--><!--$socketId = person-1-front-neck-socket--><!--$socket/@cx = 150--><!--$socket/@cy = 62--><g id="person-1-front-head-group" transform="translate(0, 11.5) rotate(0, 150, 50.5)">
 							<g id="person-1-front-head">
 								<path id="person-1-front-head-shape" class="person1flesh" d="M158.5,36.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6          v8.8c0,3.6,3,6.6,6.6,6.6h3.8c3.6,0,6.6-3,6.6-6.6V36.6z"/>
 								<g>
@@ -291,8 +292,8 @@
 		<g id="person-1-back">
 			<g id="person-1-back-body">
 				<g id="person-1-back-headneck">
-					<g id="person-1-back-neck-group">
-						<g id="person-1-back-head-group">
+					<!--gid = person-1-back-neck-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 450--><!--$ball/@cy = 68--><!--$socketId = person-1-back-headneck-socket--><!--$socket/@cx = 450--><!--$socket/@cy = 79.5--><g id="person-1-back-neck-group" transform="translate(0, 11.5) rotate(0, 450, 68)">
+						<!--gid = person-1-back-head-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 450--><!--$ball/@cy = 50.5--><!--$socketId = person-1-back-neck-socket--><!--$socket/@cx = 450--><!--$socket/@cy = 62--><g id="person-1-back-head-group" transform="translate(0, 11.5) rotate(0, 450, 50.5)">
 							<g id="person-1-back-head">
 								<path id="person-1-back-head-shape" class="person1flesh" d="M441.5,36.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8          c0,3.6-3,6.6-6.6,6.6h-3.8c-3.6,0-6.6-3-6.6-6.6V36.6z"/>
 								<g>
@@ -314,25 +315,25 @@
 				</g>
 				<g id="person-1-back-legs">
 					<g id="person-1-back-legs-right">
-						<g id="person-1-back-legs-right-upper-group">
-							<g id="person-1-back-legs-right-lower-group">
-								<g id="person-1-back-legs-right-foot-group">
-									<!--gid = person-1-back-legs-right-foot--><!--component-detected, new component = person-1-back-legs-left-foot--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-back-legs-right-foot">
+						<!--gid = person-1-back-legs-right-upper-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 465.5--><!--$ball/@cy = 146.5--><!--$socketId = person-1-back-pelvis-socket-legs-right--><!--$socket/@cx = 465--><!--$socket/@cy = 124.5--><g id="person-1-back-legs-right-upper-group" transform="translate(-0.5, -22) rotate(0, 465.5, 146.5)">
+							<!--gid = person-1-back-legs-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 465.5--><!--$ball/@cy = 197.5--><!--$socketId = person-1-back-legs-right-upper-socket--><!--$socket/@cx = 465.5--><!--$socket/@cy = 184.5--><g id="person-1-back-legs-right-lower-group" transform="translate(0, -13) rotate(0, 465.5, 197.5)">
+								<!--gid = person-1-back-legs-right-foot-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 465.5--><!--$ball/@cy = 256.5--><!--$socketId = person-1-back-legs-right-lower-socket--><!--$socket/@cx = 465.5--><!--$socket/@cy = 239.5--><g id="person-1-back-legs-right-foot-group" transform="translate(0, -17) rotate(0, 465.5, 256.5)">
+									<!--gid = person-1-back-legs-right-foot--><!--component-detected, new component = person-1-back-legs-left-foot--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-back-legs-right-foot--><g id="person-1-back-legs-right-foot">
 										<path id="person-1-back-legs-right-foot-shape" class="person1flesh" d="M460.5,259.5c0,2.8,2.2,2,5,2l0,0            c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V259.5z"/>
-									</g>
+									</g><!--$totalXtransforms = -0.5 0 0 --><!--$sumTotalXtransforms = -0.5--><use xlink:href="#person-1-back-legs-right-foot" id="person-1-back-legs-left-foot" transform="translate(450.5, 0) scale(-1 1)     translate(-450.5, 0)"/>
 									<circle id="person-1-back-legs-right-foot-ball" class="ball" cx="465.5" cy="256.5" r="5"/>
 								</g>
-								<!--gid = person-1-back-legs-right-lower--><!--component-detected, new component = person-1-back-legs-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-back-legs-right-lower">
+								<!--gid = person-1-back-legs-right-lower--><!--component-detected, new component = person-1-back-legs-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-back-legs-right-lower--><g id="person-1-back-legs-right-lower">
 									<path id="person-1-back-legs-right-lower-shape" class="cricketclothes" d="M470.5,239.5c0,2.8-2.2,5-5,5l0,0           c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V239.5z"/>
-								</g>
+								</g><!--$totalXtransforms = -0.5 0 --><!--$sumTotalXtransforms = -0.5--><use xlink:href="#person-1-back-legs-right-lower" id="person-1-back-legs-left-lower" transform="translate(450.5, 0) scale(-1 1)     translate(-450.5, 0)"/>
 								<circle id="person-1-back-legs-right-lower-ball" class="ball" cx="465.5" cy="197.5" r="5"/>
 								<g id="person-1-back-legs-right-lower-socket">
 									<circle class="st0" cx="465.5" cy="239.5" r="5"/>
 								</g>
 							</g>
-							<!--gid = person-1-back-legs-right-upper--><!--component-detected, new component = person-1-back-legs-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-back-legs-right-upper">
+							<!--gid = person-1-back-legs-right-upper--><!--component-detected, new component = person-1-back-legs-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-back-legs-right-upper--><g id="person-1-back-legs-right-upper">
 								<path id="person-1-back-legs-right-upper-shape" class="cricketclothes" d="M470.5,184.5c0,2.8-2.2,5-5,5l0,0          c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V184.5z"/>
-							</g>
+							</g><!--$totalXtransforms = -0.5 --><!--$sumTotalXtransforms = -0.5--><use xlink:href="#person-1-back-legs-right-upper" id="person-1-back-legs-left-upper" transform="translate(450.5, 0) scale(-1 1)     translate(-450.5, 0)"/>
 							<circle id="person-1-back-legs-upper-right-ball" class="ball" cx="465.5" cy="146.5" r="5"/>
 							<g id="person-1-back-legs-right-upper-socket">
 								<circle class="st0" cx="465.5" cy="184.5" r="5"/>
@@ -341,16 +342,15 @@
 					</g>
 				</g>
 				<g id="person-1-back-arms">
-					<g id="person-1-back-arms-right">
-						<g id="person-1-back-arms-right-lower-group">
-							<g id="person-1-back-arms-right-hand-group">
-								<!--gid = person-1-back-arms-right-hand--><!--component-detected, new component = person-1-back-arms-left-hand--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-back-arms-right-hand">
+					<!--gid = person-1-back-arms-right--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 496--><!--$ball/@cy = 83--><!--$socketId = person-1-back-torso-socket-arms-right--><!--$socket/@cx = 470--><!--$socket/@cy = 83--><g id="person-1-back-arms-right" transform="translate(-26, 0) rotate(0, 496, 83)">
+						<!--gid = person-1-back-arms-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 535--><!--$ball/@cy = 83--><!--$socketId = person-1-back-arms-right-upper-socket--><!--$socket/@cx = 524--><!--$socket/@cy = 83--><g id="person-1-back-arms-right-lower-group" transform="translate(-11, 0) rotate(0, 535, 83)">
+							<!--gid = person-1-back-arms-right-hand-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 579--><!--$ball/@cy = 83--><!--$socketId = person-1-back-arms-right-lower-socket--><!--$socket/@cx = 568--><!--$socket/@cy = 83--><g id="person-1-back-arms-right-hand-group" transform="translate(-11, 0) rotate(0, 579, 83)">
+								<!--gid = person-1-back-arms-right-hand--><!--component-detected, new component = person-1-back-arms-left-hand--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-back-arms-right-hand--><g id="person-1-back-arms-right-hand">
 									<path id="person-1-back-arms-right-hand-shape" class="person1flesh" d="M589.5,83c0,1.9-1.6,3.5-3.5,3.5h-7           c-1.9,0-3.5-1.6-3.5-3.5l0,0c0-1.9,1.6-3.5,3.5-3.5h7C587.9,79.5,589.5,81.1,589.5,83L589.5,83z"/>
-								</g>
-								
-									<ellipse id="person-1-back-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 135.8631 464.7846)" class="ball" cx="579" cy="83" rx="4" ry="4"/>
+								</g><!--$totalXtransforms = -26 -11 -11 --><!--$sumTotalXtransforms = -48--><use xlink:href="#person-1-back-arms-right-hand" id="person-1-back-arms-left-hand" transform="translate(498, 0) scale(-1 1)     translate(-498, 0)"/>
+								<circle id="person-1-back-arms-right-hand-ball" class="ball" cx="579" cy="83" r="4"/>
 							</g>
-							<!--gid = person-1-back-arms-right-lower--><!--component-detected, new component = person-1-back-arms-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-back-arms-right-lower">
+							<!--gid = person-1-back-arms-right-lower--><!--component-detected, new component = person-1-back-arms-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-back-arms-right-lower--><g id="person-1-back-arms-right-lower">
 								<g>
 									<path class="st5" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8           c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
@@ -360,45 +360,45 @@
 								<g>
 									<path class="st6" d="M571.5,83.1c0,1.9-1.4,3.4-3.1,3.4h-33.8c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8           c1.7,0,3.1,1.5,3.1,3.4V83.1z"/>
 								</g>
+							</g><!--$totalXtransforms = -26 -11 --><!--$sumTotalXtransforms = -37--><use xlink:href="#person-1-back-arms-right-lower" id="person-1-back-arms-left-lower" transform="translate(487, 0) scale(-1 1)     translate(-487, 0)"/>
+							<g id="person-1-back-arms-right-lower-socket">
+								<circle class="st1" cx="568" cy="83" r="4"/>
 							</g>
-							
-								<ellipse id="person-1-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 120.7851 431.6256)" class="ball" cx="535" cy="83" rx="4" ry="4"/>
-							<g id="person-1-back-arms-right-lower-socket" class="st4">
-								<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 132.0936 456.4949)" class="st1" cx="568" cy="83" rx="4" ry="4"/>
-							</g>
+							<circle id="person-1-back-arms-right-lower-ball" class="ball" cx="535" cy="83" r="4"/>
 						</g>
-						<!--gid = person-1-back-arms-right-upper--><!--component-detected, new component = person-1-back-arms-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-1-back-arms-right-upper">
+						<!--gid = person-1-back-arms-right-upper--><!--component-detected, new component = person-1-back-arms-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-back-arms-right-upper--><g id="person-1-back-arms-right-upper">
 							<path id="person-1-back-arms-right-upper-shape" class="cricketclothes" d="M527.5,83.1c0,1.9-1.2,3.4-2.7,3.4h-29.6         c-1.5,0-2.7-1.5-2.7-3.4v-0.3c0-1.9,1.2-3.4,2.7-3.4h29.6c1.5,0,2.7,1.5,2.7,3.4V83.1z"/>
+						</g><!--$totalXtransforms = -26 --><!--$sumTotalXtransforms = -26--><use xlink:href="#person-1-back-arms-right-upper" id="person-1-back-arms-left-upper" transform="translate(476, 0) scale(-1 1)     translate(-476, 0)"/>
+						<g id="person-1-back-arms-right-upper-socket">
+							<circle class="st1" cx="524" cy="83" r="4"/>
 						</g>
-						
-							<ellipse id="person-1-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 107.4205 402.2347)" class="ball" cx="496" cy="83" rx="4" ry="4"/>
-						<g id="person-1-back-arms-right-upper-socket" class="st4">
-							<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 117.0156 423.3359)" class="st1" cx="524" cy="83" rx="4" ry="4"/>
-						</g>
+						<circle id="person-1-back-arms-right-upper-ball" class="ball" cx="496" cy="83" r="4"/>
 					</g>
 				</g>
 				<g id="person-1-back-pelvis-group">
 					<g id="person-1-back-pelvis">
 						<path id="person-1-back-pelvis-shape" class="cricketclothes" d="M470,124.5c0,6.1-4.9,11-11,11h-18c-6.1,0-11-4.9-11-11l0,0        c0-6.1,4.9-11,11-11h18C465.1,113.5,470,118.4,470,124.5L470,124.5z"/>
 					</g>
-					<g id="person-1-back-pelvis-socket-legs-right">
-						<circle class="st0" cx="465" cy="124.5" r="5"/>
-					</g>
 					<g id="person-1-back-pelvis-socket-legs-left">
 						<circle class="st0" cx="435" cy="124.5" r="5"/>
+					</g>
+					<g id="person-1-back-pelvis-socket-legs-right">
+						<circle class="st0" cx="465" cy="124.5" r="5"/>
 					</g>
 				</g>
 				<g id="person-1-back-torso-group">
 					<g id="person-1-back-torso">
 						<path id="person-1-back-torso-shape" class="cricketclothes" d="M429.5,86.8c-1,0-3-1.8-3-3.6v-0.3c0-1.9,2.3-3.4,4-3.4h7.1        h3.2h20.5h3.2h7.1c1.7,0,2,1.5,2,3.4v0.3c0,1.9-1,3.6-3,3.6V92v9.5c0,6.6-3.6,12-9.2,12h-20.5c-5.7,0-11.2-5.4-11.2-12V92        V86.8z"/>
 					</g>
-					<g id="person-1-back-torso-socket-arms-right" class="st4">
-						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 98.5108 382.6408)" class="st1" cx="470" cy="83" rx="4" ry="4"/>
+					<g id="person-1-back-torso-socket-arms-left">
+						<circle class="st1" cx="430" cy="83" r="4"/>
 					</g>
-					<g id="person-1-back-torso-socket-arms-left" class="st4">
-						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 51.389 303.0968)" class="st1" cx="430" cy="83" rx="4" ry="4"/>
+					<g id="person-1-back-torso-socket-arms-right">
+						<circle class="st1" cx="470" cy="83" r="4"/>
 					</g>
-					<circle id="person-1-back-headneck-socket" class="st3" cx="450" cy="79.5" r="5"/>
+					<g id="person-1-back-headneck-socket">
+						<circle class="st0" cx="450" cy="79.5" r="5"/>
+					</g>
 				</g>
 			</g>
 		</g>
@@ -406,6 +406,34 @@
 	<g id="person-2">
 		<g id="person-2-front">
 			<g id="person-2-front-body">
+				<g id="person-2-front-legs">
+					<g id="person-2-front-legs-right">
+						<g id="person-2-front-legs-right-upper-group">
+							<g id="person-2-front-legs-right-lower-group">
+								<g id="person-2-front-legs-right-foot-group">
+									<!--gid = person-2-front-legs-right-foot--><!--component-detected, new component = person-2-front-legs-left-foot--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-front-legs-right-foot--><g id="person-2-front-legs-right-foot">
+										<path id="person-2-front-legs-right-foot-shape" class="person2flesh" d="M139.5,559.5c0,2.8-2.2,2-5,2l0,0            c-2.8,0-5,0.8-5-2v-3c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V559.5z"/>
+									</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-front-legs-right-foot" id="person-2-front-legs-left-foot" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+									<circle id="person-2-front-legs-right-foot-ball" class="ball" cx="134.5" cy="556.5" r="5"/>
+								</g>
+								<!--gid = person-2-front-legs-right-lower--><!--component-detected, new component = person-2-front-legs-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-front-legs-right-lower--><g id="person-2-front-legs-right-lower">
+									<path id="person-2-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,497.5c0-2.8-2.2-5-5-5l0,0           c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V497.5z"/>
+								</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-front-legs-right-lower" id="person-2-front-legs-left-lower" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+								<circle id="person-2-front-legs-right-lower-ball" class="ball" cx="134.5" cy="497.5" r="5"/>
+								<g id="person-2-front-legs-right-lower-socket">
+									<circle class="st0" cx="134.5" cy="539.5" r="5"/>
+								</g>
+							</g>
+							<!--gid = person-2-front-legs-right-upper--><!--component-detected, new component = person-2-front-legs-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-front-legs-right-upper--><g id="person-2-front-legs-right-upper">
+								<path id="person-2-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,446.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V446.5z"/>
+							</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-front-legs-right-upper" id="person-2-front-legs-left-upper" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+							<circle id="person-2-front-legs-upper-right-ball" class="ball" cx="134.5" cy="446.5" r="5"/>
+							<g id="person-2-front-legs-right-upper-socket">
+								<circle class="st0" cx="134.5" cy="484.5" r="5"/>
+							</g>
+						</g>
+					</g>
+				</g>
 				<g id="person-2-front-pelvis-group">
 					<g id="person-2-front-pelvis">
 						<path id="person-2-front-pelvis-shape" class="cricketclothes" d="M169.5,424.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11        l0,0c0,6.1,4.9,11,11,11h18C164.6,435.5,169.5,430.6,169.5,424.5L169.5,424.5z"/>
@@ -421,15 +449,15 @@
 					<g id="person-2-front-arms-right">
 						<g id="person-2-front-arms-right-lower-group">
 							<g id="person-2-front-arms-right-hand-group">
-								<!--gid = person-2-front-arms-right-hand--><!--component-detected, new component = person-2-front-arms-left-hand--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-front-arms-right-hand">
+								<!--gid = person-2-front-arms-right-hand--><!--component-detected, new component = person-2-front-arms-left-hand--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-front-arms-right-hand--><g id="person-2-front-arms-right-hand">
 									<path id="person-2-front-arms-right-hand-shape" class="person2flesh" d="M10.5,383c0,1.9,1.6,3.5,3.5,3.5h7           c1.9,0,3.5-1.6,3.5-3.5l0,0c0-1.9-1.6-3.5-3.5-3.5h-7C12.1,379.5,10.5,381.1,10.5,383L10.5,383z"/>
-								</g>
+								</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-front-arms-right-hand" id="person-2-front-arms-left-hand" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
 								
 									<ellipse id="person-2-front-arms-right-hand-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -246.5785 108.1697)" class="ball" cx="21" cy="383" rx="4" ry="4"/>
 							</g>
-							<!--gid = person-2-front-arms-right-lower--><!--component-detected, new component = person-2-front-arms-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-front-arms-right-lower">
+							<!--gid = person-2-front-arms-right-lower--><!--component-detected, new component = person-2-front-arms-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-front-arms-right-lower--><g id="person-2-front-arms-right-lower">
 								<path id="person-2-front-arms-right-lower-shape" class="cricketclothes" d="M28.5,383.1c0,1.9,1.4,3.4,3.1,3.4h33.8          c1.7,0,3.1-1.5,3.1-3.4v-0.3c0-1.9-1.4-3.4-3.1-3.4H31.6c-1.7,0-3.1,1.5-3.1,3.4V383.1z"/>
-							</g>
+							</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-front-arms-right-lower" id="person-2-front-arms-left-lower" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
 							
 								<ellipse id="person-2-front-arms-right-lower-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -235.7375 137.0917)" class="ball" cx="65" cy="383" rx="4" ry="4"/>
 							<g id="person-2-front-arms-right-lower-socket" class="st4">
@@ -437,41 +465,13 @@
 									<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -243.8683 115.4002)" class="st1" cx="32" cy="383" rx="4" ry="4"/>
 							</g>
 						</g>
-						<!--gid = person-2-front-arms-right-upper--><!--component-detected, new component = person-2-front-arms-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-front-arms-right-upper">
+						<!--gid = person-2-front-arms-right-upper--><!--component-detected, new component = person-2-front-arms-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-front-arms-right-upper--><g id="person-2-front-arms-right-upper">
 							<path id="person-2-front-arms-right-upper-shape" class="cricketclothes" d="M72.5,383.1c0,1.9,1.2,3.4,2.7,3.4h29.6         c1.5,0,2.7-1.5,2.7-3.4v-0.3c0-1.9-1.2-3.4-2.7-3.4H75.2c-1.5,0-2.7,1.5-2.7,3.4V383.1z"/>
-						</g>
+						</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-front-arms-right-upper" id="person-2-front-arms-left-upper" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
 						
 							<ellipse id="person-2-front-arms-right-upper-ball" transform="matrix(0.7536 -0.6573 0.6573 0.7536 -226.1284 162.7271)" class="ball" cx="104" cy="383" rx="4" ry="4"/>
 						<g id="person-2-front-arms-right-upper-socket" class="st4">
 							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -233.0273 144.3222)" class="st1" cx="76" cy="383" rx="4" ry="4"/>
-						</g>
-					</g>
-				</g>
-				<g id="person-2-front-legs">
-					<g id="person-2-front-legs-right">
-						<g id="person-2-front-legs-right-upper-group">
-							<g id="person-2-front-legs-right-lower-group">
-								<g id="person-2-front-legs-right-foot-group">
-									<!--gid = person-2-front-legs-right-foot--><!--component-detected, new component = person-2-front-legs-left-foot--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-front-legs-right-foot">
-										<path id="person-2-front-legs-right-foot-shape" class="person2flesh" d="M139.5,559.5c0,2.8-2.2,2-5,2l0,0            c-2.8,0-5,0.8-5-2v-3c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V559.5z"/>
-									</g>
-									<circle id="person-2-front-legs-right-foot-ball" class="ball" cx="134.5" cy="556.5" r="5"/>
-								</g>
-								<!--gid = person-2-front-legs-right-lower--><!--component-detected, new component = person-2-front-legs-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-front-legs-right-lower">
-									<path id="person-2-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,497.5c0-2.8-2.2-5-5-5l0,0           c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V497.5z"/>
-								</g>
-								<circle id="person-2-front-legs-right-lower-ball" class="ball" cx="134.5" cy="497.5" r="5"/>
-								<g id="person-2-front-legs-right-lower-socket">
-									<circle class="st0" cx="134.5" cy="539.5" r="5"/>
-								</g>
-							</g>
-							<!--gid = person-2-front-legs-right-upper--><!--component-detected, new component = person-2-front-legs-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-front-legs-right-upper">
-								<path id="person-2-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,446.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V446.5z"/>
-							</g>
-							<circle id="person-2-front-legs-upper-right-ball" class="ball" cx="134.5" cy="446.5" r="5"/>
-							<g id="person-2-front-legs-right-upper-socket">
-								<circle class="st0" cx="134.5" cy="484.5" r="5"/>
-							</g>
 						</g>
 					</g>
 				</g>
@@ -483,7 +483,7 @@
 						<g id="person-2-front-head-group">
 							<g id="person-2-front-head">
 								<path id="person-2-front-head-shape" class="person2flesh" d="M158.5,336.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6          v8.8c0,3.6,3,6.6,6.6,6.6h3.8c3.6,0,6.6-3,6.6-6.6V336.6z"/>
-								<path class="st7" d="M150,327.5c5.2,0,9.5,4.3,9.5,9.5l0,0c0,5.2-4.3-0.5-9.5-0.5s-9.5,5.7-9.5,0.5l0,0          C140.5,331.8,144.8,327.5,150,327.5z"/>
+								<path class="liveryteam2A" d="M150,327.5c5.2,0,9.5,4.3,9.5,9.5l0,0c0,5.2-4.3-0.5-9.5-0.5s-9.5,5.7-9.5,0.5l0,0          C140.5,331.8,144.8,327.5,150,327.5z"/>
 								<g>
 									<path class="person2hair" d="M159.8,346c-0.1-0.5-0.4-0.5-0.8-0.5c-0.4,0-1.1-0.2-1.5,0.3l-0.2-0.2c-1.4,0-2.7,0.1-4.1-0.2           c-0.4-0.1-0.7-0.1-1.1-0.2c-0.3-0.1-0.6-0.2-0.9-0.4c-0.3-0.1-0.6-0.1-0.9-0.3c-0.2-0.1-0.3-0.2-0.5-0.2           c-0.2,0-0.3,0.1-0.5,0.2c-0.3,0.1-0.6,0.1-0.9,0.3c-0.3,0.1-0.6,0.3-0.9,0.4c-0.3,0.1-0.7,0.1-1.1,0.2           c-1.4,0.2-2.7,0.2-4.1,0.2l-0.2,0.2c-0.3-0.4-1-0.3-1.5-0.3c-0.3,0-0.7,0-0.8,0.5c-0.1,0.3,0,0.6,0,0.9c0,1,0,2,0.2,2.9           c0.2,1,0.5,1.7,1.2,2.3c0.5,0.4,1.2,0.7,1.7,1.2c0.2,0.2,0.4,0.4,0.7,0.6c0.4,0.3,0.8,0.6,1.2,0.9c0.6,0.4,1.2,0.7,1.7,1.1           c0.5,0.3,1,0.6,1.6,0.8c0.5,0.2,1.1,0.4,1.6,0.6c0.5-0.2,1-0.4,1.6-0.6c0.6-0.2,1.1-0.5,1.6-0.8c0.6-0.4,1.2-0.7,1.7-1.1           c0.4-0.3,0.8-0.6,1.2-0.9c0.3-0.2,0.4-0.4,0.7-0.6c0.5-0.5,1.1-0.8,1.7-1.2c0.7-0.5,1-1.2,1.2-2.3c0.2-0.9,0.2-1.9,0.2-2.9           C159.9,346.6,159.9,346.3,159.8,346z"/>
 								</g>
@@ -514,24 +514,24 @@
 		<g id="person-2-right">
 			<g id="person-2-right-body">
 				<g id="person-2-right-headneck">
-					<g id="person-2-right-neck-group">
-						<g id="person-2-right-head-group">
+					<!--gid = person-2-right-neck-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 749.5--><!--$ball/@cy = 368.5--><!--$socketId = person-2-right-headneck-socket--><!--$socket/@cx = 749.5--><!--$socket/@cy = 380--><g id="person-2-right-neck-group" transform="translate(0, 11.5) rotate(0, 749.5, 368.5)">
+						<g id="person-2-right-neck">
+							<path id="person-2-right-neck-shape" class="person2flesh" d="M754.5,362.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6         c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V362.5z"/>
+						</g>
+						<!--gid = person-2-right-head-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 749.5--><!--$ball/@cy = 351--><!--$socketId = person-2-right-neck-socket--><!--$socket/@cx = 749.5--><!--$socket/@cy = 362.5--><g id="person-2-right-head-group" transform="translate(0, 11.5) rotate(0, 749.5, 351)">
 							<g id="person-2-right-head">
 								<path id="person-2-right-head-shape" class="person2flesh" d="M765.5,342.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2          c-4.1,0-7.9,2.5-7.9,6.1v8.8c0,3.6,3.8,7.1,7.9,7.1h4.2c4.1,0,6.9-3.5,6.9-7.1v-2.1L765.5,342.9z"/>
 								<g>
 									<path class="person2hair" d="M752.4,345.5c1.8,0,3.6,0.1,5.4-0.2c0.5-0.1,1-0.1,1.4-0.2c0.4-0.1,0.8-0.2,1.2-0.4           c0.4-0.1,0.8-0.1,1.1-0.3c0.3-0.1,0.7-0.3,1-0.3c0.7,0.1,1.2,1.1,1.5,1.7c0.3,0.6,0.4,1.2,0.6,1.8c0.2,0.5,0.5,0.9,0.6,1.4           c0.1,0.6,0.3,1.2,0.4,1.7c0.1,0.3,0,0.4,0.2,0.7c0.1,0.2,0.2,0.5,0.3,0.7c0.1,0.5,0.3,1,0.4,1.6c0,0.2,0,0.5,0.1,0.8           c0.1,0.3,0.6,0.7,0.8,0.9c0.5,0.4,1,0.8,1.5,1.2c0.1,0.1,0.7,0.4,0.7,0.6c0,0.4-1,0.5-1.3,0.5c-0.8,0.2-1.7,0.2-2.6,0.3           c-0.8,0-1.5-0.2-2.3-0.4c-1.2-0.4-2.3-0.7-3.5-1.1c-0.7-0.2-1.4-0.5-2.1-0.8c-0.7-0.4-1.5-0.7-2.3-1.1           c-0.5-0.3-1.1-0.6-1.6-0.9c-0.4-0.2-0.6-0.4-0.9-0.6c-0.7-0.5-1.5-0.8-2.2-1.2c-0.9-0.5-1.3-1.2-1.6-2.3           c-0.3-0.9-0.3-1.9-0.3-2.9c0-0.3,0-0.6,0.1-0.9c0.2-0.5,0.6-0.5,1-0.5c0.6,0,1.5-0.2,1.9,0.3"/>
 								</g>
-								<path class="st7" d="M762,335c0,1-2.8,4-8,4c-0.5,0-3.5,1-4,1c-5.2,0-9.5,3.2-9.5-2c0-0.5,0-1.5,0-2c0-5.2,3.3-8.5,8.5-8.5          c0.5,0,1.5,0,2,0C756.2,327.5,762,329.8,762,335C762,335.5,762,334.5,762,335z"/>
+								<path class="liveryteam2A" d="M762,335c0,1-2.8,4-8,4c-0.5,0-3.5,1-4,1c-5.2,0-9.5,3.2-9.5-2c0-0.5,0-1.5,0-2          c0-5.2,3.3-8.5,8.5-8.5c0.5,0,1.5,0,2,0C756.2,327.5,762,329.8,762,335C762,335.5,762,334.5,762,335z"/>
 							</g>
 							<circle id="person-2-right-head-ball" class="ball" cx="749.5" cy="351" r="5"/>
 						</g>
-						<g id="person-2-right-neck">
-							<path id="person-2-right-neck-shape" class="person2flesh" d="M754.5,362.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6         c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V362.5z"/>
-						</g>
-						<circle id="person-2-right-headneck-ball" class="ball" cx="749.5" cy="368.5" r="5"/>
 						<g id="person-2-right-neck-socket">
 							<circle class="st0" cx="749.5" cy="362.5" r="5"/>
 						</g>
+						<circle id="person-2-right-headneck-ball" class="ball" cx="749.5" cy="368.5" r="5"/>
 					</g>
 				</g>
 				<g id="person-2-right-pelvis-group">
@@ -546,21 +546,23 @@
 					</g>
 				</g>
 				<g id="person-2-right-torso-group">
+					<g id="person-2-right-torso-socket-arms-left">
+						<circle class="st1" cx="749" cy="383" r="4"/>
+					</g>
 					<g id="person-2-right-torso">
 						<path id="person-2-right-torso-shape" class="cricketclothes" d="M762.5,391.5c0-6.6-5.2-12-11.5-12H749        c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V391.5z"/>
 					</g>
-					<circle id="person-2-right-headneck-socket" class="st3" cx="749.5" cy="380" r="5"/>
-					<g id="person-2-right-torso-socket-arms-right" class="st4">
-						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -31.9649 695.7035)" class="st1" cx="749" cy="383" rx="4" ry="4"/>
+					<g id="person-2-right-headneck-socket">
+						<circle class="st7" cx="749.5" cy="380" r="4.5"/>
 					</g>
-					<g id="person-2-right-torso-socket-arms-left" class="st4">
-						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -67.209 586.6972)" class="st1" cx="749" cy="383" rx="4" ry="4"/>
+					<g id="person-2-right-torso-socket-arms-right">
+						<circle class="st1" cx="749" cy="383" r="4"/>
 					</g>
 				</g>
 				<g id="person-2-right-legs-right">
-					<g id="person-2-right-legs-right-upper-group">
-						<g id="person-2-right-legs-right-lower-group">
-							<g id="person-2-right-legs-right-foot-group">
+					<!--gid = person-2-right-legs-right-upper-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 750.5--><!--$ball/@cy = 446.5--><!--$socketId = person-2-right-pelvis-socket-legs-right--><!--$socket/@cx = 750.5--><!--$socket/@cy = 424--><g id="person-2-right-legs-right-upper-group" transform="translate(0, -22.5) rotate(0, 750.5, 446.5)">
+						<!--gid = person-2-right-legs-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 750.5--><!--$ball/@cy = 497.5--><!--$socketId = person-2-right-legs-right-upper-socket--><!--$socket/@cx = 750.5--><!--$socket/@cy = 484.5--><g id="person-2-right-legs-right-lower-group" transform="translate(0, -13) rotate(0, 750.5, 497.5)">
+							<!--gid = person-2-right-legs-right-foot-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 750.5--><!--$ball/@cy = 556.5--><!--$socketId = person-2-right-legs-right-lower-socket--><!--$socket/@cx = 750.5--><!--$socket/@cy = 539.5--><g id="person-2-right-legs-right-foot-group" transform="translate(0, -17) rotate(0, 750.5, 556.5)">
 								<g id="person-2-right-legs-right-foot">
 									<path id="person-2-right-legs-right-foot-shape" class="person2flesh" d="M770,561.5l-14.9-6.9c-0.7-1.8-2.5-3.1-4.6-3.1           c-2.8,0-5,2.2-5,5v3c0,2.8,2.2,2,5,2c1.5,0,2.8,0.2,3.7,0H770z"/>
 								</g>
@@ -569,10 +571,10 @@
 							<g id="person-2-right-legs-right-lower">
 								<path id="person-2-right-legs-right-lower-shape" class="cricketclothes" d="M755.5,497.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V497.5z"/>
 							</g>
+							<circle id="person-2-right-legs-right-lower-ball" class="ball" cx="750.5" cy="497.5" r="5"/>
 							<g id="person-2-right-legs-right-lower-socket">
 								<circle class="st0" cx="750.5" cy="539.5" r="5"/>
 							</g>
-							<circle id="person-2-right-legs-right-lower-ball" class="ball" cx="750.5" cy="497.5" r="5"/>
 						</g>
 						<g id="person-2-right-legs-right-upper">
 							<path id="person-2-right-legs-right-upper-shape" class="cricketclothes" d="M755.5,446.5c0-2.8-2.2-5-5-5l0,0         c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V446.5z"/>
@@ -583,31 +585,28 @@
 						</g>
 					</g>
 				</g>
-				<g id="person-2-right-arms-right">
-					<g id="person-2-right-arms-right-lower-group">
-						<g id="person-2-right-arms-right-hand-group">
+				<!--gid = person-2-right-arms-right--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 716--><!--$ball/@cy = 383--><!--$socketId = person-2-right-torso-socket-arms-right--><!--$socket/@cx = 749--><!--$socket/@cy = 383--><g id="person-2-right-arms-right" transform="translate(33, 0) rotate(0, 716, 383)">
+					<!--gid = person-2-right-arms-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 716--><!--$ball/@cy = 422--><!--$socketId = person-2-right-arms-right-upper-socket--><!--$socket/@cx = 716--><!--$socket/@cy = 411--><g id="person-2-right-arms-right-lower-group" transform="translate(0, -11) rotate(0, 716, 422)">
+						<!--gid = person-2-right-arms-right-hand-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 716--><!--$ball/@cy = 466--><!--$socketId = person-2-right-arms-right-lower-socket--><!--$socket/@cx = 716--><!--$socket/@cy = 455--><g id="person-2-right-arms-right-hand-group" transform="translate(0, -11) rotate(0, 716, 466)">
 							<g id="person-2-right-arms-right-hand">
 								<path id="person-2-right-arms-right-hand-shape" class="person2flesh" d="M716,476.5c1.9,0,3.5-1.6,3.5-3.5v-7          c0-1.9-1.6-3.5-3.5-3.5l0,0c-1.9,0-3.5,1.6-3.5,3.5v7C712.5,474.9,714.1,476.5,716,476.5L716,476.5z"/>
 							</g>
-							
-								<ellipse id="person-2-right-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -105.8237 699.277)" class="ball" cx="716" cy="466" rx="4" ry="4"/>
+							<circle id="person-2-right-arms-right-hand-ball" class="ball" cx="716" cy="466" r="4"/>
 						</g>
 						<g id="person-2-right-arms-right-lower">
 							<path id="person-2-right-arms-right-lower-shape" class="cricketclothes" d="M716.1,458.5c1.9,0,3.4-1.4,3.4-3.1v-33.8         c0-1.7-1.5-3.1-3.4-3.1h-0.3c-1.9,0-3.4,1.4-3.4,3.1v33.8c0,1.7,1.5,3.1,3.4,3.1H716.1z"/>
 						</g>
-						
-							<ellipse id="person-2-right-arms-right-lower-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 -72.64 684.2728)" class="ball" cx="716" cy="422" rx="4" ry="4"/>
-						<g id="person-2-right-arms-right-lower-socket" class="st4">
-							<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -97.5113 695.5837)" class="st1" cx="716" cy="455" rx="4" ry="4"/>
+						<circle id="person-2-right-arms-right-lower-ball" class="ball" cx="716" cy="422" r="4"/>
+						<g id="person-2-right-arms-right-lower-socket">
+							<circle class="st1" cx="716" cy="455" r="4"/>
 						</g>
 					</g>
 					<g id="person-2-right-arms-right-upper">
 						<path id="person-2-right-arms-right-upper-shape" class="cricketclothes" d="M716.1,414.5c1.9,0,3.4-1.2,3.4-2.7v-29.6        c0-1.5-1.5-2.7-3.4-2.7h-0.3c-1.9,0-3.4,1.2-3.4,2.7v29.6c0,1.5,1.5,2.7,3.4,2.7H716.1z"/>
 					</g>
-					
-						<ellipse id="person-2-right-arms-right-upper-ball" transform="matrix(0.6572 -0.7537 0.7537 0.6572 -43.2463 670.9062)" class="ball" cx="716" cy="383" rx="4" ry="4"/>
-					<g id="person-2-right-arms-right-upper-socket" class="st4">
-						<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -64.3492 680.5033)" class="st1" cx="716" cy="411" rx="4" ry="4"/>
+					<circle id="person-2-right-arms-right-upper-ball" class="ball" cx="716" cy="383" r="4"/>
+					<g id="person-2-right-arms-right-upper-socket">
+						<circle class="st1" cx="716" cy="411" r="4"/>
 					</g>
 				</g>
 			</g>
@@ -619,7 +618,7 @@
 						<g id="person-2-back-head-group">
 							<g id="person-2-back-head">
 								<path id="person-2-back-head-shape" class="person2flesh" d="M441.5,336.6c0-3.6,3-6.6,6.6-6.6h3.8c3.6,0,6.6,3,6.6,6.6v8.8          c0,3.6-3,6.6-6.6,6.6h-3.8c-3.6,0-6.6-3-6.6-6.6V336.6z"/>
-								<path class="st7" d="M459.2,337c0,5.2-3.8,6.5-9.8,6.5l0,0c-5,0-9.2-1.3-9.2-6.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0          C455,327.5,459.2,331.8,459.2,337L459.2,337z"/>
+								<path class="liveryteam2A" d="M459.2,337c0,5.2-3.8,6.5-9.8,6.5l0,0c-5,0-9.2-1.3-9.2-6.5l0,0c0-5.2,4.3-9.5,9.5-9.5l0,0          C455,327.5,459.2,331.8,459.2,337L459.2,337z"/>
 							</g>
 							<circle id="person-2-back-head-ball" class="ball" cx="450" cy="350.5" r="5"/>
 						</g>
@@ -637,22 +636,22 @@
 						<g id="person-2-back-legs-right-upper-group">
 							<g id="person-2-back-legs-right-lower-group">
 								<g id="person-2-back-legs-right-foot-group">
-									<!--gid = person-2-back-legs-right-foot--><!--component-detected, new component = person-2-back-legs-left-foot--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-back-legs-right-foot">
+									<!--gid = person-2-back-legs-right-foot--><!--component-detected, new component = person-2-back-legs-left-foot--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-back-legs-right-foot--><g id="person-2-back-legs-right-foot">
 										<path id="person-2-back-legs-right-foot-shape" class="person2flesh" d="M460.5,559.5c0,2.8,2.2,2,5,2l0,0            c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V559.5z"/>
-									</g>
+									</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-back-legs-right-foot" id="person-2-back-legs-left-foot" transform="translate(450, 0) scale(-1 1)     translate(-450, 0)"/>
 									<circle id="person-2-back-legs-right-foot-ball" class="ball" cx="465.5" cy="556.5" r="5"/>
 								</g>
-								<!--gid = person-2-back-legs-right-lower--><!--component-detected, new component = person-2-back-legs-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-back-legs-right-lower">
+								<!--gid = person-2-back-legs-right-lower--><!--component-detected, new component = person-2-back-legs-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-back-legs-right-lower--><g id="person-2-back-legs-right-lower">
 									<path id="person-2-back-legs-right-lower-shape" class="cricketclothes" d="M470.5,539.5c0,2.8-2.2,5-5,5l0,0           c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V539.5z"/>
-								</g>
+								</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-back-legs-right-lower" id="person-2-back-legs-left-lower" transform="translate(450, 0) scale(-1 1)     translate(-450, 0)"/>
 								<circle id="person-2-back-legs-right-lower-ball" class="ball" cx="465.5" cy="497.5" r="5"/>
 								<g id="person-2-back-legs-right-lower-socket">
 									<circle class="st0" cx="465.5" cy="539.5" r="5"/>
 								</g>
 							</g>
-							<!--gid = person-2-back-legs-right-upper--><!--component-detected, new component = person-2-back-legs-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-back-legs-right-upper">
+							<!--gid = person-2-back-legs-right-upper--><!--component-detected, new component = person-2-back-legs-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-back-legs-right-upper--><g id="person-2-back-legs-right-upper">
 								<path id="person-2-back-legs-right-upper-shape" class="cricketclothes" d="M470.5,484.5c0,2.8-2.2,5-5,5l0,0          c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V484.5z"/>
-							</g>
+							</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-back-legs-right-upper" id="person-2-back-legs-left-upper" transform="translate(450, 0) scale(-1 1)     translate(-450, 0)"/>
 							<circle id="person-2-back-legs-upper-right-ball" class="ball" cx="465.5" cy="446.5" r="5"/>
 							<g id="person-2-back-legs-right-upper-socket">
 								<circle class="st0" cx="465.5" cy="484.5" r="5"/>
@@ -664,15 +663,15 @@
 					<g id="person-2-back-arms-right">
 						<g id="person-2-back-arms-right-lower-group">
 							<g id="person-2-back-arms-right-hand-group">
-								<!--gid = person-2-back-arms-right-hand--><!--component-detected, new component = person-2-back-arms-left-hand--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-back-arms-right-hand">
+								<!--gid = person-2-back-arms-right-hand--><!--component-detected, new component = person-2-back-arms-left-hand--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-back-arms-right-hand--><g id="person-2-back-arms-right-hand">
 									<path id="person-2-back-arms-right-hand-shape" class="person2flesh" d="M589.5,383c0,1.9-1.6,3.5-3.5,3.5h-7           c-1.9,0-3.5-1.6-3.5-3.5l0,0c0-1.9,1.6-3.5,3.5-3.5h7C587.9,379.5,589.5,381.1,589.5,383L589.5,383z"/>
-								</g>
+								</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-back-arms-right-hand" id="person-2-back-arms-left-hand" transform="translate(450, 0) scale(-1 1)     translate(-450, 0)"/>
 								
 									<ellipse id="person-2-back-arms-right-hand-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -90.2209 567.5892)" class="ball" cx="579" cy="383" rx="4" ry="4"/>
 							</g>
-							<!--gid = person-2-back-arms-right-lower--><!--component-detected, new component = person-2-back-arms-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-back-arms-right-lower">
+							<!--gid = person-2-back-arms-right-lower--><!--component-detected, new component = person-2-back-arms-left-lower--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-back-arms-right-lower--><g id="person-2-back-arms-right-lower">
 								<path id="person-2-back-arms-right-lower-shape" class="cricketclothes" d="M571.5,383.1c0,1.9-1.4,3.4-3.1,3.4h-33.8          c-1.7,0-3.1-1.5-3.1-3.4v-0.3c0-1.9,1.4-3.4,3.1-3.4h33.8c1.7,0,3.1,1.5,3.1,3.4V383.1z"/>
-							</g>
+							</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-back-arms-right-lower" id="person-2-back-arms-left-lower" transform="translate(450, 0) scale(-1 1)     translate(-450, 0)"/>
 							
 								<ellipse id="person-2-back-arms-right-lower-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -105.2989 534.4302)" class="ball" cx="535" cy="383" rx="4" ry="4"/>
 							<g id="person-2-back-arms-right-lower-socket" class="st4">
@@ -680,9 +679,9 @@
 									<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -93.9904 559.2995)" class="st1" cx="568" cy="383" rx="4" ry="4"/>
 							</g>
 						</g>
-						<!--gid = person-2-back-arms-right-upper--><!--component-detected, new component = person-2-back-arms-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><g id="person-2-back-arms-right-upper">
+						<!--gid = person-2-back-arms-right-upper--><!--component-detected, new component = person-2-back-arms-left-upper--><!--$newComponent/@x = 450--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-2-back-arms-right-upper--><g id="person-2-back-arms-right-upper">
 							<path id="person-2-back-arms-right-upper-shape" class="cricketclothes" d="M527.5,383.1c0,1.9-1.2,3.4-2.7,3.4h-29.6         c-1.5,0-2.7-1.5-2.7-3.4v-0.3c0-1.9,1.2-3.4,2.7-3.4h29.6c1.5,0,2.7,1.5,2.7,3.4V383.1z"/>
-						</g>
+						</g><!--$totalXtransforms = --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-2-back-arms-right-upper" id="person-2-back-arms-left-upper" transform="translate(450, 0) scale(-1 1)     translate(-450, 0)"/>
 						
 							<ellipse id="person-2-back-arms-right-upper-ball" transform="matrix(0.6573 -0.7536 0.7536 0.6573 -118.6635 505.0393)" class="ball" cx="496" cy="383" rx="4" ry="4"/>
 						<g id="person-2-back-arms-right-upper-socket" class="st4">

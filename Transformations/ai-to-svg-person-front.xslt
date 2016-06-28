@@ -40,10 +40,16 @@
 		<xsl:comment select="concat('$socket/@cy = ', $socket/@cy)"/>
 		<xsl:variable name="jointMoveX" select="$socket/@cx - $ball/@cx"/>
 		<xsl:variable name="jointMoveY" select="$socket/@cy - $ball/@cy"/>
+		<!-- Recreate the matched g element with the same id, and if it has a socket,
+			add a transform attribute that moves the component so it joins its parent,
+			adding a neutral rotate transformation that can be used in future to rotate
+			the part around its ball-socket joint.
+		-->
 		<xsl:element name="g">
 			<xsl:attribute name="id" select="$gid" />
 			<xsl:if test="$socket">
-				<xsl:attribute name="transform" select="concat('translate(', $jointMoveX, ' ' , $jointMoveY, ')')" />
+				<xsl:attribute name="transform" select="concat('translate(', $jointMoveX, ', ' , $jointMoveY, ') rotate(0, ',
+					$ball/@cx,', ', $ball/@cy, ')')" />
 			</xsl:if>
 			<xsl:apply-templates />
 		</xsl:element>

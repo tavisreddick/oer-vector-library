@@ -19,9 +19,9 @@
 	<xsl:template match="/">
 		<xsl:apply-templates/>
 	</xsl:template>
-	<xsl:template match="svg:g[@id = $personComponentsDoc/per:personComponents/per:component/@id][per:twin]">
+	<xsl:template match="svg:g[@id = $personComponentsDoc/per:personComponents/per:component[per:twin]/@id]">
 		<xsl:variable name="gid" select="./@id"/>
-		<xsl:comment select="concat('gid = ', $gid)"/>
+		<xsl:comment select="concat('gid (reflection twin) = ', $gid)"/>
 		<xsl:variable name="component" select="$personComponentsDoc/per:personComponents/per:component[@id =
 			$gid]"/>
 		<xsl:variable name="newComponent" select="$component/per:twin"/>
@@ -31,13 +31,6 @@
 		<xsl:variable name="socketId" select="$component/@socket"/><!-- lookup the object this component joins to -->
 		<xsl:variable name="socket" select="//svg:g[@id = $socketId]/svg:circle" />
 		<xsl:variable name="x-offset" select="$newComponent/@x - $ball/@cx"/>
-		<xsl:comment select="concat('component-detected, new component = ', $newComponentId)"/>
-		<xsl:comment select="concat('$newComponent/@x = ', $newComponent/@x)"/>
-		<xsl:comment select="concat('$ball/@cx = ', $ball/@cx)"/>
-		<xsl:comment select="concat('$ball/@cy = ', $ball/@cy)"/>
-		<xsl:comment select="concat('$socketId = ', $socketId)"/>
-		<xsl:comment select="concat('$socket/@cx = ', $socket/@cx)"/>
-		<xsl:comment select="concat('$socket/@cy = ', $socket/@cy)"/>
 		<xsl:variable name="jointMoveX" select="$socket/@cx - $ball/@cx"/>
 		<xsl:variable name="jointMoveY" select="$socket/@cy - $ball/@cy"/>
 		<xsl:element name="g">
@@ -49,10 +42,23 @@
 			<xsl:apply-templates />
 		</xsl:element>
 		<!-- transformed copy here -->
+		<xsl:variable name="totalXtransforms">
+			<xsl:for-each select="ancestor-or-self::*/@transform[concat(., 'translate')]">
+				<xsl:value-of select="concat(substring-before(substring-after(.,'translate('), ','), ' ')" />
+			</xsl:for-each>
+		</xsl:variable>
+		<xsl:variable name="sumTotalXtransforms">
+			<xsl:sequence select="sum(for $s in tokenize(normalize-space($totalXtransforms), '\s+')
+				return number($s)
+				)" />
+		</xsl:variable>
+		<xsl:comment select="concat('$totalXtransforms = ', $totalXtransforms)" />
+		<xsl:comment select="concat('$sumTotalXtransforms = ', $sumTotalXtransforms)" />
 		<!--<xsl:if test="contains($gid, 'arm') or contains($gid, 'leg')">-->
 		<xsl:if test="$newComponent">
 			<!-- thanks to Dr. Olaf Hoffmann and Juergen Roethig of the www-svg@w3.org mailing list for explaining this -->
-			<use xlink:href="#{$gid}" id="{$newComponentId}" transform="translate({$newComponent/@x} 0) scale(-1 1) translate(-{$newComponent/@x} 0)" />
+			<use xlink:href="#{$gid}" id="{$newComponentId}" transform="translate({$newComponent/@x - $sumTotalXtransforms}, 0) scale(-1 1)
+				translate(-{$newComponent/@x - $sumTotalXtransforms}, 0)" />
 		</xsl:if>
 		<!--<xsl:apply-templates />-->
 	</xsl:template>
