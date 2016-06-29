@@ -11,13 +11,19 @@
 		socket="person-1-front-arms-right-upper-socket" />
 	<component id="person-1-front-arms-right" designation="right"
 		socket="person-1-front-torso-socket-arms-right" />
+	<component id="person-1-front-arms-left-hand-group" designation="right"
+		socket="person-1-front-arms-left-lower-socket"/>
+	<component id="person-1-front-arms-left-lower-group" designation="right"
+		socket="person-1-front-arms-left-upper-socket" />
+	<component id="person-1-front-arms-left" designation="right"
+		socket="person-1-front-torso-socket-arms-left" />
 	<component id="person-1-front-legs-right-foot-group" designation="right"
 		socket="person-1-front-legs-right-lower-socket"/>
 	<component id="person-1-front-legs-right-lower-group" designation="right"
 		socket="person-1-front-legs-right-upper-socket" />
 	<component id="person-1-front-legs-right-upper-group" designation="right"
 		socket="person-1-front-pelvis-socket-legs-right" />
-	<component id="person-1-front-arms-right-hand" designation="right">
+	<!--<component id="person-1-front-arms-right-hand" designation="right">
 		<twin id="person-1-front-arms-left-hand" symmetry="flip-horizontal" x="150" designation="left" />
 	</component>
 	<component id="person-1-front-arms-right-lower" designation="right">
@@ -25,7 +31,7 @@
 	</component>
 	<component id="person-1-front-arms-right-upper" designation="right">
 		<twin id="person-1-front-arms-left-upper" symmetry="flip-horizontal" x="150" designation="left"/>
-	</component>
+	</component>-->
 	<component id="person-1-front-legs-right-foot" designation="right">
 		<twin id="person-1-front-legs-left-foot" symmetry="flip-horizontal" x="150" designation="left"/>
 	</component>

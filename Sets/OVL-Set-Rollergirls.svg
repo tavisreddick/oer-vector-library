@@ -15,6 +15,7 @@
 	.liveryteam2B{fill:#29ABE2;stroke:#0071BC;stroke-miterlimit:10;}
 	.person1hair{fill:#534741;stroke:#8C6239;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1,1;}
 	.person2hair{fill:#F7931E;stroke:#C1272D;stroke-miterlimit:10;}
+	.ball_x0020_2{opacity:0.9;fill:none;stroke:#33FF66;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
 	.st0{fill:none;}
 	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
 	.st2{opacity:0.8;}
@@ -127,6 +128,33 @@
 						<g id="person-1-front-arms-right-upper-socket" class="st2">
 							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -35.8319 70.4062)" class="st0" cx="76" cy="83" rx="4" ry="4"/>
 							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -35.8319 70.4062)" class="st3" cx="76" cy="83" rx="4" ry="4"/>
+						</g>
+					</g>
+					<g id="person-1-front-arms-left">
+						<g id="person-1-front-arms-left-upper-socket">
+							<circle class="st3" cx="224" cy="83" r="4"/>
+						</g>
+						<circle id="person-1-front-arms-left-upper-ball" class="ball_x0020_2" cx="196" cy="83" r="4"/>
+						<g id="person-1-front-arms-left-upper">
+							<path id="person-1-front-arms-left-upper-shape" class="person1flesh" d="M226.5,82.9c0-1.9-0.2-3.4-1.7-3.4h-29.6
+								c-1.5,0-3.7,1.5-3.7,3.4v0.3c0,1.9,2.2,3.4,3.7,3.4h29.6c1.5,0,1.7-1.5,1.7-3.4V82.9z"/>
+						</g>
+						<g id="person-1-front-arms-left-lower-group">
+							<g id="person-1-front-arms-left-hand-group">
+								<g id="person-1-front-arms-left-hand">
+									<path id="person-1-front-arms-left-hand-shape" class="person1flesh" d="M288.5,83c0-1.9-1.6-3.5-3.5-3.5h-7
+										c-1.9,0-3.5,1.6-3.5,3.5l0,0c0,1.9,1.6,3.5,3.5,3.5h7C286.9,86.5,288.5,84.9,288.5,83L288.5,83z"/>
+								</g>
+								<circle id="person-1-front-arms-left-hand-ball" class="ball_x0020_2" cx="279" cy="83" r="4"/>
+							</g>
+							<g id="person-1-front-arms-left-lower">
+								<path id="person-1-front-arms-left-lower-shape" class="person1flesh" d="M270.5,82.9c0-1.9-0.4-3.4-2.1-3.4h-33.8
+									c-1.7,0-4.1,1.5-4.1,3.4v0.3c0,1.9,2.4,3.4,4.1,3.4h33.8c1.7,0,2.1-1.5,2.1-3.4V82.9z"/>
+							</g>
+							<g id="person-1-front-arms-left-lower-socket">
+								<circle class="st3" cx="268" cy="83" r="4"/>
+							</g>
+							<circle id="person-1-front-arms-left-lower-ball" class="ball_x0020_2" cx="235" cy="83" r="4"/>
 						</g>
 					</g>
 				</g>
