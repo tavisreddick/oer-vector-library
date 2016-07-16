@@ -44,6 +44,8 @@
 	.st13{fill:#93278F;}
 	.st14{fill:#CCAACC;}
 	
+	.ball{display: none;}
+	.socket{display: none;}
 
 	.sprue{fill:none;stroke:#FF0000;stroke-width:2;stroke-miterlimit:10;}
 	.backcloth{opacity:0.3;fill:#95D7E4;}
@@ -58,9 +60,35 @@
 	.person1hair{fill:#534741;stroke:#8C6239;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1,1;}
 	.person2hair{fill:#F7931E;stroke:#C1272D;stroke-miterlimit:10;}
 	.ball_x0020_2{opacity:0.9;fill:none;stroke:#33FF66;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
-	.ball{display: none;}
-	.socket{display: none;}
-
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
+	.st2{opacity:0.8;}
+	.st3{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9652,0.9652;}
+	.st4{fill:#1A1A1A;}
+	.st5{font-family:'Verdana';}
+	.st6{font-size:24px;}
+	.st7{fill:none;stroke:#666666;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.st9{fill:#534741;}
+	.st10{fill:none;stroke:#8C6239;stroke-linejoin:round;}
+	.st11{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:1.0104,1.0104;}
+	.st12{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:1,1;}
+	.st13{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:0.9766,0.9766;}
+	.st14{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:0.9567,0.9567;}
+	.st15{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:0.9803,0.9803;}
+	.st16{fill:#C7B299;}
+	.st17{fill:none;stroke:#603813;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:1.0022,1.0022;}
+	.st19{fill:none;stroke:#8C6239;stroke-linejoin:round;stroke-dasharray:1.0171,1.0171;}
+	.st20{fill:#29ABE2;}
+	.st21{fill:none;stroke:#0071BC;stroke-miterlimit:10;}
+	.st22{font-family:'Verdana-Bold';}
+	.st23{font-size:14px;}
+	.st24{font-size:12px;}
+	.st25{font-size:10px;}
+	.st26{fill:#00FF00;}
+	.st27{font-family:'MyriadPro-Regular';}
+	.st28{fill:#FF0000;}
 </style>
 <g id="Sky">
 	<rect id="rect4616" class="sky" width="960" height="280"/>
@@ -119,7 +147,7 @@
 									<circle id="person-1-front-legs-right-foot-ball" class="ball" cx="134.5" cy="256.5" r="5"/>
 								</g>
 								<!--gid = person-1-front-legs-right-lower-socket--><!--replacement--><g id="person-1-front-legs-right-lower-socket">
-									<circle class="socket" cx="140.5" cy="239.5" r="5"/>
+									<circle class="st1" cx="140.5" cy="239.5" r="5"/>
 								</g>
 								<circle id="person-1-front-legs-right-lower-ball" class="ball" cx="134.5" cy="197.5" r="5"/>
 							</g>
@@ -127,7 +155,7 @@
 								<path id="person-1-front-legs-right-upper-shape" class="person1flesh" d="M145.5,146.5c0-2.8-2.2-5-5-5h-6          c-2.8,0-5,2.2-5,5l6,38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
 							</g><!--$totalXtransforms = 0 --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-1-front-legs-right-upper" id="person-1-front-legs-left-upper" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
 							<!--gid = person-1-front-legs-right-upper-socket--><!--replacement--><g id="person-1-front-legs-right-upper-socket">
-								<circle class="socket" cx="140.5" cy="184.5" r="5"/>
+								<circle class="st1" cx="140.5" cy="184.5" r="5"/>
 							</g>
 							<circle id="person-1-front-legs-upper-right-ball" class="ball" cx="134.5" cy="146.5" r="5"/>
 						</g>
@@ -138,12 +166,12 @@
 						<path id="person-1-front-pelvis-shape" class="liveryteam1B" d="M169.5,124.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11l0,0        c0,6.1,4.9,11,11,11h18C164.6,135.5,169.5,130.6,169.5,124.5L169.5,124.5z"/>
 					</g>
 					<!--gid = person-1-front-pelvis-socket-legs-right--><!--replacement--><g id="person-1-front-pelvis-socket-legs-right">
-						<circle class="socket" cx="137" cy="124.5" r="5"/>
-						<circle class="socket" cx="137" cy="124.5" r="5"/>
+						<circle class="st0" cx="137" cy="124.5" r="5"/>
+						<circle class="st1" cx="137" cy="124.5" r="5"/>
 					</g>
 					<!--gid = person-1-front-pelvis-socket-legs-left--><!--replacement--><g id="person-1-front-pelvis-socket-legs-left">
-						<circle class="socket" cx="162" cy="124.5" r="5"/>
-						<circle class="socket" cx="162" cy="124.5" r="5"/>
+						<circle class="st0" cx="162" cy="124.5" r="5"/>
+						<circle class="st1" cx="162" cy="124.5" r="5"/>
 					</g>
 				</g>
 				<g id="person-1-front-arms">
@@ -164,8 +192,8 @@
 								<path id="person-1-front-arms-right-lower-shape" class="person1flesh" d="M28.5,83.1c0,1.9,1.4,3.4,3.1,3.4h33.8          c1.7,0,3.1-1.5,3.1-3.4v-0.3c0-1.9-1.4-3.4-3.1-3.4H31.6c-1.7,0-3.1,1.5-3.1,3.4V83.1z"/>
 							</g>
 							<!--gid = person-1-front-arms-right-lower-socket--><!--replacement--><g id="person-1-front-arms-right-lower-socket" class="st2">
-								<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -46.6729 41.4842)" class="socket" cx="32" cy="83" rx="4" ry="4"/>
-								<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -46.6729 41.4842)" class="socket" cx="32" cy="83" rx="4" ry="4"/>
+								<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -46.6729 41.4842)" class="st0" cx="32" cy="83" rx="4" ry="4"/>
+								<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -46.6729 41.4842)" class="st3" cx="32" cy="83" rx="4" ry="4"/>
 							</g>
 							<circle id="person-1-front-arms-right-lower-ball" class="ball" cx="65" cy="83" r="4"/>
 						</g>
@@ -174,8 +202,8 @@
 						</g>
 						<circle id="person-1-front-arms-right-upper-ball" class="ball" cx="104" cy="83" r="4"/>
 						<!--gid = person-1-front-arms-right-upper-socket--><!--replacement--><g id="person-1-front-arms-right-upper-socket" class="st2">
-							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -35.8319 70.4062)" class="socket" cx="76" cy="83" rx="4" ry="4"/>
-							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -35.8319 70.4062)" class="socket" cx="76" cy="83" rx="4" ry="4"/>
+							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -35.8319 70.4062)" class="st0" cx="76" cy="83" rx="4" ry="4"/>
+							<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -35.8319 70.4062)" class="st3" cx="76" cy="83" rx="4" ry="4"/>
 						</g>
 					</g>
 					<!--gid = person-1-front-arms-left--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 196--><!--$ball/@cy = 83--><!--$socketId = person-1-front-torso-socket-arms-left--><!--$socket/@cx = 170--><!--$socket/@cy = 83-->
@@ -193,7 +221,7 @@
 								<path id="person-1-front-arms-left-lower-shape" class="person1flesh" d="M270.5,82.9c0-1.9-0.4-3.4-2.1-3.4h-33.8          c-1.7,0-4.1,1.5-4.1,3.4v0.3c0,1.9,2.4,3.4,4.1,3.4h33.8c1.7,0,2.1-1.5,2.1-3.4V82.9z"/>
 							</g>
 							<!--gid = person-1-front-arms-left-lower-socket--><!--replacement--><g id="person-1-front-arms-left-lower-socket">
-								<circle class="socket" cx="268" cy="83" r="4"/>
+								<circle class="st3" cx="268" cy="83" r="4"/>
 							</g>
 							<circle id="person-1-front-arms-left-lower-ball" class="ball" cx="235" cy="83" r="4"/>
 						</g>
@@ -202,7 +230,7 @@
 						</g>
 						<circle id="person-1-front-arms-left-upper-ball" class="ball" cx="196" cy="83" r="4"/>
 						<!--gid = person-1-front-arms-left-upper-socket--><!--replacement--><g id="person-1-front-arms-left-upper-socket">
-							<circle class="socket" cx="224" cy="83" r="4"/>
+							<circle class="st3" cx="224" cy="83" r="4"/>
 						</g>
 					</g>
 				</g>
@@ -220,8 +248,8 @@
 						</g>
 						<circle id="person-1-front-headneck-ball" class="ball" cx="150" cy="68" r="5"/>
 						<!--gid = person-1-front-neck-socket--><!--replacement--><g id="person-1-front-neck-socket">
-							<circle class="socket" cx="150" cy="62" r="5"/>
-							<circle class="socket" cx="150" cy="62" r="5"/>
+							<circle class="st0" cx="150" cy="62" r="5"/>
+							<circle class="st1" cx="150" cy="62" r="5"/>
 						</g>
 					</g>
 				</g>
@@ -234,12 +262,12 @@
 						</g>
 					</g>
 					<!--gid = person-1-front-torso-socket-arms-right--><!--replacement--><g id="person-1-front-torso-socket-arms-right" class="st2">
-						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -22.527 105.9014)" class="socket" cx="130" cy="83" rx="4" ry="4"/>
-						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -22.527 105.9014)" class="socket" cx="130" cy="83" rx="4" ry="4"/>
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -22.527 105.9014)" class="st0" cx="130" cy="83" rx="4" ry="4"/>
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -22.527 105.9014)" class="st3" cx="130" cy="83" rx="4" ry="4"/>
 					</g>
 					<!--gid = person-1-front-torso-socket-arms-left--><!--replacement--><g id="person-1-front-torso-socket-arms-left" class="st2">
-						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="socket" cx="170" cy="83" rx="4" ry="4"/>
-						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="socket" cx="170" cy="83" rx="4" ry="4"/>
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="st0" cx="170" cy="83" rx="4" ry="4"/>
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -4.2938 156.5568)" class="st3" cx="170" cy="83" rx="4" ry="4"/>
 					</g>
 					<!--gid = person-1-front-headneck-socket--><!--original--><g/>
 						<circle class="socket" cx="150" cy="79.5" r="5"/>
@@ -263,25 +291,25 @@
 							<circle id="person-2-right-head-ball" class="ball" cx="749.5" cy="351" r="5"/>
 						</g>
 						<!--gid = person-2-right-neck-socket--><!--replacement--><g id="person-2-right-neck-socket">
-							<circle class="socket" cx="749.5" cy="362.5" r="5"/>
+							<circle class="st1" cx="749.5" cy="362.5" r="5"/>
 						</g>
 						<circle id="person-2-right-headneck-ball" class="ball" cx="749.5" cy="368.5" r="5"/>
 					</g>
 				</g>
 				<g id="person-2-right-pelvis-group">
 					<!--gid = person-2-right-pelvis-socket-legs-left--><!--replacement--><g id="person-2-right-pelvis-socket-legs-left">
-						<circle class="socket" cx="750.5" cy="424" r="5"/>
+						<circle class="st1" cx="750.5" cy="424" r="5"/>
 					</g>
 					<!--gid = person-2-right-pelvis--><!--replacement--><g id="person-2-right-pelvis">
 						<path id="person-2-right-pelvis-shape" class="liveryteam2B" d="M761,424.5c0-6.1-1.4-11-5-11h-12c-3.6,0-6.5,4.9-6.5,11l0,0        c0,6.1,2.9,11,6.5,11h12C759.6,435.5,761,430.6,761,424.5L761,424.5z"/>
 					</g>
 					<!--gid = person-2-right-pelvis-socket-legs-right--><!--replacement--><g id="person-2-right-pelvis-socket-legs-right">
-						<circle class="socket" cx="750.5" cy="424" r="5"/>
+						<circle class="st1" cx="750.5" cy="424" r="5"/>
 					</g>
 				</g>
 				<g id="person-2-right-torso-group">
 					<!--gid = person-2-right-torso-socket-arms-left--><!--replacement--><g id="person-2-right-torso-socket-arms-left" class="st2">
-						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -67.209 586.6972)" class="socket" cx="749" cy="383" rx="4" ry="4"/>
+						<ellipse transform="matrix(0.7536 -0.6573 0.6573 0.7536 -67.209 586.6972)" class="st3" cx="749" cy="383" rx="4" ry="4"/>
 					</g>
 					<!--gid = person-2-right-torso--><!--replacement--><g id="person-2-right-torso">
 						<path id="person-2-right-torso-shape" class="person2flesh" d="M762.5,393c0-4.5-5.2-13.5-11.5-13.5H749        c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,9-5.5,9-14.5C760,399,762.5,398.5,762.5,393z"/>
@@ -291,7 +319,7 @@
 						<circle class="socket" cx="749.5" cy="380" r="4.5"/>
 					
 					<!--gid = person-2-right-torso-socket-arms-right--><!--replacement--><g id="person-2-right-torso-socket-arms-right" class="st2">
-						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -31.9649 695.7035)" class="socket" cx="749" cy="383" rx="4" ry="4"/>
+						<ellipse transform="matrix(0.6573 -0.7536 0.7536 0.6573 -31.9649 695.7035)" class="st3" cx="749" cy="383" rx="4" ry="4"/>
 					</g>
 				</g>
 				<g id="person-2-right-legs-right">
@@ -308,7 +336,7 @@
 							</g>
 							<circle id="person-2-right-legs-right-lower-ball" class="ball" cx="750.5" cy="497.5" r="5"/>
 							<!--gid = person-2-right-legs-right-lower-socket--><!--replacement--><g id="person-2-right-legs-right-lower-socket">
-								<circle class="socket" cx="750.5" cy="539.5" r="5"/>
+								<circle class="st1" cx="750.5" cy="539.5" r="5"/>
 							</g>
 						</g>
 						<!--gid = person-2-right-legs-right-upper--><!--replacement--><g id="person-2-right-legs-right-upper">
@@ -316,7 +344,7 @@
 						</g>
 						<circle id="person-2-right-legs-upper-right-ball" class="ball" cx="750.5" cy="446.5" r="5"/>
 						<!--gid = person-2-right-legs-right-upper-socket--><!--replacement--><g id="person-2-right-legs-right-upper-socket">
-							<circle class="socket" cx="750.5" cy="484.5" r="5"/>
+							<circle class="st1" cx="750.5" cy="484.5" r="5"/>
 						</g>
 					</g>
 				</g>
@@ -335,7 +363,7 @@
 						</g>
 						<circle id="person-2-right-arms-right-lower-ball" class="ball" cx="716" cy="422" r="4"/>
 						<!--gid = person-2-right-arms-right-lower-socket--><!--replacement--><g id="person-2-right-arms-right-lower-socket" class="st2">
-							<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -97.5113 695.5837)" class="socket" cx="716" cy="455" rx="4" ry="4"/>
+							<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -97.5113 695.5837)" class="st3" cx="716" cy="455" rx="4" ry="4"/>
 						</g>
 					</g>
 					<!--gid = person-2-right-arms-right-upper--><!--replacement--><g id="person-2-right-arms-right-upper">
@@ -343,7 +371,7 @@
 					</g>
 					<circle id="person-2-right-arms-right-upper-ball" class="ball" cx="716" cy="383" r="4"/>
 					<!--gid = person-2-right-arms-right-upper-socket--><!--replacement--><g id="person-2-right-arms-right-upper-socket" class="st2">
-						<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -64.3492 680.5033)" class="socket" cx="716" cy="411" rx="4" ry="4"/>
+						<ellipse transform="matrix(0.6572 -0.7537 0.7537 0.6572 -64.3492 680.5033)" class="st3" cx="716" cy="411" rx="4" ry="4"/>
 					</g>
 				</g>
 			</g>

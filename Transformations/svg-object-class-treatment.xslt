@@ -20,8 +20,16 @@
 	<xsl:template match="/">
 		<xsl:apply-templates />
 	</xsl:template>
-	<!-- If alcohol objects are not permitted, remove them. -->
-	<xsl:template match="svg:*[@class = 'alcohol'][$alcohol = false()]" />
+	<!-- If alcohol or other designated classes of objects are not permitted, remove them. -->	
+	<!-- When using .NET XSLT classes (which only support XSLT 1.0) you cannot use variables in template matches,
+		so move them to a condition inside. -->
+	<!--<xsl:template match="svg:*[@class = 'alcohol'][$alcohol = false()]" />-->
+	<xsl:template match="svg:*[@class = 'alcohol']">
+		<xsl:if test="$alcohol = true()"><xsl:copy-of select="." /></xsl:if>
+	</xsl:template>
 	<!-- If meat objects are not permitted, remove them. -->
-	<xsl:template match="svg:*[@class = 'meat'][$meat = false()]" />
+	<!--<xsl:template match="svg:*[@class = 'meat'][$meat = false()]" />-->
+	<xsl:template match="svg:*[@class = 'meat']">
+		<xsl:if test="$meat = true()"><xsl:copy-of select="." /></xsl:if>
+	</xsl:template>
 </xsl:stylesheet>
