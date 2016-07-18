@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.grass{fill:#8EE900;}
+	.sky{fill:#CFD7EB;}
+	.treefoliage{fill:#006837;}
+	.furniture{fill:#F9FFBF;}
+	.wine{fill:#93278F;}
+	.wineglass{fill:#CCAACC;}
+	.winebottle{fill:#009245;}
+	.bottlecap{fill:#93278F;}
+
+	.person2flesh{fill:#C7B299;stroke:#603813;stroke-miterlimit:10;}
+	.cricketclothes{fill:#FFFFF0;stroke:#CCC0C0;stroke-miterlimit:10;}
+	.sprue{fill:none;stroke:#FF0000;stroke-width:2;stroke-miterlimit:10;}
+	.backcloth{opacity:0.3;fill:#95D7E4;}
+	.socket{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.ball{opacity:0.9;fill:none;stroke:#33FF66;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;}
+	.person1flesh{fill:#E2CCCC;stroke:#B49999;stroke-miterlimit:10;}
+	.person2hair{fill:#2A0018;}
+	.cricketbatwillow{fill:#E5E39E;stroke:#999966;stroke-miterlimit:10;}
+	.cricketbails{fill:#FBB03B;stroke:#F15A24;stroke-miterlimit:10;}
+	.cricketstumps{fill:#999966;stroke:#736357;stroke-miterlimit:10;}
+	.cricketbathandle{fill:#42210B;stroke:#754C24;stroke-miterlimit:10;}
+	.cricketball{fill:#C1272D;stroke:#F15A24;stroke-miterlimit:10;}
+	.cricketstitching{fill:none;stroke:#FFFFCC;stroke-miterlimit:10;stroke-opacity:0.5;}
+	.liveryteam1A{fill:#C1272D;stroke:#FF7BAC;stroke-miterlimit:10;}
+	.liveryteam2A{fill:#333333;stroke:#66666B;stroke-miterlimit:10;}
+
+	.st0{fill:#CFD7EB;}
+	.st1{fill:#8EE900;}
+	.st2{fill:#006837;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#FFFFF0;stroke:#CCC0C0;stroke-miterlimit:10;}
+	.st5{fill:#E2CCCC;stroke:#B49999;stroke-miterlimit:10;}
+	.st6{opacity:0.9;fill:none;stroke:#33FF66;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;enable-background:new    ;}
+	.st7{fill:#C1272D;stroke:#FF7BAC;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FF7BAC;stroke-miterlimit:10;}
+	.st9{fill:#C7B299;stroke:#603813;stroke-miterlimit:10;}
+	.st10{fill:#2A0018;}
+	.st11{fill:#F9FFBF;}
+	.st12{fill:#009245;}
+	.st13{fill:#93278F;}
+	.st14{fill:#CCAACC;}
+	
+	.ball{display: none;}
+	.socket{display: none;}
+</style>
+<g id="Sky">
+	<rect id="rect4616" class="sky" width="960" height="280"/>
+</g>
+<g id="Ground">
+	<g id="g4619">
+		<rect id="rect4621" y="280" class="grass" width="960" height="280"/>
+	</g>
+</g>
+<g id="Treeline">
+	<g id="g4624">
+		<g id="g4626">
+			<path id="path4628" class="treefoliage" d="M960,195c-26.8-39.9-75.1-71.7-106.8-80.3c-4.2,10.6-6,62.2-15.9,64.6
+				c-6.1-23.8-14.4-122.2-50-115.8c-15.6,2.8-3.3,109.4-6.2,125c-9.8,3.4-43.6-32.9-31.3-28.8c-19.7-6.7-9.6,42.9-19,43.4
+				c-25.3,1.5,7.3-80.9-13.2-96.2c-3.5,5.2-7.9,8.5-13.4,10.1c-15.6-12.3-78.5-14.2-94.9-4.9c-27.5,15.7-2,53-36.7,61.3
+				c-16.2,3.9-119.6-122.6-127.8-72.1c-6.1,35.8,10.2,42-20.8,75.7c1.2-1.3-86.8-187.7-115-50.8c-30-13.2-68.2-62.7-95.8-18.6
+				c-20.2,32.4,16.5,65.3,5.5,98.8c-8.7,4.1-17.9-15.9-20.9-22.7C214.2,80.3,89.6,64.8,55,126.3c-13.7,1.9-36.8-17.4-55-20.2v183.1
+				c68.4,24.5,199.2-4.8,266.8-5.6c89.8-1,179.7-2.9,269.5,1c91.6,3.9,183,14.4,274.3,22.7c7.5,0.7,18.1,2.7,30.2,5h110
+				c0.9-0.7,1.7-1.4,2.5-2.2c2.4-2.4,4.6-4.8,6.7-7.3V195z"/>
+		</g>
+		<g id="g4630">
+			<path id="path4632" class="treefoliage" d="M749.9,159.7c0.2,0.1,0.5,0.2,0.7,0.3C750.4,159.9,750.1,159.8,749.9,159.7z"/>
+		</g>
+		<g id="g4634">
+			<path id="path4636" class="treefoliage" d="M0,87.6v17.6l4-0.6C4.5,98.3,3.1,92.6,0,87.6z"/>
+		</g>
+	</g>
+</g>
+<g id="Buildings">
+</g>
+<g id="Cricketers">
+		<g id="cricket-stumps-right" transform="translate(-530, -887)">
+			<circle class="st8" cx="650" cy="1224" r="1"/>
+			<rect x="648" y="1224" class="cricketstumps" width="4" height="72"/>
+		</g>
+		<g id="cricket-stumps-left" transform="translate(40, -887)">
+			<circle class="st8" cx="750" cy="1224" r="1"/>
+			<rect x="748" y="1224" class="cricketstumps" width="4" height="72"/>
+		</g>
+	<g id="cricket-ball" transform="translate(-600, -980)">
+		<circle class="cricketball" cx="822.5" cy="1236.5" r="3.5"/>
+		<path class="cricketstitching" d="M825,1237.5h-5c-0.5,0-1-0.4-1-1l0,0c0-0.6,0.5-1,1-1h5c0.5,0,1,0.4,1,1l0,0
+			C826,1237.1,825.5,1237.5,825,1237.5z"/>
+	</g>
+	<g id="pitch">
+		<line id="line4641" class="st3" x1="120" y1="409" x2="790" y2="409"/>
+		<line id="line4643" class="st3" x1="120" y1="409" x2="120" y2="337"/>
+		<line id="line4645" class="st3" x1="790" y1="409" x2="790" y2="337"/>
+	</g>
+	<g id="person-1-front" transform="translate(530, 200)">
+			<g id="person-1-front-body">
+				<g id="person-1-front-legs">
+					<g id="person-1-front-legs-right">
+						<!--gid = person-1-front-legs-right-upper-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 146.5--><!--$socketId = person-1-front-pelvis-socket-legs-right--><!--$socket/@cx = 134.5--><!--$socket/@cy = 124.5--><g id="person-1-front-legs-right-upper-group" transform="translate(0, -22) rotate(0, 134.5, 146.5)">
+							<!--gid = person-1-front-legs-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 197.5--><!--$socketId = person-1-front-legs-right-upper-socket--><!--$socket/@cx = 134.5--><!--$socket/@cy = 185--><g id="person-1-front-legs-right-lower-group" transform="translate(0, -12.5) rotate(0, 134.5, 197.5)">
+								<!--gid = person-1-front-legs-right-lower--><!--component-detected, new component = person-1-front-legs-left-lower--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-legs-right-lower--><g id="person-1-front-legs-right-lower">
+									<path id="person-1-front-legs-right-lower-shape" class="cricketclothes" d="M139.5,197.5c0-2.8-2.2-5-5-5l0,0           c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V197.5z"/>
+								</g><!--$totalXtransforms = 0 0 --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-1-front-legs-right-lower" id="person-1-front-legs-left-lower" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+								<!--gid = person-1-front-legs-right-foot-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 134.5--><!--$ball/@cy = 256.5--><!--$socketId = person-1-front-legs-right-lower-socket--><!--$socket/@cx = 134.5--><!--$socket/@cy = 239.5--><g id="person-1-front-legs-right-foot-group" transform="translate(0, -17) rotate(0, 134.5, 256.5)">
+									<!--gid = person-1-front-legs-right-foot--><!--component-detected, new component = person-1-front-legs-left-foot--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-legs-right-foot--><g id="person-1-front-legs-right-foot">
+										<path id="person-1-front-legs-right-foot-shape" class="person1flesh" d="M139.5,259.5c0,2.8-2.2,2-5,2l0,0            c-2.8,0-5,0.8-5-2v-3c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V259.5z"/>
+									</g><!--$totalXtransforms = 0 0 0 --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-1-front-legs-right-foot" id="person-1-front-legs-left-foot" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+									<circle id="person-1-front-legs-right-foot-ball" class="ball" cx="134.5" cy="256.5" r="5"/>
+								</g>
+								<g id="person-1-front-legs-right-lower-socket">
+									<circle class="socket" cx="134.5" cy="239.5" r="5"/>
+								</g>
+								<circle id="person-1-front-legs-right-lower-ball" class="ball" cx="134.5" cy="197.5" r="5"/>
+							</g>
+							<!--gid = person-1-front-legs-right-upper--><!--component-detected, new component = person-1-front-legs-left-upper--><!--$newComponent/@x = 150--><!--$ball/@cx = --><!--$ball/@cy = --><!--$socketId = --><!--$socket/@cx = --><!--$socket/@cy = --><!--gid (reflection twin) = person-1-front-legs-right-upper--><g id="person-1-front-legs-right-upper">
+								<path id="person-1-front-legs-right-upper-shape" class="cricketclothes" d="M139.5,146.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V146.5z"/>
+							</g><!--$totalXtransforms = 0 --><!--$sumTotalXtransforms = 0--><use xlink:href="#person-1-front-legs-right-upper" id="person-1-front-legs-left-upper" transform="translate(150, 0) scale(-1 1)     translate(-150, 0)"/>
+							<g id="person-1-front-legs-right-upper-socket">
+								<circle class="socket" cx="134.5" cy="185" r="5"/>
+							</g>
+							<circle id="person-1-front-legs-upper-right-ball" class="ball" cx="134.5" cy="146.5" r="5"/>
+						</g>
+					</g>
+				</g>
+				<g id="person-1-front-pelvis-group">
+					<g id="person-1-front-pelvis">
+						<path id="person-1-front-pelvis-shape" class="cricketclothes" d="M169.5,124.5c0-6.1-4.9-11-11-11h-18c-6.1,0-11,4.9-11,11        l0,0c0,6.1,4.9,11,11,11h18C164.6,135.5,169.5,130.6,169.5,124.5L169.5,124.5z"/>
+					</g>
+					<g id="person-1-front-pelvis-socket-legs-right">
+						<circle class="socket" cx="134.5" cy="124.5" r="5"/>
+					</g>
+					<g id="person-1-front-pelvis-socket-legs-left">
+						<circle class="socket" cx="164.5" cy="124.5" r="5"/>
+					</g>
+				</g>
+				<g id="person-1-front-arms">
+					<!--gid = person-1-front-arms-right--><!--component-detected, new component = --><!--$newComponent/@x =
+					--><!--$ball/@cx = 104--><!--$ball/@cy = 83--><!--$socketId =
+						person-1-front-torso-socket-arms-right--><!--$socket/@cx = 130--><!--$socket/@cy = 83-->
+					<g id="person-1-front-arms-right" transform="translate(26, 0) rotate(-80, 104, 83)">
+						<!--gid = person-1-front-arms-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 65--><!--$ball/@cy = 83--><!--$socketId = person-1-front-arms-right-upper-socket--><!--$socket/@cx = 76--><!--$socket/@cy = 83-->
+						<g id="person-1-front-arms-right-lower-group" transform="translate(11, 0) rotate(-60, 65, 83)">
+							<!--gid = person-1-front-arms-right-hand-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 21--><!--$ball/@cy = 83--><!--$socketId = person-1-front-arms-right-lower-socket--><!--$socket/@cx = 32--><!--$socket/@cy = 83-->
+							<g id="person-1-front-arms-right-hand-group" transform="translate(11, 0) rotate(-20, 21, 83)">
+								<g id="person-1-front-arms-right-hand">
+									<path id="person-1-front-arms-right-hand-shape" class="person1flesh" d="M10.5,83c0,1.9,1.6,3.5,3.5,3.5h7           c1.9,0,3.5-1.6,3.5-3.5l0,0c0-1.9-1.6-3.5-3.5-3.5h-7C12.1,79.5,10.5,81.1,10.5,83L10.5,83z"/>
+								</g>
+								<circle id="person-1-front-arms-right-hand-ball" class="ball" cx="21" cy="83" r="4"/>
+							</g>
+							<g id="person-1-front-arms-right-lower">
+								<path id="person-1-front-arms-right-lower-shape" class="cricketclothes" d="M28.5,83.1c0,1.9,1.4,3.4,3.1,3.4h33.8          c1.7,0,3.1-1.5,3.1-3.4v-0.3c0-1.9-1.4-3.4-3.1-3.4H31.6c-1.7,0-3.1,1.5-3.1,3.4V83.1z"/>
+							</g>
+							<g id="person-1-front-arms-right-lower-socket">
+								<circle class="socket" cx="32" cy="83" r="4"/>
+							</g>
+							<circle id="person-1-front-arms-right-lower-ball" class="ball" cx="65" cy="83" r="4"/>
+						</g>
+						<g id="person-1-front-arms-right-upper">
+							<path id="person-1-front-arms-right-upper-shape" class="cricketclothes" d="M72.5,83.1c0,1.9,1.2,3.4,2.7,3.4h29.6         c1.5,0,2.7-1.5,2.7-3.4v-0.3c0-1.9-1.2-3.4-2.7-3.4H75.2c-1.5,0-2.7,1.5-2.7,3.4V83.1z"/>
+						</g>
+						<circle id="person-1-front-arms-right-upper-ball" class="ball" cx="104" cy="83" r="4"/>
+						<g id="person-1-front-arms-right-upper-socket">
+							<circle class="socket" cx="76" cy="83" r="4"/>
+						</g>
+					</g>
+					<!--gid = person-1-front-arms-left--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 196--><!--$ball/@cy = 83--><!--$socketId = person-1-front-torso-socket-arms-left--><!--$socket/@cx = 170--><!--$socket/@cy = 83-->
+					<g id="person-1-front-arms-left" transform="translate(-26, 0) rotate(50, 196, 83)">
+						<!--gid = person-1-front-arms-left-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 235--><!--$ball/@cy = 83--><!--$socketId = person-1-front-arms-left-upper-socket--><!--$socket/@cx = 224--><!--$socket/@cy = 83-->
+						<g id="person-1-front-arms-left-lower-group" transform="translate(-11, 0) rotate(60, 235, 83)">
+							<!--gid = person-1-front-arms-left-hand-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 279--><!--$ball/@cy = 83--><!--$socketId = person-1-front-arms-left-lower-socket--><!--$socket/@cx = 268--><!--$socket/@cy = 83-->
+							<g id="person-1-front-arms-left-hand-group" transform="translate(-11, 0) rotate(-20, 279, 83)">
+								<g id="person-1-front-arms-left-hand">
+									<path id="person-1-front-arms-left-hand-shape" class="person1flesh" d="M288.5,83c0-1.9-1.6-3.5-3.5-3.5h-7           c-1.9,0-3.5,1.6-3.5,3.5l0,0c0,1.9,1.6,3.5,3.5,3.5h7C286.9,86.5,288.5,84.9,288.5,83L288.5,83z"/>
+								</g>
+								<circle id="person-1-front-arms-left-hand-ball" class="ball" cx="279" cy="83" r="4"/>
+							</g>
+							<g id="person-1-front-arms-left-lower">
+								<path id="person-1-front-arms-left-lower-shape" class="cricketclothes" d="M270.5,82.9c0-1.9-0.4-3.4-2.1-3.4h-33.8          c-1.7,0-4.1,1.5-4.1,3.4v0.3c0,1.9,2.4,3.4,4.1,3.4h33.8c1.7,0,2.1-1.5,2.1-3.4V82.9z"/>
+							</g>
+							<g id="person-1-front-arms-left-lower-socket">
+								<circle class="socket" cx="268" cy="83" r="4"/>
+							</g>
+							<circle id="person-1-front-arms-left-lower-ball" class="ball" cx="235" cy="83" r="4"/>
+						</g>
+						<g id="person-1-front-arms-left-upper">
+							<path id="person-1-front-arms-left-upper-shape" class="cricketclothes" d="M226.5,82.9c0-1.9-0.2-3.4-1.7-3.4h-29.6         c-1.5,0-3.7,1.5-3.7,3.4v0.3c0,1.9,2.2,3.4,3.7,3.4h29.6c1.5,0,1.7-1.5,1.7-3.4V82.9z"/>
+						</g>
+						<circle id="person-1-front-arms-left-upper-ball" class="ball" cx="196" cy="83" r="4"/>
+						<g id="person-1-front-arms-left-upper-socket">
+							<circle class="socket" cx="224" cy="83" r="4"/>
+						</g>
+					</g>
+				</g>
+				<g id="person-1-front-headneck">
+					<!--gid = person-1-front-neck-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 150--><!--$ball/@cy = 68--><!--$socketId = person-1-front-headneck-socket--><!--$socket/@cx = 150--><!--$socket/@cy = 79.5--><g id="person-1-front-neck-group" transform="translate(0, 11.5) rotate(0, 150, 68)">
+						<g id="person-1-front-neck">
+							<path id="person-1-front-neck-shape" class="person1flesh" d="M155,62c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6         c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V62z"/>
+						</g>
+						<!--gid = person-1-front-head-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 150--><!--$ball/@cy = 50.5--><!--$socketId = person-1-front-neck-socket--><!--$socket/@cx = 150--><!--$socket/@cy = 62--><g id="person-1-front-head-group" transform="translate(0, 11.5) rotate(0, 150, 50.5)">
+							<g id="person-1-front-head">
+								<path id="person-1-front-head-shape" class="person1flesh" d="M158.5,36.6c0-3.6-3-6.6-6.6-6.6h-3.8c-3.6,0-6.6,3-6.6,6.6          v8.8c0,3.6,3,6.6,6.6,6.6h3.8c3.6,0,6.6-3,6.6-6.6V36.6z"/>
+								<g>
+									<path class="liveryteam1A" d="M159.3,36.5c-1.4-5-5-8-9.3-8s-7.9,3-9.3,8H159.3z"/>
+									<path class="liveryteam1A" d="M157.4,36.5c-1.1-5-4-8-7.4-8s-6.4,3-7.4,8H157.4z"/>
+									<path class="liveryteam1A" d="M153.1,36.5c-0.5-5-1.7-8-3.1-8s-2.6,3-3.1,8H153.1z"/>
+								</g>
+								<path class="liveryteam1A" d="M141,37.5c2.9,0,5.9,2,9,2s6.1-2,9-2H141z"/>
+							</g>
+							<circle id="person-1-front-head-ball" class="ball" cx="150" cy="50.5" r="5"/>
+						</g>
+						<circle id="person-1-front-headneck-ball" class="ball" cx="150" cy="68" r="5"/>
+						<g id="person-1-front-neck-socket">
+							<circle class="socket" cx="150" cy="62" r="5"/>
+						</g>
+					</g>
+				</g>
+				<g id="person-1-front-torso-group">
+					<g id="person-1-front-torso">
+						<path id="person-1-front-torso-shape" class="cricketclothes" d="M170.5,86.8c1.7,0,3-1.8,3-3.6v-0.3c0-1.9-1.3-3.4-3-3.4        h-7.1h-3.2h-20.5h-3.2h-7.1c-1.7,0-3,1.5-3,3.4v0.3c0,1.9,1.3,3.6,3,3.6V92v9.5c0,6.6,4.6,12,10.2,12h20.5        c5.7,0,10.2-5.4,10.2-12V92V86.8z"/>
+					</g>
+					<g id="person-1-front-torso-socket-arms-right">
+						<circle class="socket" cx="130" cy="83" r="4"/>
+					</g>
+					<g id="person-1-front-torso-socket-arms-left">
+						<circle class="socket" cx="170" cy="83" r="4"/>
+					</g>
+					<g id="person-1-front-headneck-socket">
+						<circle class="socket" cx="150" cy="79.5" r="5"/>
+					</g>
+				</g>
+			</g>
+	</g>
+	<g id="person-2-right" transform="translate(-600, -100)">
+			<g id="person-2-right-body">
+				<g id="person-2-right-headneck">
+					<!--gid = person-2-right-neck-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 749.5--><!--$ball/@cy = 368.5--><!--$socketId = person-2-right-headneck-socket--><!--$socket/@cx = 749.5--><!--$socket/@cy = 380--><g id="person-2-right-neck-group" transform="translate(0, 11.5) rotate(0, 749.5, 368.5)">
+						<g id="person-2-right-neck">
+							<path id="person-2-right-neck-shape" class="person2flesh" d="M754.5,362.5c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5v6         c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V362.5z"/>
+						</g>
+						<!--gid = person-2-right-head-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 749.5--><!--$ball/@cy = 351--><!--$socketId = person-2-right-neck-socket--><!--$socket/@cx = 749.5--><!--$socket/@cy = 362.5--><g id="person-2-right-head-group" transform="translate(0, 11.5) rotate(0, 749.5, 351)">
+							<g id="person-2-right-head">
+								<path id="person-2-right-head-shape" class="person2flesh" d="M765.5,342.9l-4-3.6v-2.7c0-3.6-2.8-6.1-6.9-6.1h-4.2          c-4.1,0-7.9,2.5-7.9,6.1v8.8c0,3.6,3.8,7.1,7.9,7.1h4.2c4.1,0,6.9-3.5,6.9-7.1v-2.1L765.5,342.9z"/>
+								<g>
+									<path class="person2hair" d="M752.4,345.5c1.8,0,3.6,0.1,5.4-0.2c0.5-0.1,1-0.1,1.4-0.2c0.4-0.1,0.8-0.2,1.2-0.4           c0.4-0.1,0.8-0.1,1.1-0.3c0.3-0.1,0.7-0.3,1-0.3c0.7,0.1,1.2,1.1,1.5,1.7c0.3,0.6,0.4,1.2,0.6,1.8c0.2,0.5,0.5,0.9,0.6,1.4           c0.1,0.6,0.3,1.2,0.4,1.7c0.1,0.3,0,0.4,0.2,0.7c0.1,0.2,0.2,0.5,0.3,0.7c0.1,0.5,0.3,1,0.4,1.6c0,0.2,0,0.5,0.1,0.8           c0.1,0.3,0.6,0.7,0.8,0.9c0.5,0.4,1,0.8,1.5,1.2c0.1,0.1,0.7,0.4,0.7,0.6c0,0.4-1,0.5-1.3,0.5c-0.8,0.2-1.7,0.2-2.6,0.3           c-0.8,0-1.5-0.2-2.3-0.4c-1.2-0.4-2.3-0.7-3.5-1.1c-0.7-0.2-1.4-0.5-2.1-0.8c-0.7-0.4-1.5-0.7-2.3-1.1           c-0.5-0.3-1.1-0.6-1.6-0.9c-0.4-0.2-0.6-0.4-0.9-0.6c-0.7-0.5-1.5-0.8-2.2-1.2c-0.9-0.5-1.3-1.2-1.6-2.3           c-0.3-0.9-0.3-1.9-0.3-2.9c0-0.3,0-0.6,0.1-0.9c0.2-0.5,0.6-0.5,1-0.5c0.6,0,1.5-0.2,1.9,0.3"/>
+								</g>
+								<path class="liveryteam2A" d="M762,335c0,1-2.8,4-8,4c-0.5,0-3.5,1-4,1c-5.2,0-9.5,3.2-9.5-2c0-0.5,0-1.5,0-2          c0-5.2,3.3-8.5,8.5-8.5c0.5,0,1.5,0,2,0C756.2,327.5,762,329.8,762,335C762,335.5,762,334.5,762,335z"/>
+							</g>
+							<circle id="person-2-right-head-ball" class="ball" cx="749.5" cy="351" r="5"/>
+						</g>
+						<g id="person-2-right-neck-socket">
+							<circle class="socket" cx="749.5" cy="362.5" r="5"/>
+						</g>
+						<circle id="person-2-right-headneck-ball" class="ball" cx="749.5" cy="368.5" r="5"/>
+					</g>
+				</g>
+				<g id="person-2-right-pelvis-group">
+					<g id="person-2-right-pelvis-socket-legs-left">
+						<circle class="socket" cx="750.5" cy="424" r="5"/>
+					</g>
+					<g id="person-2-right-pelvis">
+						<path id="person-2-right-pelvis-shape" class="cricketclothes" d="M762.5,424.5c0-6.1-2.9-11-6.5-11h-12        c-3.6,0-6.5,4.9-6.5,11l0,0c0,6.1,2.9,11,6.5,11h12C759.6,435.5,762.5,430.6,762.5,424.5L762.5,424.5z"/>
+					</g>
+					<g id="person-2-right-pelvis-socket-legs-right">
+						<circle class="socket" cx="750.5" cy="424" r="5"/>
+					</g>
+				</g>
+				<g id="person-2-right-torso-group">
+					<g id="person-2-right-torso-socket-arms-left">
+						<circle class="socket" cx="749" cy="383" r="4"/>
+					</g>
+					<g id="person-2-right-torso">
+						<path id="person-2-right-torso-shape" class="cricketclothes" d="M762.5,391.5c0-6.6-5.2-12-11.5-12H749        c-6.4,0-11.5,5.4-11.5,12v10c0,6.6,5.2,12,11.5,12h1.9c6.4,0,11.5-5.4,11.5-12V391.5z"/>
+					</g>
+					<g id="person-2-right-headneck-socket">
+						<circle class="socket" cx="749.5" cy="380" r="4.5"/>
+					</g>
+					<g id="person-2-right-torso-socket-arms-right">
+						<circle class="socket" cx="749" cy="383" r="4"/>
+					</g>
+				</g>
+				<g id="person-2-right-legs-right">
+					<!--gid = person-2-right-legs-right-upper-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 750.5--><!--$ball/@cy = 446.5--><!--$socketId = person-2-right-pelvis-socket-legs-right--><!--$socket/@cx = 750.5--><!--$socket/@cy = 424--><g id="person-2-right-legs-right-upper-group" transform="translate(0, -22.5) rotate(0, 750.5, 446.5)">
+						<!--gid = person-2-right-legs-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 750.5--><!--$ball/@cy = 497.5--><!--$socketId = person-2-right-legs-right-upper-socket--><!--$socket/@cx = 750.5--><!--$socket/@cy = 484.5--><g id="person-2-right-legs-right-lower-group" transform="translate(0, -13) rotate(0, 750.5, 497.5)">
+							<!--gid = person-2-right-legs-right-foot-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 750.5--><!--$ball/@cy = 556.5--><!--$socketId = person-2-right-legs-right-lower-socket--><!--$socket/@cx = 750.5--><!--$socket/@cy = 539.5--><g id="person-2-right-legs-right-foot-group" transform="translate(0, -17) rotate(0, 750.5, 556.5)">
+								<g id="person-2-right-legs-right-foot">
+									<path id="person-2-right-legs-right-foot-shape" class="person2flesh" d="M770,561.5l-14.9-6.9c-0.7-1.8-2.5-3.1-4.6-3.1           c-2.8,0-5,2.2-5,5v3c0,2.8,2.2,2,5,2c1.5,0,2.8,0.2,3.7,0H770z"/>
+								</g>
+								<circle id="person-2-right-legs-right-foot-ball" class="ball" cx="750.5" cy="556.5" r="5"/>
+							</g>
+							<g id="person-2-right-legs-right-lower">
+								<path id="person-2-right-legs-right-lower-shape" class="cricketclothes" d="M755.5,497.5c0-2.8-2.2-5-5-5l0,0          c-2.8,0-5,2.2-5,5v42c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V497.5z"/>
+							</g>
+							<circle id="person-2-right-legs-right-lower-ball" class="ball" cx="750.5" cy="497.5" r="5"/>
+							<g id="person-2-right-legs-right-lower-socket">
+								<circle class="socket" cx="750.5" cy="539.5" r="5"/>
+							</g>
+						</g>
+						<g id="person-2-right-legs-right-upper">
+							<path id="person-2-right-legs-right-upper-shape" class="cricketclothes" d="M755.5,446.5c0-2.8-2.2-5-5-5l0,0         c-2.8,0-5,2.2-5,5v38c0,2.8,2.2,5,5,5l0,0c2.8,0,5-2.2,5-5V446.5z"/>
+						</g>
+						<circle id="person-2-right-legs-upper-right-ball" class="ball" cx="750.5" cy="446.5" r="5"/>
+						<g id="person-2-right-legs-right-upper-socket">
+							<circle class="socket" cx="750.5" cy="484.5" r="5"/>
+						</g>
+					</g>
+				</g>
+				<!--gid = person-2-right-arms-right--><!--component-detected, new component = --><!--$newComponent/@x =
+				--><!--$ball/@cx = 716--><!--$ball/@cy = 383--><!--$socketId =
+					person-2-right-torso-socket-arms-right--><!--$socket/@cx = 749--><!--$socket/@cy = 383--><g id="person-2-right-arms-right" transform="translate(33, 0) rotate(240, 716, 383)">
+					<!--gid = person-2-right-arms-right-lower-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 716--><!--$ball/@cy = 422--><!--$socketId = person-2-right-arms-right-upper-socket--><!--$socket/@cx = 716--><!--$socket/@cy = 411--><g id="person-2-right-arms-right-lower-group" transform="translate(0, -11) rotate(0, 716, 422)">
+						<!--gid = person-2-right-arms-right-hand-group--><!--component-detected, new component = --><!--$newComponent/@x = --><!--$ball/@cx = 716--><!--$ball/@cy = 466--><!--$socketId = person-2-right-arms-right-lower-socket--><!--$socket/@cx = 716--><!--$socket/@cy = 455--><g id="person-2-right-arms-right-hand-group" transform="translate(0, -11) rotate(0, 716, 466)">
+							<g id="person-2-right-arms-right-hand">
+								<path id="person-2-right-arms-right-hand-shape" class="person2flesh" d="M716,476.5c1.9,0,3.5-1.6,3.5-3.5v-7          c0-1.9-1.6-3.5-3.5-3.5l0,0c-1.9,0-3.5,1.6-3.5,3.5v7C712.5,474.9,714.1,476.5,716,476.5L716,476.5z"/>
+							</g>
+							<circle id="person-2-right-arms-right-hand-ball" class="ball" cx="716" cy="466" r="4"/>
+						</g>
+						<g id="person-2-right-arms-right-lower">
+							<path id="person-2-right-arms-right-lower-shape" class="cricketclothes" d="M716.1,458.5c1.9,0,3.4-1.4,3.4-3.1v-33.8         c0-1.7-1.5-3.1-3.4-3.1h-0.3c-1.9,0-3.4,1.4-3.4,3.1v33.8c0,1.7,1.5,3.1,3.4,3.1H716.1z"/>
+						</g>
+						<circle id="person-2-right-arms-right-lower-ball" class="ball" cx="716" cy="422" r="4"/>
+						<g id="person-2-right-arms-right-lower-socket">
+							<circle class="socket" cx="716" cy="455" r="4"/>
+						</g>
+					</g>
+					<g id="person-2-right-arms-right-upper">
+						<path id="person-2-right-arms-right-upper-shape" class="cricketclothes" d="M716.1,414.5c1.9,0,3.4-1.2,3.4-2.7v-29.6        c0-1.5-1.5-2.7-3.4-2.7h-0.3c-1.9,0-3.4,1.2-3.4,2.7v29.6c0,1.5,1.5,2.7,3.4,2.7H716.1z"/>
+					</g>
+					<circle id="person-2-right-arms-right-upper-ball" class="ball" cx="716" cy="383" r="4"/>
+					<g id="person-2-right-arms-right-upper-socket">
+						<circle class="socket" cx="716" cy="411" r="4"/>
+					</g>
+				</g>
+			</g>
+	</g>
+		<g id="cricket-bat-left" transform="translate(360, -895)">
+			<g transform="translate(350, 1235) rotate(-75) translate(-350, -1235)">
+				<path class="cricketbathandle" d="M350,1236L350,1236c1.1,0,2-0.9,2-2v-21c0-1.1-0.9-2-2-2l0,0c-1.1,0-2,0.9-2,2v21
+					C348,1235.1,348.9,1236,350,1236z"/>
+				<path class="cricketbatwillow" d="M349,1234h2c1.1,0,2,0.8,2,1.8l2,54.7c0,1-2.9,5.5-4,5.5h-2c-1.1,0-2-0.8-2-1.8v-58.4
+					C347,1234.8,347.9,1234,349,1234z"/>
+			</g>
+		</g>
+
+</g>
+<g id="Spectator">
+</g>
+<g id="Foreground">
+	<path class="furniture" d="M640,485c-10,3,3,46-15,51s-29-16-29-16s0,0-5,14c-3.6,10.1,6.8,14.5,21.9,15.4V560h10.6v-10.5
+		c2.8-0.1,5.6-0.3,8.4-0.5c24-2,24-56,24-56h37v67h11v-67h46.7v67H763v-67h43v67h13v-67h44v67h15v-67h45v67h12v-67h25v-13
+		C960,480,650,482,640,485z"/>
+	<path class="furniture" d="M579,493c0-11.6-51.5-21-115-21s-115,9.4-115,21c0,11,46.7,20.1,106.1,20.9
+		c-0.2,21.4-1.8,46.1-12.1,46.1c7.8,0,29,0,29,0s-5.5-26.4-6.9-46C528.1,513.9,579,504.5,579,493z"/>
+	<g class="alcohol"><!-- add class alcohol to object -->
+		<path class="winebottle" d="M495.6,443.2c0,0,0-0.1,0-0.1v-5c0-1.2-1-2.1-2.1-2.1c-1.2,0-2.1,1-2.1,2.1v4.9
+			c-3.9,0.8-6.9,4.4-6.9,8.6v32.2c0,4.8,3.9,8.8,8.8,8.8h0c4.8,0,8.8-3.9,8.8-8.8v-32.2C501.9,447.7,499.2,444.3,495.6,443.2z"/>
+		<path class="bottlecap" d="M493.5,438.6L493.5,438.6c-1.2,0-2.1-1-2.1-2.1v-5c0-1.2,1-2.1,2.1-2.1l0,0c1.2,0,2.1,1,2.1,2.1v5
+			C495.6,437.6,494.6,438.6,493.5,438.6z"/>
+	</g>
+	<g class="alcohol"><!-- add class alcohol to object -->
+		<path class="wineglass" d="M516.9,481.3c-0.1-1.7,0-3.8,0-4.9c-0.1-1.1,0.6-3.1,1.1-4.6c3.5-0.8,6.1-3.9,6.1-7.6
+			c0-0.7-0.1-1.4-0.3-2.1c-0.9-1.1-3.9-2-7.5-2s-6.5,0.8-7.5,2c-0.2,0.7-0.3,1.4-0.3,2.1c0,3.5,2.3,6.5,5.5,7.4
+			c0.5,1.5,1.2,3.7,1.2,4.8c0,1,0.1,3.2,0,4.9c-4,0.2-7,1.3-7,2.7c0,1.5,3.6,2.7,8.1,2.7s8.1-1.2,8.1-2.7
+			C524.5,482.6,521.1,481.4,516.9,481.3z"/>
+		<ellipse class="wine" cx="516.4" cy="465.2" rx="7.5" ry="2.7"/>
+	</g>
+</g>
+</svg>

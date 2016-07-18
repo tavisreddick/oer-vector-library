@@ -1,0 +1,2 @@
+﻿<%@ Page Language="VB" ContentType="image/svg+xml" AutoEventWireup="false" CodeFile="svgmachine.aspx.vb" Inherits="svg_component_custom_svgmachine" debug="true" %>
+<asp:Xml ID="xmlSVG" runat="server" />
