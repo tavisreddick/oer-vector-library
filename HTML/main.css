@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+figure {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	border: solid 1px #221100;
+	background-color: #FFEEDD;
+}
+
+.ball {
+	display: none;
+}
+.socket {
+	display: none;
+}
