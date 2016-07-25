@@ -668,6 +668,8 @@
       <li>Faces, expressions, hand shapes and other significant details are outside the scope of this demo.</li>
       <li>Circles with red and green dashed circumferences representing ball and socket joints are likely still visible in some cases, caused by some objects losing their style names in Illustrator. I haven't got round to cleaning up the code so they are automatically hidden. Nevertheless, they form a crucial part of the infrastructure for connecting heads and limbs, and rotating them around the correct point, so they are interesting to show.</li>
     </ol>
-  <p>Last updated: <time>2016-07-25</time>.</p>
+  <p><a href="https://github.com/sleepingdog/oer-vector-library">Source code on Github</a>.</p>
+  <p>Last updated: 
+    <time>2016-07-25</time>.</p>
 </asp:Content>
 

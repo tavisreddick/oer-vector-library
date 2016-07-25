@@ -12,8 +12,10 @@
 	.person3suit{fill:#9990AA;stroke:#CCC0FF;stroke-miterlimit:10;}
 	.person3flesh{fill:#996633;stroke:#603813;stroke-miterlimit:10;}
 	.person3hair{fill:#220011;}
-	.socket{fill:none;stroke:#FF0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.9803,0.9803;}
-	.ball{opacity:0.9;fill:none;stroke:#33FF66;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1;enable-background:new    ;}
+	.swivelchair{fill:#0071BC;stroke:#1B1464;stroke-miterlimit:10;}
+	.wheel{stroke:#666666;stroke-miterlimit:10;}
+	.socket{display:none;}
+	.ball{display:none;}
 </style>
 <g id="Interviewers">
 	<g id="person-1-front" transform="translate(-100, -5)">
@@ -324,23 +326,19 @@
 						<g id="person-me-back-legs-left-lower-group" transform="translate(0, -13) rotate(0, 465.5, 197.5)">
 							<g id="person-me-back-legs-left-foot-group" transform="translate(0, -17) rotate(0, 465.5, 256.5)">
 								<g id="person-me-back-legs-left-foot">
-									<path id="person-me-back-legs-left-foot-shape" class="personmeflesh" d="M280.5,234.5c0,2.8,2.2,2,5,2l0,0
-										c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V234.5z"/>
+									<path id="person-me-back-legs-left-foot-shape" class="personmeflesh" d="M280.5,200.5c0,2.8,2.2,2,5,2l0,0
+										c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V200.5z"/>
 								</g>
-								<circle id="person-me-back-legs-left-foot-ball" class="ball" cx="285.5" cy="231.5" r="5"/>
+								<circle id="person-me-back-legs-left-foot-ball" class="ball" cx="285.5" cy="197.5" r="5"/>
 							</g>
 							<g id="person-me-back-legs-left-lower">
-								<path id="person-me-back-legs-left-lower-shape" class="personmeclothes" d="M290.5,214.5c0,2.8-2.2,5-5,5l0,0
-									c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V214.5z"/>
+								<path id="person-me-back-legs-left-lower-shape" class="personmeclothes" d="M290.5,180.5c0,2.8-2.2,5-5,5l0,0
+									c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V180.5z"/>
 							</g>
-							<circle id="person-me-back-legs-left-lower-ball" class="ball" cx="285.5" cy="172.5" r="5"/>
+							<circle id="person-me-back-legs-left-lower-ball" class="ball" cx="285.5" cy="138.5" r="5"/>
 							<g id="person-me-back-legs-left-lower-socket">
-								<circle class="socket" cx="285.5" cy="214.5" r="5"/>
+								<circle class="socket" cx="285.5" cy="180.5" r="5"/>
 							</g>
-						</g>
-						<g id="person-me-back-legs-left-upper">
-							<path id="person-me-back-legs-left-upper-shape" class="personmeclothes" d="M290.5,159.5c0,2.8-2.2,5-5,5l0,0
-								c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V159.5z"/>
 						</g>
 						<circle id="person-me-back-legs-left-upper-right-ball" class="ball" cx="285.5" cy="121.5" r="5"/>
 						<g id="person-me-back-legs-left-upper-socket">
@@ -353,23 +351,19 @@
 						<g id="person-me-back-legs-right-lower-group" transform="translate(0, -13) rotate(0, 465.5, 197.5)">
 							<g id="person-me-back-legs-right-foot-group" transform="translate(0, -17) rotate(0, 465.5, 256.5)">
 								<g id="person-me-back-legs-right-foot">
-									<path id="person-me-back-legs-right-foot-shape" class="personmeflesh" d="M310.5,234.5c0,2.8,2.2,2,5,2l0,0
-										c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V234.5z"/>
+									<path id="person-me-back-legs-right-foot-shape" class="personmeflesh" d="M310.5,200.5c0,2.8,2.2,2,5,2l0,0
+										c2.8,0,5,0.8,5-2v-3c0-2.8-2.2-5-5-5l0,0c-2.8,0-5,2.2-5,5V200.5z"/>
 								</g>
-								<circle id="person-me-back-legs-right-foot-ball" class="ball" cx="315.5" cy="231.5" r="5"/>
+								<circle id="person-me-back-legs-right-foot-ball" class="ball" cx="315.5" cy="197.5" r="5"/>
 							</g>
 							<g id="person-me-back-legs-right-lower">
-								<path id="person-me-back-legs-right-lower-shape" class="personmeclothes" d="M320.5,214.5c0,2.8-2.2,5-5,5l0,0
-									c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V214.5z"/>
+								<path id="person-me-back-legs-right-lower-shape" class="personmeclothes" d="M320.5,180.5c0,2.8-2.2,5-5,5l0,0
+									c-2.8,0-5-2.2-5-5v-42c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V180.5z"/>
 							</g>
-							<circle id="person-me-back-legs-right-lower-ball" class="ball" cx="315.5" cy="172.5" r="5"/>
+							<circle id="person-me-back-legs-right-lower-ball" class="ball" cx="315.5" cy="138.5" r="5"/>
 							<g id="person-me-back-legs-right-lower-socket">
-								<circle class="socket" cx="315.5" cy="214.5" r="5"/>
+								<circle class="socket" cx="315.5" cy="180.5" r="5"/>
 							</g>
-						</g>
-						<g id="person-me-back-legs-right-upper">
-							<path id="person-me-back-legs-right-upper-shape" class="personmeclothes" d="M320.5,159.5c0,2.8-2.2,5-5,5l0,0
-								c-2.8,0-5-2.2-5-5v-38c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V159.5z"/>
 						</g>
 						<circle id="person-me-back-legs-right-upper-right-ball" class="ball" cx="315.5" cy="121.5" r="5"/>
 						<g id="person-me-back-legs-right-upper-socket">
@@ -502,6 +496,19 @@
 			</g>
 		</g>
 	</g>
-
+	<g id="chair">
+		<path class="swivelchair" d="M320.9,110.5h-41.7c-1.5,0-2.8,1.2-2.8,2.8l0,0c0,1.5,1.2,2.8,2.8,2.8h41.7c1.5,0,2.8-1.2,2.8-2.8
+			l0,0C323.6,111.7,322.4,110.5,320.9,110.5z"/>
+		<rect x="297.3" y="116" class="swivelchair" width="5.5" height="33"/>
+		<path class="swivelchair" d="M316.6,82.5h-33.1c-3.8,0-7,3.1-7,7v0c0,3.8,3.1,7,7,7h33.1c3.9,0,7-3.1,7-7v0
+			C323.6,85.6,320.5,82.5,316.6,82.5z"/>
+		<rect x="304.9" y="96.5" class="swivelchair" width="2.4" height="14.5"/>
+		<rect x="292.9" y="96.5" class="swivelchair" width="2.4" height="14.5"/>
+		<rect x="276.4" y="147.8" class="swivelchair" width="47.2" height="2.5"/>
+		<path class="wheel" d="M320,151L320,151c-0.7,0-1.2,0.6-1.2,1.2v4c0,0.7,0.6,1.2,1.2,1.2l0,0c0.7,0,1.2-0.6,1.2-1.2v-4
+			C321.2,151.6,320.7,151,320,151z"/>
+		<path class="wheel" d="M280,151L280,151c-0.7,0-1.2,0.6-1.2,1.2v4c0,0.7,0.6,1.2,1.2,1.2l0,0c0.7,0,1.2-0.6,1.2-1.2v-4
+			C281.2,151.6,280.7,151,280,151z"/>
+	</g>
 </g>
 </svg>
