@@ -16,7 +16,28 @@ Partial Class svg_component_custom_svgmachine
 		Dim strSvgGraphicPath As String = strApplicationRoot + Request.QueryString("graphic") ' such as "scene.svg" 
 		' Take the alternate library set from the query string parameter.
 		Dim strReplacementSetUrl As String = strApplicationRoot + Request.QueryString("set") ' such as "cricketers.svg" or "rollergirls.svg"
-		' 
+		' Get personalisation styles from query string parameters
+		' &flesh=#E2CCCC&hair=#778899&hat=#FFF5EE&clothes=#F5DEB3&head=1
+		Dim strFlesh As String = Request.QueryString("flesh") ' such as #E2CCCC
+		Dim strHair As String = Request.QueryString("hair") ' such as #778899
+		Dim strHat As String = Request.QueryString("hat") ' such as #FFF5EE
+		Dim strClothes As String = Request.QueryString("clothes") ' such as #F5DEB3
+		Dim intHead As Integer = CInt(Request.QueryString("head"))
+		
+		' Create personalisation style sheet
+		Dim strPersonMeStyles As String = ".personmeflesh{fill:" & strFlesh & ";stroke:#B49999;stroke-miterlimit:10;}" & vbCrlf & _
+		".personmehair{fill:" & strHair & ";stroke:#6A4058;}" & vbCrlf & _
+		".personmehat{fill:" & strHat & ";stroke:#66666B;stroke-miterlimit:10;}" & vbCrlf & _
+		".personmeclothes{fill:" & strClothes & ";stroke:#CCC0C0;stroke-miterlimit:10;}"
+		For head = 1 to 4
+			If head = intHead Then 'make selected head style visible
+				strPersonMeStyles &= vbCrlf & "/* head style " & CStr(intHead) & " */" & vbCrlf
+			Else 'hide non-selected head styles
+				strPersonMeStyles &= vbCrlf & "#person-me-front-head-option-" & CStr(head) & ", #person-me-back-head-option-" & CStr(head) & ", #person-me-right-head-option-" & CStr(head) & _
+					" {display: none;}" & vbCrlf
+			End If
+		Next head
+ 		
 		Dim booAlcohol As Boolean
 		If Request.QueryString("alcohol") = "true" Or Request.QueryString("alcohol") Is Nothing Then
 			booAlcohol = True
@@ -67,6 +88,7 @@ Partial Class svg_component_custom_svgmachine
 		Dim argList2 As XsltArgumentList = New XsltArgumentList()
 		argList2.AddParam("alcohol", "", booAlcohol)
 		argList2.AddParam("meat", "", booMeat)
+		argList2.AddParam("personstyles", "", strPersonMeStyles)
 		xctTransform2.Transform(xpdDoc1, argList2, ms2)
 		ms2.Seek(0, SeekOrigin.Begin)
 		Dim xpdDoc2 As XPathDocument = New XPathDocument(ms2)

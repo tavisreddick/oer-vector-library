@@ -17,6 +17,7 @@
 	<xsl:include href="copy.xslt" />	
 	<xsl:param name="alcohol" as="xs:boolean" select="true()" /><!-- false: remove alcohol -->
 	<xsl:param name="meat" as="xs:boolean" select="true()" /><!-- false: remove meat -->
+	<xsl:param name="personstyles" as="xs:string" select="''" />
 	<xsl:template match="/">
 		<xsl:apply-templates />
 	</xsl:template>
@@ -31,5 +32,17 @@
 	<!--<xsl:template match="svg:*[@class = 'meat'][$meat = false()]" />-->
 	<xsl:template match="svg:*[@class = 'meat']">
 		<xsl:if test="$meat = true()"><xsl:copy-of select="." /></xsl:if>
+	</xsl:template>
+	<xsl:template match="svg:style">
+		<xsl:copy>
+			<xsl:attribute name="type"><xsl:text>text/css</xsl:text></xsl:attribute> 
+			<xsl:value-of select="text()"/>
+			<xsl:text>
+	/* hide joint objects */
+	.ball{display: none;}
+	.socket{display: none;}
+			</xsl:text>
+			<xsl:value-of select="$personstyles"/>
+		</xsl:copy>
 	</xsl:template>
 </xsl:stylesheet>

@@ -6,9 +6,15 @@ figure {
 	background-color: #FFEEDD;
 }
 
+label {
+	display: inline-block;
+}
+
+/* SVG styles */
 .ball {
 	display: none;
 }
 .socket {
 	display: none;
 }
+
